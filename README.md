@@ -197,13 +197,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Farhad Chowdhury
-Antara Labiba
+Farhad Chowdhury,
+Antara Labiba,
 Hasib Abdullah Zidan
 ---
 
-## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub and support the repository!
-
----
