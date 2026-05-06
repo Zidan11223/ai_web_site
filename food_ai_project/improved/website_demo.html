@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart Food Recommendation</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --text:#f8fafc;
+  --muted:#b6c2d2;
+  --card-text:#172033;
+  --orange1:#fb923c;
+  --orange2:#f97316;
+  --green1:#10b981;
+  --green2:#34d399;
+  --shadow:0 18px 50px rgba(0,0,0,0.35);
+  --ease:280ms ease;
+}
+
+*{box-sizing:border-box}
+
+html,body{
+  margin:0;
+  min-height:100%;
+  font-family:'Inter',sans-serif;
+  color:var(--text);
+}
+
+body{
+  background:
+    radial-gradient(circle at 10% 10%, rgba(249,115,22,0.18), transparent 26%),
+    radial-gradient(circle at 90% 10%, rgba(56,189,248,0.18), transparent 24%),
+    linear-gradient(180deg, rgba(8,12,24,0.9), rgba(8,12,24,0.96)),
+    url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80') center/cover fixed no-repeat;
+  overflow-x:hidden;
+}
+
+.page{
+  position:relative;
+  z-index:1;
+  max-width:1240px;
+  margin:0 auto;
+  padding:24px;
+}
+
+.glass{
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.1);
+  backdrop-filter:blur(18px);
+  -webkit-backdrop-filter:blur(18px);
+  box-shadow:var(--shadow);
+  border-radius:28px;
+}
+
+.hero{
+  display:grid;
+  grid-template-columns:1.2fr .8fr;
+  gap:22px;
+}
+
+.hero-main{
+  padding:34px;
+  min-height:250px;
+  animation:fadeUp .7s ease both;
+}
+
+.brand{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  margin-bottom:18px;
+}
+
+.brand-badge{
+  width:48px;
+  height:48px;
+  display:grid;
+  place-items:center;
+  border-radius:16px;
+  background:linear-gradient(135deg,var(--orange1),var(--orange2));
+  box-shadow:0 10px 26px rgba(249,115,22,.4);
+  font-size:1.4rem;
+}
+
+.brand-tag{
+  padding:10px 14px;
+  border-radius:999px;
+  background:rgba(255,255,255,0.1);
+  border:1px solid rgba(255,255,255,0.12);
+  font-weight:700;
+  font-size:.92rem;
+}
+
+.pill-row,.stats{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+}
+
+.pill{
+  padding:9px 14px;
+  border-radius:999px;
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.1);
+  color:#fff;
+  font-weight:600;
+  font-size:.9rem;
+}
+
+h1{
+  margin:16px 0 12px;
+  font-size:clamp(2rem, 4vw, 3.7rem);
+  line-height:1.02;
+  letter-spacing:-0.04em;
+}
+
+.hero p{
+  margin:0;
+  color:var(--muted);
+  line-height:1.75;
+  max-width:700px;
+}
+
+.stats{margin-top:22px}
+
+.stat-box{
+  min-width:135px;
+  padding:14px 16px;
+  border-radius:18px;
+  background:rgba(255,255,255,0.08);
+}
+
+.stat-box strong{
+  display:block;
+  font-size:1.18rem;
+  margin-bottom:4px;
+}
+
+.side-panel{
+  padding:24px;
+}
+
+.weather-status{
+  border-radius:24px;
+  padding:22px;
+  background:linear-gradient(180deg, rgba(17,33,60,.88), rgba(14,25,45,.82));
+  border:1px solid rgba(96,165,250,0.14);
+}
+
+.weather-topbar{
+  display:flex;
+  justify-content:space-between;
+  gap:14px;
+  margin-bottom:16px;
+  flex-wrap:wrap;
+}
+
+.weather-title-inline{
+  margin:0;
+  font-size:1.05rem;
+  font-weight:800;
+}
+
+.weather-mini-text{
+  margin:7px 0 0;
+  color:#bfd0e6;
+  line-height:1.65;
+  font-size:.92rem;
+}
+
+.weather-badge{
+  padding:8px 14px;
+  border-radius:999px;
+  background:rgba(59,130,246,.14);
+  border:1px solid rgba(96,165,250,.18);
+  color:#97c4ff;
+  font-weight:700;
+  font-size:.84rem;
+}
+
+.detect-btn{
+  width:100%;
+  border:none;
+  cursor:pointer;
+  border-radius:18px;
+  padding:15px 18px;
+  color:#fff;
+  font-size:.98rem;
+  font-weight:800;
+  background:linear-gradient(135deg, rgba(31,90,190,.55), rgba(79,70,229,.65));
+  box-shadow:0 14px 28px rgba(37,99,235,.22);
+}
+
+.detect-btn:disabled{
+  opacity:.7;
+  cursor:not-allowed;
+}
+
+.weather-cards-grid{
+  margin-top:16px;
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:12px;
+}
+
+.weather-info-card{
+  padding:16px;
+  border-radius:18px;
+  background:rgba(255,255,255,0.05);
+  border:1px solid rgba(255,255,255,0.08);
+}
+
+.weather-info-card span{
+  display:block;
+  color:#adc1da;
+  font-size:.86rem;
+  margin-bottom:8px;
+}
+
+.weather-info-card strong{
+  display:block;
+  font-size:1.02rem;
+}
+
+.weatherInfoBox{
+  margin-top:14px;
+  padding:14px 16px;
+  border-radius:16px;
+  background:rgba(255,255,255,0.05);
+  border:1px solid rgba(255,255,255,0.08);
+  color:#d4dfed;
+  line-height:1.7;
+}
+
+.main-grid{
+  display:grid;
+  grid-template-columns:400px 1fr;
+  gap:22px;
+  margin-top:22px;
+}
+
+.panel{
+  padding:24px;
+  border-radius:28px;
+}
+
+.panel-dark{
+  background:rgba(10,19,35,0.72);
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow:var(--shadow);
+  backdrop-filter:blur(16px);
+}
+
+.panel-light{
+  background:rgba(255,255,255,.95);
+  color:var(--card-text);
+  box-shadow:0 18px 40px rgba(0,0,0,.18);
+}
+
+.heading{
+  margin:0;
+  font-size:1.24rem;
+  font-weight:800;
+}
+
+.subheading{
+  margin:8px 0 0;
+  color:var(--muted);
+  line-height:1.65;
+  font-size:.94rem;
+}
+
+.panel-light .heading,
+.panel-light .subheading,
+.panel-light .small-note{
+  color:var(--card-text);
+}
+
+.form-grid{
+  display:grid;
+  gap:16px;
+  margin-top:22px;
+}
+
+.field{
+  display:grid;
+  gap:8px;
+}
+
+.field label{
+  font-size:.92rem;
+  font-weight:700;
+}
+
+select,input{
+  width:100%;
+  border:none;
+  outline:none;
+  padding:15px 16px;
+  border-radius:16px;
+  background:rgba(255,255,255,0.08);
+  color:#fff;
+  font-size:.98rem;
+}
+
+select option{
+  color:#111827;
+}
+
+.actions{
+  display:grid;
+  gap:12px;
+  margin-top:14px;
+}
+
+.btn{
+  border:none;
+  cursor:pointer;
+  width:100%;
+  padding:15px 18px;
+  border-radius:18px;
+  font-weight:800;
+  font-size:.98rem;
+}
+
+.btn-primary{
+  color:#fff;
+  background:linear-gradient(135deg,var(--orange1),var(--orange2),#ffb347);
+  box-shadow:0 16px 34px rgba(249,115,22,.28);
+}
+
+.weather-detect-card{
+  margin-top:18px;
+  padding:18px;
+  border-radius:22px;
+  background:linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0.04));
+  border:1px solid rgba(255,255,255,0.08);
+}
+
+.weather-detect-title{
+  font-size:.95rem;
+  font-weight:700;
+}
+
+.weather-detect-subtitle{
+  font-size:.82rem;
+  color:var(--muted);
+  margin-top:4px;
+}
+
+.detect-status{
+  margin-top:12px;
+  padding:13px 14px;
+  border-radius:14px;
+  font-size:.9rem;
+  line-height:1.6;
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.08);
+}
+
+.detect-status.loading{
+  background:linear-gradient(90deg, rgba(255,255,255,0.08) 25%, rgba(255,255,255,0.16) 37%, rgba(255,255,255,0.08) 63%);
+  background-size:400% 100%;
+  animation:shimmer 1.2s linear infinite;
+}
+
+.detect-result{
+  margin-top:14px;
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:12px;
+}
+
+.detect-result-card{
+  padding:14px;
+  border-radius:16px;
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.08);
+}
+
+.detect-result-card span{
+  display:block;
+  font-size:.78rem;
+  color:var(--muted);
+  margin-bottom:6px;
+}
+
+.result-top{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:16px;
+  margin-bottom:18px;
+}
+
+.result-chip{
+  padding:10px 14px;
+  border-radius:999px;
+  background:#fff2e8;
+  color:#9a3412;
+  font-weight:700;
+  font-size:.86rem;
+}
+
+.result-grid{
+  display:grid;
+  gap:16px;
+}
+
+.food-card{
+  display:grid;
+  grid-template-columns:180px 1fr auto;
+  gap:18px;
+  align-items:center;
+  background:linear-gradient(135deg, rgba(255,255,255,0.99), rgba(255,248,242,0.96));
+  border:1px solid rgba(255,122,24,0.12);
+  border-radius:22px;
+  padding:16px;
+  box-shadow:0 12px 28px rgba(15,23,42,0.08);
+}
+
+.food-image-wrap{
+  position:relative;
+}
+
+.food-card img{
+  width:100%;
+  height:130px;
+  object-fit:cover;
+  border-radius:18px;
+  display:block;
+  background:#f3f4f6;
+}
+
+.rank-badge{
+  position:absolute;
+  top:10px;
+  left:10px;
+  padding:7px 10px;
+  border-radius:999px;
+  background:rgba(15,23,42,.74);
+  color:#fff;
+  font-size:.76rem;
+  font-weight:700;
+}
+
+.food-card h3{
+  margin:0 0 10px;
+  color:#0f172a;
+  font-size:1.18rem;
+}
+
+.food-meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-top:8px;
+}
+
+.food-meta span{
+  padding:8px 10px;
+  border-radius:12px;
+  background:#fff7ed;
+  color:#9a3412;
+  font-size:.83rem;
+  font-weight:600;
+}
+
+.food-score{
+  text-align:right;
+  min-width:110px;
+}
+
+.score-ring{
+  width:84px;
+  height:84px;
+  margin-left:auto;
+  border-radius:50%;
+  display:grid;
+  place-items:center;
+  background:conic-gradient(#fb923c 0deg, #f59e0b var(--scoreDeg, 220deg), #fde7cf var(--scoreDeg, 220deg), #fde7cf 360deg);
+  position:relative;
+}
+
+.score-ring::before{
+  content:"";
+  position:absolute;
+  inset:8px;
+  border-radius:50%;
+  background:#fff;
+}
+
+.score-ring strong{
+  position:relative;
+  z-index:1;
+  color:#9a3412;
+  font-size:1rem;
+}
+
+.badge{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  margin-top:10px;
+  padding:8px 12px;
+  border-radius:999px;
+  background:linear-gradient(135deg,var(--green1),var(--green2));
+  color:white;
+  font-size:.8rem;
+  font-weight:700;
+}
+
+.empty-state,
+.status-message{
+  border-radius:20px;
+  padding:22px;
+  background:#fff7ed;
+  border:1px dashed rgba(234,88,12,0.24);
+  color:#9a3412;
+  line-height:1.7;
+}
+
+.footer-note{
+  text-align:center;
+  color:rgba(255,255,255,0.72);
+  margin:22px 0 8px;
+  font-size:.88rem;
+}
+
+@keyframes shimmer{
+  0%{background-position:100% 0}
+  100%{background-position:-100% 0}
+}
+
+@keyframes fadeUp{
+  from{opacity:0;transform:translateY(22px)}
+  to{opacity:1;transform:translateY(0)}
+}
+
+@media (max-width:1080px){
+  .hero,.main-grid{grid-template-columns:1fr}
+}
+
+@media (max-width:720px){
+  .page{padding:16px}
+  .hero-main,.side-panel,.panel{padding:20px}
+  .weather-cards-grid,
+  .detect-result{grid-template-columns:1fr}
+  .food-card{grid-template-columns:1fr}
+  .food-score{text-align:left}
+  .score-ring{margin-left:0}
+  h1{font-size:2.2rem}
+}
+</style>
+</head>
+
+<body>
+<div class="page">
+
+<section class="hero">
+  <div class="hero-main glass">
+    <div class="brand">
+      <div class="brand-badge">🍽️</div>
+      <div class="brand-tag">Smart Food Finder</div>
+    </div>
+
+    <div class="pill-row">
+      <span class="pill">Weather-aware</span>
+      <span class="pill">Budget-smart</span>
+      <span class="pill">Meal-time optimized</span>
+    </div>
+
+    <h1>Beautiful food picks for every mood, weather, and moment.</h1>
+    <p>
+      Enjoy a smarter recommendation experience with dynamic weather visuals,
+      elegant controls, polished food cards, and real app-like animation.
+    </p>
+
+    <div class="stats">
+      <div class="stat-box">
+        <strong id="heroWeather">Sunny</strong>
+        <span>Current theme</span>
+      </div>
+      <div class="stat-box">
+        <strong id="heroMeal">Lunch</strong>
+        <span>Suggested meal time</span>
+      </div>
+      <div class="stat-box">
+        <strong id="heroCount">0</strong>
+        <span>Recommendations shown</span>
+      </div>
+    </div>
+  </div>
+
+  <aside class="side-panel glass">
+    <div class="weather-status">
+      <div class="weather-topbar">
+        <div>
+          <h3 class="weather-title-inline">☁ Live Weather Overview</h3>
+          <p class="weather-mini-text">Get real-time weather updates for your current location.</p>
+        </div>
+        <span class="weather-badge" id="metaStatusBadge">Ready</span>
+      </div>
+
+      <button id="detectBtnTop" class="detect-btn" onclick="detectWeather()">
+        📍 Detect My Location Weather
+      </button>
+
+      <div class="weather-cards-grid">
+        <div class="weather-info-card">
+          <span>📍 Location</span>
+          <strong id="metaLocation">Unknown</strong>
+        </div>
+        <div class="weather-info-card">
+          <span>🌡 Temperature</span>
+          <strong id="metaTemp">-- °C</strong>
+        </div>
+        <div class="weather-info-card">
+          <span>☁ Condition</span>
+          <strong id="metaCondition">Not detected</strong>
+        </div>
+        <div class="weather-info-card">
+          <span>✅ Status</span>
+          <strong id="metaStatus">Ready</strong>
+        </div>
+      </div>
+
+      <div id="weatherInfo" class="weatherInfoBox">
+        Tap "Detect My Location Weather" to update your live weather.
+      </div>
+    </div>
+  </aside>
+</section>
+
+<section class="main-grid">
+  <div class="panel panel-dark">
+    <h2 class="heading">Customize your recommendation</h2>
+    <p class="subheading">Choose weather, time, budget, and number of suggestions.</p>
+
+    <div class="form-grid">
+      <div class="field">
+        <label for="weather">Weather</label>
+        <select id="weather">
+          <option>Sunny</option>
+          <option>Rainy</option>
+          <option>Cloudy</option>
+          <option>Cold</option>
+          <option>Hot</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="day_time">Time of Day</label>
+        <select id="day_time">
+          <option>Breakfast</option>
+          <option>Lunch</option>
+          <option>Dinner</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="price">Budget</label>
+        <input type="number" id="price" value="150" min="0" placeholder="Enter your budget">
+      </div>
+
+      <div class="field">
+        <label for="top_n">Suggestions</label>
+        <select id="top_n">
+          <option>3</option>
+          <option selected>5</option>
+          <option>7</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="actions">
+      <div class="weather-detect-card">
+        <div class="weather-detect-title">Auto Weather Detection</div>
+        <div class="weather-detect-subtitle">Use the top weather panel button for live weather detection.</div>
+
+        <div id="detectStatus" class="detect-status">
+          No lower button here. Use the top weather panel to detect live weather.
+        </div>
+
+        <div class="detect-result">
+          <div class="detect-result-card">
+            <span>Location</span>
+            <strong id="detectLocation">Unknown</strong>
+          </div>
+          <div class="detect-result-card">
+            <span>Temperature</span>
+            <strong id="detectTemp">-- °C</strong>
+          </div>
+          <div class="detect-result-card">
+            <span>Condition</span>
+            <strong id="detectCondition">Not detected</strong>
+          </div>
+        </div>
+      </div>
+
+      <button class="btn btn-primary" onclick="getSuggestion()">✨ Get Smart Recommendation</button>
+    </div>
+  </div>
+
+  <div class="panel panel-light">
+    <div class="result-top">
+      <div>
+        <h2 class="heading">Your recommendations</h2>
+        <p class="subheading">Fresh, stylish, and easy to scan.</p>
+      </div>
+      <div class="result-chip" id="resultSummary">No results yet</div>
+    </div>
+
+    <div id="result">
+      <div class="empty-state">
+        Your recommended dishes will appear here with price, category, and score.
+      </div>
+    </div>
+
+    <div class="small-note">Tip: Use auto detect first for a more personalized result.</div>
+  </div>
+</section>
+
+<div class="footer-note">Designed for the smarter. Improve your taste.</div>
+</div>
+
+<script>
+const API_BASE =
+  window.location.hostname === "127.0.0.1" || window.location.hostname === "localhost"
+    ? "http://127.0.0.1:5000"
+    : "";
+
+const weatherBackgrounds = {
+  Sunny: "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=1600&q=80",
+  Rainy: "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1600&q=80",
+  Cloudy: "https://images.unsplash.com/photo-1503437313881-503a91226402?auto=format&fit=crop&w=1600&q=80",
+  Cold: "https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1600&q=80",
+  Hot: "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=1600&q=80"
+};
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+function updateBackground(weather) {
+  const img = weatherBackgrounds[weather] || weatherBackgrounds.Sunny;
+  document.body.style.background = `
+    radial-gradient(circle at top left, rgba(255, 122, 24, 0.18), transparent 30%),
+    radial-gradient(circle at top right, rgba(56, 189, 248, 0.16), transparent 28%),
+    linear-gradient(rgba(6, 10, 20, 0.46), rgba(6, 10, 20, 0.7)),
+    url('${img}') center/cover fixed no-repeat
+  `;
+  document.getElementById("heroWeather").textContent = weather;
+}
+
+function getCurrentMealTime() {
+  const hour = new Date().getHours();
+  if (hour >= 5 && hour < 11) return "Breakfast";
+  if (hour >= 11 && hour < 17) return "Lunch";
+  return "Dinner";
+}
+
+function updateMealTimeUI() {
+  const meal = getCurrentMealTime();
+  document.getElementById("day_time").value = meal;
+  document.getElementById("heroMeal").textContent = meal;
+}
+
+function updateWeatherStatusUI(statusText, badgeText = statusText) {
+  document.getElementById("metaStatus").textContent = statusText;
+  document.getElementById("metaStatusBadge").textContent = badgeText;
+}
+
+function normalizeScore(score) {
+  const n = Number(score);
+  if (Number.isNaN(n)) return 82;
+  if (n <= 1) return Math.round(n * 100);
+  if (n <= 10) return Math.round(n * 10);
+  return Math.max(0, Math.min(100, Math.round(n)));
+}
+
+async function detectWeather() {
+  const detectBtnTop = document.getElementById("detectBtnTop");
+  const detectStatus = document.getElementById("detectStatus");
+
+  detectBtnTop.disabled = true;
+  detectStatus.className = "detect-status loading";
+  detectStatus.innerHTML = "Detecting your live location and weather...";
+  updateWeatherStatusUI("Detecting", "Detecting");
+
+  if (!navigator.geolocation) {
+    detectStatus.className = "detect-status";
+    detectStatus.innerHTML = "❌ Geolocation is not supported in this browser.";
+    updateWeatherStatusUI("Error", "Error");
+    detectBtnTop.disabled = false;
+    return;
+  }
+
+  navigator.geolocation.getCurrentPosition(async pos => {
+    try {
+      const res = await fetch(`${API_BASE}/current-weather`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          lat: pos.coords.latitude,
+          lon: pos.coords.longitude
+        })
+      });
+
+      const data = await res.json();
+
+      if (!res.ok || data.error) {
+        throw new Error(data.error || "Weather request failed");
+      }
+
+      updateMealTimeUI();
+
+      const weatherLabel = data.weather_label || "Sunny";
+      document.getElementById("weather").value = weatherLabel;
+      updateBackground(weatherLabel);
+
+      const city = data.city || "Detected Location";
+      const temp = data.temp_c ?? "--";
+      const condition = data.main_condition || weatherLabel;
+
+      document.getElementById("metaLocation").textContent = city;
+      document.getElementById("metaTemp").textContent = `${temp} °C`;
+      document.getElementById("metaCondition").textContent = condition;
+      updateWeatherStatusUI("Updated", "Updated");
+
+      document.getElementById("detectLocation").textContent = city;
+      document.getElementById("detectTemp").textContent = `${temp} °C`;
+      document.getElementById("detectCondition").textContent = condition;
+
+      document.getElementById("weatherInfo").innerHTML = `
+        <strong style="color:#fff;">Live weather updated successfully.</strong><br>
+        <span style="color:#cbd5e1;">
+          ${escapeHtml(city)} • ${escapeHtml(temp)} °C • ${escapeHtml(condition)}
+        </span>
+      `;
+
+      detectStatus.className = "detect-status";
+      detectStatus.innerHTML = `✅ Weather detected for <strong>${escapeHtml(city)}</strong>.`;
+
+    } catch (error) {
+      console.error(error);
+      detectStatus.className = "detect-status";
+      detectStatus.innerHTML = `❌ Weather output failed: ${escapeHtml(error.message)}`;
+      updateWeatherStatusUI("Error", "Error");
+      document.getElementById("weatherInfo").innerHTML = `
+        <strong style="color:#fff;">Weather update failed.</strong><br>
+        <span style="color:#cbd5e1;">Make sure Flask has the /current-weather route and is running.</span>
+      `;
+    } finally {
+      detectBtnTop.disabled = false;
+    }
+  }, error => {
+    detectStatus.className = "detect-status";
+    detectStatus.innerHTML = `❌ Location permission denied or unavailable. Error code: ${error.code}`;
+    updateWeatherStatusUI("Error", "Error");
+    detectBtnTop.disabled = false;
+  }, {
+    enableHighAccuracy: true,
+    timeout: 15000,
+    maximumAge: 0
+  });
+}
+
+async function getSuggestion() {
+  const result = document.getElementById("result");
+  const topN = document.getElementById("top_n").value;
+
+  result.innerHTML = '<div class="status-message loading">Preparing your smart food recommendations...</div>';
+  document.getElementById("resultSummary").textContent = "Loading results";
+
+  try {
+    const res = await fetch(`${API_BASE}/recommend`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        weather: document.getElementById("weather").value,
+        day_time: document.getElementById("day_time").value,
+        price: document.getElementById("price").value,
+        top_n: topN
+      })
+    });
+
+    const data = await res.json();
+
+    if (!res.ok || data.error) {
+      result.innerHTML = `<div class="status-message">❌ ${escapeHtml(data.error || "Recommendation failed")}</div>`;
+      document.getElementById("resultSummary").textContent = "Request failed";
+      return;
+    }
+
+    if (!data.recommendations || data.recommendations.length === 0) {
+      result.innerHTML = '<div class="empty-state">No recommendations found.</div>';
+      document.getElementById("resultSummary").textContent = "0 results";
+      document.getElementById("heroCount").textContent = "0";
+      return;
+    }
+
+    document.getElementById("resultSummary").textContent = `${data.recommendations.length} results found`;
+    document.getElementById("heroCount").textContent = String(data.recommendations.length);
+
+    result.innerHTML = `
+      <div class="result-grid">
+        ${data.recommendations.map((f, index) => {
+          const score = normalizeScore(f.score);
+          const deg = Math.round((score / 100) * 360);
+          // ✅ FIX: Use price_range as actual price when f.price is null/N/A
+          const price = (f.price != null && f.price !== "N/A") ? f.price : (f.price_range ?? f.avg_price ?? "N/A");
+
+          return `
+            <article class="food-card">
+              <div class="food-image-wrap">
+                <img src="${escapeHtml(f.food_image || '')}" alt="${escapeHtml(f.food_item)}" onerror="this.src='https://via.placeholder.com/400x280?text=Food+Image';">
+                <div class="rank-badge">Top ${index + 1}</div>
+              </div>
+
+              <div>
+                <h3>${escapeHtml(f.food_item)}</h3>
+
+                <div class="food-meta">
+                  <span>Category: ${escapeHtml(f.category || "Food")}</span>
+                  <span>Price: ${escapeHtml(price)} Tk</span>
+                </div>
+
+                <p style="margin:12px 0 0;color:#475569;line-height:1.7;">
+                  A strong fit for <strong>${escapeHtml(document.getElementById("weather").value)}</strong> weather during
+                  <strong>${escapeHtml(document.getElementById("day_time").value)}</strong>.
+                </p>
+              </div>
+
+              <div class="food-score">
+                <div class="score-ring" style="--scoreDeg:${deg}deg">
+                  <strong>${score}%</strong>
+                </div>
+                <div class="badge">${escapeHtml(f.best_for_today || "Recommended")}</div>
+              </div>
+            </article>
+          `;
+        }).join("")}
+      </div>
+    `;
+  } catch (error) {
+    console.error(error);
+    result.innerHTML = '<div class="status-message">❌ Recommendation server error. Please make sure the Flask API is running.</div>';
+    document.getElementById("resultSummary").textContent = "Server error";
+  }
+}
+
+document.getElementById("weather").addEventListener("change", function() {
+  updateBackground(this.value);
+});
+
+window.onload = () => {
+  updateMealTimeUI();
+  updateBackground(document.getElementById("weather").value);
+  document.getElementById("metaStatusBadge").textContent = "Ready";
+};
+</script>
+
+</body>
+</html>

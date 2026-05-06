@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.env
+OPENAI_API_KEY
+.DS_Store
+
+# optional
+# improved/food_images/
+# improved/generated_images/

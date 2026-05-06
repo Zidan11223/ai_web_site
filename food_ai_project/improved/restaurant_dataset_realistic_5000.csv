@@ -1,0 +1,5001 @@
+food_item,weather,day_time,price
+Paratha & Egg,Sunny,Breakfast,85
+French Toast,Sunny,Breakfast,108
+Pancakes,Sunny,Breakfast,137
+Waffles,Sunny,Breakfast,152
+Omelette,Sunny,Breakfast,92
+Scrambled Eggs,Sunny,Breakfast,89
+Boiled Egg Set,Sunny,Breakfast,73
+Porridge,Sunny,Breakfast,81
+Fruit Bowl,Sunny,Breakfast,117
+Yogurt Parfait,Sunny,Breakfast,130
+Toast & Jam,Sunny,Lunch,65
+Butter Toast,Sunny,Breakfast,49
+Croissant,Sunny,Breakfast,95
+Breakfast Burrito,Sunny,Breakfast,159
+Hash Browns,Sunny,Breakfast,80
+Samosa,Sunny,Breakfast,20
+Singara,Sunny,Breakfast,15
+Vegetable Roll,Sunny,Breakfast,37
+Chicken Sandwich,Sunny,Lunch,150
+Club Sandwich,Sunny,Lunch,156
+Grilled Cheese Sandwich,Sunny,Lunch,126
+Chicken Burger,Sunny,Lunch,161
+Beef Burger,Sunny,Lunch,189
+Veg Burger,Sunny,Dinner,146
+Chicken Shawarma,Sunny,Dinner,175
+Beef Shawarma,Sunny,Lunch,182
+Chicken Wrap,Sunny,Lunch,155
+Caesar Salad,Sunny,Lunch,171
+Greek Salad,Sunny,Lunch,184
+Chicken Caesar Salad,Sunny,Lunch,214
+Fried Rice,Sunny,Lunch,179
+Chicken Fried Rice,Sunny,Lunch,220
+Egg Fried Rice,Sunny,Lunch,176
+Vegetable Fried Rice,Sunny,Lunch,168
+Noodles,Sunny,Lunch,162
+Chicken Noodles,Sunny,Lunch,194
+Vegetable Noodles,Sunny,Lunch,158
+Pasta Alfredo,Sunny,Lunch,229
+Spicy Pasta,Sunny,Lunch,214
+Mac & Cheese,Sunny,Lunch,211
+Chicken Pizza,Sunny,Dinner,268
+Beef Pizza,Sunny,Dinner,296
+Veg Pizza,Sunny,Dinner,236
+Margherita Pizza,Sunny,Dinner,249
+BBQ Chicken Pizza,Sunny,Dinner,304
+Beef Biryani,Sunny,Dinner,234
+Chicken Biryani,Sunny,Dinner,206
+Kacchi Biryani,Sunny,Dinner,289
+Tehari,Sunny,Dinner,180
+Khichuri,Sunny,Dinner,152
+Mutton Curry,Sunny,Dinner,265
+Chicken Curry,Sunny,Dinner,200
+Beef Curry,Sunny,Dinner,221
+Fish Curry,Sunny,Dinner,193
+Dal,Sunny,Dinner,98
+Mixed Vegetables,Sunny,Dinner,114
+Butter Naan,Sunny,Dinner,41
+Garlic Naan,Sunny,Dinner,54
+Chapati,Sunny,Dinner,26
+Grilled Chicken,Sunny,Dinner,251
+Tandoori Chicken,Sunny,Dinner,266
+Chicken Wings,Sunny,Dinner,235
+BBQ Platter,Sunny,Dinner,427
+Steak,Sunny,Dinner,386
+Soup,Sunny,Dinner,110
+Tomato Soup,Sunny,Dinner,121
+Chicken Corn Soup,Sunny,Dinner,142
+Hot & Sour Soup,Sunny,Dinner,131
+Cold Coffee,Sunny,Lunch,119
+Coffee,Sunny,Breakfast,66
+Cappuccino,Sunny,Breakfast,113
+Latte,Sunny,Breakfast,117
+Espresso,Sunny,Breakfast,93
+Tea,Sunny,Breakfast,46
+Milk Tea,Sunny,Dinner,56
+Green Tea,Sunny,Breakfast,60
+Hot Chocolate,Sunny,Breakfast,124
+Lemonade,Sunny,Lunch,91
+Orange Juice,Sunny,Breakfast,90
+Mango Juice,Sunny,Lunch,106
+Apple Juice,Sunny,Lunch,104
+Watermelon Juice,Sunny,Lunch,92
+Milkshake,Sunny,Dinner,146
+Chocolate Milkshake,Sunny,Dinner,160
+Vanilla Milkshake,Sunny,Dinner,160
+Faluda,Sunny,Dinner,154
+Ice Cream,Sunny,Dinner,102
+Brownie,Sunny,Dinner,136
+Cheesecake,Sunny,Dinner,185
+Chocolate Cake,Sunny,Dinner,173
+Red Velvet Cake,Sunny,Dinner,190
+Donut,Sunny,Breakfast,70
+Muffin,Sunny,Breakfast,80
+Paratha & Egg,Rainy,Breakfast,86
+French Toast,Rainy,Breakfast,121
+Pancakes,Rainy,Breakfast,148
+Waffles,Rainy,Breakfast,157
+Omelette,Rainy,Breakfast,99
+Scrambled Eggs,Rainy,Breakfast,104
+Boiled Egg Set,Rainy,Breakfast,78
+Porridge,Rainy,Breakfast,96
+Fruit Bowl,Rainy,Breakfast,132
+Yogurt Parfait,Rainy,Breakfast,131
+Toast & Jam,Rainy,Breakfast,65
+Butter Toast,Rainy,Breakfast,60
+Croissant,Rainy,Breakfast,96
+Breakfast Burrito,Rainy,Breakfast,161
+Hash Browns,Rainy,Breakfast,85
+Samosa,Rainy,Breakfast,47
+Singara,Rainy,Breakfast,30
+Vegetable Roll,Rainy,Breakfast,52
+Chicken Sandwich,Rainy,Breakfast,145
+Club Sandwich,Rainy,Lunch,166
+Grilled Cheese Sandwich,Rainy,Lunch,129
+Chicken Burger,Rainy,Lunch,161
+Beef Burger,Rainy,Lunch,192
+Veg Burger,Rainy,Lunch,141
+Chicken Shawarma,Rainy,Lunch,172
+Beef Shawarma,Rainy,Lunch,190
+Chicken Wrap,Rainy,Lunch,162
+Caesar Salad,Rainy,Lunch,180
+Greek Salad,Rainy,Lunch,188
+Chicken Caesar Salad,Rainy,Lunch,225
+Fried Rice,Rainy,Lunch,194
+Chicken Fried Rice,Rainy,Lunch,224
+Egg Fried Rice,Rainy,Lunch,185
+Vegetable Fried Rice,Rainy,Lunch,172
+Noodles,Rainy,Lunch,174
+Chicken Noodles,Rainy,Lunch,203
+Vegetable Noodles,Rainy,Dinner,160
+Pasta Alfredo,Rainy,Lunch,228
+Spicy Pasta,Rainy,Lunch,221
+Mac & Cheese,Rainy,Lunch,206
+Chicken Pizza,Rainy,Dinner,271
+Beef Pizza,Rainy,Dinner,309
+Veg Pizza,Rainy,Dinner,247
+Margherita Pizza,Rainy,Dinner,252
+BBQ Chicken Pizza,Rainy,Dinner,313
+Beef Biryani,Rainy,Dinner,235
+Chicken Biryani,Rainy,Dinner,220
+Kacchi Biryani,Rainy,Dinner,291
+Tehari,Rainy,Dinner,184
+Khichuri,Rainy,Dinner,171
+Mutton Curry,Rainy,Dinner,281
+Chicken Curry,Rainy,Dinner,206
+Beef Curry,Rainy,Dinner,226
+Fish Curry,Rainy,Dinner,201
+Dal,Rainy,Dinner,110
+Mixed Vegetables,Rainy,Dinner,122
+Butter Naan,Rainy,Dinner,54
+Garlic Naan,Rainy,Dinner,58
+Chapati,Rainy,Lunch,30
+Grilled Chicken,Rainy,Dinner,261
+Tandoori Chicken,Rainy,Dinner,271
+Chicken Wings,Rainy,Dinner,230
+BBQ Platter,Rainy,Dinner,437
+Steak,Rainy,Dinner,393
+Soup,Rainy,Dinner,116
+Tomato Soup,Rainy,Lunch,120
+Chicken Corn Soup,Rainy,Dinner,151
+Hot & Sour Soup,Rainy,Dinner,135
+Cold Coffee,Rainy,Lunch,131
+Coffee,Rainy,Breakfast,78
+Cappuccino,Rainy,Breakfast,119
+Latte,Rainy,Breakfast,129
+Espresso,Rainy,Dinner,105
+Tea,Rainy,Breakfast,45
+Milk Tea,Rainy,Breakfast,67
+Green Tea,Rainy,Breakfast,67
+Hot Chocolate,Rainy,Breakfast,139
+Lemonade,Rainy,Lunch,92
+Orange Juice,Rainy,Breakfast,107
+Mango Juice,Rainy,Lunch,112
+Apple Juice,Rainy,Lunch,110
+Watermelon Juice,Rainy,Lunch,105
+Milkshake,Rainy,Dinner,162
+Chocolate Milkshake,Rainy,Dinner,161
+Vanilla Milkshake,Rainy,Dinner,156
+Faluda,Rainy,Dinner,163
+Ice Cream,Rainy,Dinner,105
+Brownie,Rainy,Dinner,130
+Cheesecake,Rainy,Dinner,194
+Chocolate Cake,Rainy,Dinner,180
+Red Velvet Cake,Rainy,Dinner,185
+Donut,Rainy,Breakfast,70
+Muffin,Rainy,Breakfast,81
+Paratha & Egg,Cloudy,Breakfast,79
+French Toast,Cloudy,Breakfast,114
+Pancakes,Cloudy,Breakfast,141
+Waffles,Cloudy,Breakfast,146
+Omelette,Cloudy,Breakfast,95
+Scrambled Eggs,Cloudy,Breakfast,101
+Boiled Egg Set,Cloudy,Breakfast,66
+Porridge,Cloudy,Breakfast,88
+Fruit Bowl,Cloudy,Breakfast,123
+Yogurt Parfait,Cloudy,Breakfast,130
+Toast & Jam,Cloudy,Breakfast,59
+Butter Toast,Cloudy,Breakfast,61
+Croissant,Cloudy,Breakfast,87
+Breakfast Burrito,Cloudy,Breakfast,163
+Hash Browns,Cloudy,Lunch,76
+Samosa,Cloudy,Breakfast,25
+Singara,Cloudy,Breakfast,28
+Vegetable Roll,Cloudy,Breakfast,42
+Chicken Sandwich,Cloudy,Lunch,154
+Club Sandwich,Cloudy,Lunch,162
+Grilled Cheese Sandwich,Cloudy,Lunch,129
+Chicken Burger,Cloudy,Lunch,163
+Beef Burger,Cloudy,Lunch,193
+Veg Burger,Cloudy,Lunch,132
+Chicken Shawarma,Cloudy,Lunch,170
+Beef Shawarma,Cloudy,Lunch,184
+Chicken Wrap,Cloudy,Lunch,156
+Caesar Salad,Cloudy,Lunch,171
+Greek Salad,Cloudy,Dinner,198
+Chicken Caesar Salad,Cloudy,Lunch,221
+Fried Rice,Cloudy,Lunch,192
+Chicken Fried Rice,Cloudy,Lunch,219
+Egg Fried Rice,Cloudy,Lunch,179
+Vegetable Fried Rice,Cloudy,Lunch,163
+Noodles,Cloudy,Lunch,167
+Chicken Noodles,Cloudy,Lunch,198
+Vegetable Noodles,Cloudy,Lunch,163
+Pasta Alfredo,Cloudy,Lunch,224
+Spicy Pasta,Cloudy,Lunch,217
+Mac & Cheese,Cloudy,Lunch,208
+Chicken Pizza,Cloudy,Dinner,274
+Beef Pizza,Cloudy,Lunch,303
+Veg Pizza,Cloudy,Dinner,248
+Margherita Pizza,Cloudy,Dinner,248
+BBQ Chicken Pizza,Cloudy,Dinner,308
+Beef Biryani,Cloudy,Dinner,232
+Chicken Biryani,Cloudy,Dinner,218
+Kacchi Biryani,Cloudy,Dinner,295
+Tehari,Cloudy,Dinner,183
+Khichuri,Cloudy,Dinner,154
+Mutton Curry,Cloudy,Dinner,278
+Chicken Curry,Cloudy,Dinner,196
+Beef Curry,Cloudy,Dinner,218
+Fish Curry,Cloudy,Dinner,198
+Dal,Cloudy,Dinner,105
+Mixed Vegetables,Cloudy,Dinner,125
+Butter Naan,Cloudy,Dinner,42
+Garlic Naan,Cloudy,Dinner,56
+Chapati,Cloudy,Dinner,37
+Grilled Chicken,Cloudy,Dinner,258
+Tandoori Chicken,Cloudy,Dinner,269
+Chicken Wings,Cloudy,Dinner,231
+BBQ Platter,Cloudy,Breakfast,420
+Steak,Cloudy,Dinner,388
+Soup,Cloudy,Dinner,110
+Tomato Soup,Cloudy,Dinner,125
+Chicken Corn Soup,Cloudy,Dinner,139
+Hot & Sour Soup,Cloudy,Dinner,133
+Cold Coffee,Cloudy,Lunch,132
+Coffee,Cloudy,Breakfast,66
+Cappuccino,Cloudy,Breakfast,111
+Latte,Cloudy,Breakfast,116
+Espresso,Cloudy,Breakfast,93
+Tea,Cloudy,Breakfast,40
+Milk Tea,Cloudy,Breakfast,52
+Green Tea,Cloudy,Breakfast,68
+Hot Chocolate,Cloudy,Breakfast,126
+Lemonade,Cloudy,Lunch,92
+Orange Juice,Cloudy,Breakfast,99
+Mango Juice,Cloudy,Lunch,114
+Apple Juice,Cloudy,Lunch,111
+Watermelon Juice,Cloudy,Lunch,96
+Milkshake,Cloudy,Dinner,152
+Chocolate Milkshake,Cloudy,Dinner,166
+Vanilla Milkshake,Cloudy,Dinner,162
+Faluda,Cloudy,Dinner,159
+Ice Cream,Cloudy,Dinner,99
+Brownie,Cloudy,Dinner,136
+Cheesecake,Cloudy,Dinner,198
+Chocolate Cake,Cloudy,Dinner,175
+Red Velvet Cake,Cloudy,Dinner,186
+Donut,Cloudy,Breakfast,63
+Muffin,Cloudy,Breakfast,75
+Paratha & Egg,Cold,Breakfast,88
+French Toast,Cold,Breakfast,113
+Pancakes,Cold,Breakfast,146
+Waffles,Cold,Breakfast,162
+Omelette,Cold,Breakfast,95
+Scrambled Eggs,Cold,Breakfast,99
+Boiled Egg Set,Cold,Breakfast,83
+Porridge,Cold,Breakfast,94
+Fruit Bowl,Cold,Breakfast,124
+Yogurt Parfait,Cold,Breakfast,144
+Toast & Jam,Cold,Breakfast,63
+Butter Toast,Cold,Breakfast,61
+Croissant,Cold,Breakfast,102
+Breakfast Burrito,Cold,Breakfast,166
+Hash Browns,Cold,Breakfast,90
+Samosa,Cold,Breakfast,36
+Singara,Cold,Breakfast,23
+Vegetable Roll,Cold,Breakfast,43
+Chicken Sandwich,Cold,Lunch,163
+Club Sandwich,Cold,Lunch,175
+Grilled Cheese Sandwich,Cold,Lunch,137
+Chicken Burger,Cold,Lunch,164
+Beef Burger,Cold,Lunch,197
+Veg Burger,Cold,Lunch,138
+Chicken Shawarma,Cold,Breakfast,167
+Beef Shawarma,Cold,Lunch,194
+Chicken Wrap,Cold,Lunch,160
+Caesar Salad,Cold,Lunch,183
+Greek Salad,Cold,Lunch,198
+Chicken Caesar Salad,Cold,Lunch,230
+Fried Rice,Cold,Lunch,189
+Chicken Fried Rice,Cold,Lunch,219
+Egg Fried Rice,Cold,Lunch,190
+Vegetable Fried Rice,Cold,Lunch,179
+Noodles,Cold,Lunch,172
+Chicken Noodles,Cold,Lunch,202
+Vegetable Noodles,Cold,Lunch,165
+Pasta Alfredo,Cold,Breakfast,234
+Spicy Pasta,Cold,Lunch,229
+Mac & Cheese,Cold,Lunch,215
+Chicken Pizza,Cold,Dinner,278
+Beef Pizza,Cold,Dinner,303
+Veg Pizza,Cold,Dinner,247
+Margherita Pizza,Cold,Dinner,259
+BBQ Chicken Pizza,Cold,Dinner,313
+Beef Biryani,Cold,Dinner,236
+Chicken Biryani,Cold,Dinner,216
+Kacchi Biryani,Cold,Dinner,298
+Tehari,Cold,Dinner,195
+Khichuri,Cold,Dinner,178
+Mutton Curry,Cold,Dinner,278
+Chicken Curry,Cold,Dinner,209
+Beef Curry,Cold,Dinner,234
+Fish Curry,Cold,Dinner,200
+Dal,Cold,Dinner,110
+Mixed Vegetables,Cold,Dinner,128
+Butter Naan,Cold,Dinner,50
+Garlic Naan,Cold,Dinner,70
+Chapati,Cold,Dinner,43
+Grilled Chicken,Cold,Dinner,254
+Tandoori Chicken,Cold,Lunch,272
+Chicken Wings,Cold,Dinner,239
+BBQ Platter,Cold,Dinner,444
+Steak,Cold,Dinner,403
+Soup,Cold,Dinner,123
+Tomato Soup,Cold,Dinner,138
+Chicken Corn Soup,Cold,Dinner,149
+Hot & Sour Soup,Cold,Dinner,151
+Cold Coffee,Cold,Lunch,134
+Coffee,Cold,Breakfast,82
+Cappuccino,Cold,Breakfast,118
+Latte,Cold,Breakfast,139
+Espresso,Cold,Breakfast,109
+Tea,Cold,Breakfast,61
+Milk Tea,Cold,Breakfast,68
+Green Tea,Cold,Breakfast,81
+Hot Chocolate,Cold,Breakfast,143
+Lemonade,Cold,Lunch,88
+Orange Juice,Cold,Breakfast,110
+Mango Juice,Cold,Lunch,123
+Apple Juice,Cold,Dinner,117
+Watermelon Juice,Cold,Breakfast,98
+Milkshake,Cold,Dinner,163
+Chocolate Milkshake,Cold,Dinner,173
+Vanilla Milkshake,Cold,Dinner,159
+Faluda,Cold,Dinner,175
+Ice Cream,Cold,Dinner,108
+Brownie,Cold,Dinner,145
+Cheesecake,Cold,Dinner,196
+Chocolate Cake,Cold,Dinner,173
+Red Velvet Cake,Cold,Dinner,190
+Donut,Cold,Breakfast,78
+Muffin,Cold,Breakfast,80
+Paratha & Egg,Hot,Breakfast,72
+French Toast,Hot,Breakfast,103
+Pancakes,Hot,Breakfast,141
+Waffles,Hot,Breakfast,144
+Omelette,Hot,Breakfast,91
+Scrambled Eggs,Hot,Breakfast,97
+Boiled Egg Set,Hot,Breakfast,64
+Porridge,Hot,Breakfast,86
+Fruit Bowl,Hot,Breakfast,122
+Yogurt Parfait,Hot,Breakfast,132
+Toast & Jam,Hot,Breakfast,57
+Butter Toast,Hot,Breakfast,56
+Croissant,Hot,Breakfast,91
+Breakfast Burrito,Hot,Breakfast,150
+Hash Browns,Hot,Dinner,76
+Samosa,Hot,Breakfast,17
+Singara,Hot,Breakfast,15
+Vegetable Roll,Hot,Breakfast,25
+Chicken Sandwich,Hot,Lunch,140
+Club Sandwich,Hot,Lunch,161
+Grilled Cheese Sandwich,Hot,Lunch,125
+Chicken Burger,Hot,Dinner,157
+Beef Burger,Hot,Lunch,181
+Veg Burger,Hot,Lunch,134
+Chicken Shawarma,Hot,Lunch,162
+Beef Shawarma,Hot,Lunch,172
+Chicken Wrap,Hot,Lunch,155
+Caesar Salad,Hot,Lunch,168
+Greek Salad,Hot,Lunch,177
+Chicken Caesar Salad,Hot,Lunch,211
+Fried Rice,Hot,Lunch,183
+Chicken Fried Rice,Hot,Lunch,210
+Egg Fried Rice,Hot,Lunch,176
+Vegetable Fried Rice,Hot,Lunch,163
+Noodles,Hot,Lunch,156
+Chicken Noodles,Hot,Lunch,188
+Vegetable Noodles,Hot,Lunch,152
+Pasta Alfredo,Hot,Lunch,218
+Spicy Pasta,Hot,Lunch,212
+Mac & Cheese,Hot,Lunch,198
+Chicken Pizza,Hot,Dinner,265
+Beef Pizza,Hot,Dinner,299
+Veg Pizza,Hot,Dinner,238
+Margherita Pizza,Hot,Dinner,243
+BBQ Chicken Pizza,Hot,Dinner,304
+Beef Biryani,Hot,Dinner,222
+Chicken Biryani,Hot,Dinner,202
+Kacchi Biryani,Hot,Dinner,291
+Tehari,Hot,Dinner,182
+Khichuri,Hot,Dinner,154
+Mutton Curry,Hot,Dinner,263
+Chicken Curry,Hot,Dinner,191
+Beef Curry,Hot,Dinner,220
+Fish Curry,Hot,Dinner,194
+Dal,Hot,Lunch,93
+Mixed Vegetables,Hot,Dinner,110
+Butter Naan,Hot,Dinner,43
+Garlic Naan,Hot,Dinner,57
+Chapati,Hot,Dinner,23
+Grilled Chicken,Hot,Dinner,251
+Tandoori Chicken,Hot,Dinner,270
+Chicken Wings,Hot,Dinner,229
+BBQ Platter,Hot,Dinner,426
+Steak,Hot,Dinner,391
+Soup,Hot,Dinner,106
+Tomato Soup,Hot,Dinner,120
+Chicken Corn Soup,Hot,Dinner,134
+Hot & Sour Soup,Hot,Dinner,131
+Cold Coffee,Hot,Lunch,130
+Coffee,Hot,Breakfast,65
+Cappuccino,Hot,Breakfast,105
+Latte,Hot,Breakfast,118
+Espresso,Hot,Breakfast,95
+Tea,Hot,Breakfast,33
+Milk Tea,Hot,Breakfast,50
+Green Tea,Hot,Breakfast,53
+Hot Chocolate,Hot,Breakfast,129
+Lemonade,Hot,Lunch,88
+Orange Juice,Hot,Breakfast,95
+Mango Juice,Hot,Lunch,107
+Apple Juice,Hot,Lunch,109
+Watermelon Juice,Hot,Lunch,92
+Milkshake,Hot,Dinner,158
+Chocolate Milkshake,Hot,Dinner,162
+Vanilla Milkshake,Hot,Dinner,159
+Faluda,Hot,Dinner,166
+Ice Cream,Hot,Dinner,96
+Brownie,Hot,Dinner,125
+Cheesecake,Hot,Dinner,186
+Chocolate Cake,Hot,Dinner,165
+Red Velvet Cake,Hot,Dinner,187
+Donut,Hot,Breakfast,59
+Muffin,Hot,Breakfast,76
+Paratha & Egg,Sunny,Breakfast,86
+French Toast,Sunny,Breakfast,108
+Pancakes,Sunny,Breakfast,142
+Waffles,Sunny,Breakfast,149
+Omelette,Sunny,Breakfast,90
+Scrambled Eggs,Sunny,Breakfast,96
+Boiled Egg Set,Sunny,Breakfast,73
+Porridge,Sunny,Breakfast,85
+Fruit Bowl,Sunny,Breakfast,114
+Yogurt Parfait,Sunny,Breakfast,135
+Toast & Jam,Sunny,Breakfast,58
+Butter Toast,Sunny,Breakfast,53
+Croissant,Sunny,Breakfast,96
+Breakfast Burrito,Sunny,Breakfast,157
+Hash Browns,Sunny,Breakfast,80
+Samosa,Sunny,Breakfast,25
+Singara,Sunny,Dinner,36
+Vegetable Roll,Sunny,Breakfast,34
+Chicken Sandwich,Sunny,Lunch,148
+Club Sandwich,Sunny,Lunch,154
+Grilled Cheese Sandwich,Sunny,Breakfast,118
+Chicken Burger,Sunny,Lunch,150
+Beef Burger,Sunny,Dinner,191
+Veg Burger,Sunny,Lunch,135
+Chicken Shawarma,Sunny,Lunch,162
+Beef Shawarma,Sunny,Lunch,175
+Chicken Wrap,Sunny,Lunch,151
+Caesar Salad,Sunny,Lunch,180
+Greek Salad,Sunny,Lunch,189
+Chicken Caesar Salad,Sunny,Lunch,217
+Fried Rice,Sunny,Lunch,186
+Chicken Fried Rice,Sunny,Lunch,217
+Egg Fried Rice,Sunny,Lunch,171
+Vegetable Fried Rice,Sunny,Lunch,168
+Noodles,Sunny,Lunch,170
+Chicken Noodles,Sunny,Lunch,195
+Vegetable Noodles,Sunny,Lunch,152
+Pasta Alfredo,Sunny,Lunch,222
+Spicy Pasta,Sunny,Lunch,219
+Mac & Cheese,Sunny,Lunch,199
+Chicken Pizza,Sunny,Dinner,270
+Beef Pizza,Sunny,Dinner,305
+Veg Pizza,Sunny,Dinner,235
+Margherita Pizza,Sunny,Dinner,245
+BBQ Chicken Pizza,Sunny,Dinner,316
+Beef Biryani,Sunny,Dinner,227
+Chicken Biryani,Sunny,Dinner,210
+Kacchi Biryani,Sunny,Dinner,289
+Tehari,Sunny,Dinner,178
+Khichuri,Sunny,Dinner,157
+Mutton Curry,Sunny,Breakfast,261
+Chicken Curry,Sunny,Dinner,203
+Beef Curry,Sunny,Dinner,225
+Fish Curry,Sunny,Dinner,201
+Dal,Sunny,Dinner,98
+Mixed Vegetables,Sunny,Dinner,124
+Butter Naan,Sunny,Dinner,50
+Garlic Naan,Sunny,Dinner,51
+Chapati,Sunny,Dinner,26
+Grilled Chicken,Sunny,Dinner,253
+Tandoori Chicken,Sunny,Dinner,268
+Chicken Wings,Sunny,Dinner,226
+BBQ Platter,Sunny,Dinner,432
+Steak,Sunny,Dinner,384
+Soup,Sunny,Lunch,110
+Tomato Soup,Sunny,Dinner,115
+Chicken Corn Soup,Sunny,Dinner,139
+Hot & Sour Soup,Sunny,Dinner,136
+Cold Coffee,Sunny,Lunch,123
+Coffee,Sunny,Breakfast,74
+Cappuccino,Sunny,Breakfast,109
+Latte,Sunny,Breakfast,124
+Espresso,Sunny,Breakfast,89
+Tea,Sunny,Breakfast,41
+Milk Tea,Sunny,Breakfast,54
+Green Tea,Sunny,Breakfast,63
+Hot Chocolate,Sunny,Breakfast,132
+Lemonade,Sunny,Lunch,83
+Orange Juice,Sunny,Breakfast,91
+Mango Juice,Sunny,Lunch,104
+Apple Juice,Sunny,Lunch,109
+Watermelon Juice,Sunny,Lunch,96
+Milkshake,Sunny,Dinner,147
+Chocolate Milkshake,Sunny,Dinner,159
+Vanilla Milkshake,Sunny,Dinner,151
+Faluda,Sunny,Dinner,159
+Ice Cream,Sunny,Dinner,104
+Brownie,Sunny,Dinner,130
+Cheesecake,Sunny,Dinner,193
+Chocolate Cake,Sunny,Dinner,169
+Red Velvet Cake,Sunny,Breakfast,181
+Donut,Sunny,Breakfast,67
+Muffin,Sunny,Breakfast,77
+Paratha & Egg,Rainy,Breakfast,86
+French Toast,Rainy,Breakfast,119
+Pancakes,Rainy,Breakfast,142
+Waffles,Rainy,Breakfast,161
+Omelette,Rainy,Breakfast,99
+Scrambled Eggs,Rainy,Breakfast,102
+Boiled Egg Set,Rainy,Breakfast,80
+Porridge,Rainy,Breakfast,93
+Fruit Bowl,Rainy,Breakfast,128
+Yogurt Parfait,Rainy,Breakfast,140
+Toast & Jam,Rainy,Breakfast,62
+Butter Toast,Rainy,Breakfast,63
+Croissant,Rainy,Breakfast,95
+Breakfast Burrito,Rainy,Breakfast,168
+Hash Browns,Rainy,Breakfast,79
+Samosa,Rainy,Breakfast,33
+Singara,Rainy,Breakfast,34
+Vegetable Roll,Rainy,Breakfast,48
+Chicken Sandwich,Rainy,Lunch,160
+Club Sandwich,Rainy,Lunch,162
+Grilled Cheese Sandwich,Rainy,Lunch,130
+Chicken Burger,Rainy,Lunch,162
+Beef Burger,Rainy,Lunch,195
+Veg Burger,Rainy,Lunch,144
+Chicken Shawarma,Rainy,Lunch,176
+Beef Shawarma,Rainy,Lunch,189
+Chicken Wrap,Rainy,Lunch,157
+Caesar Salad,Rainy,Lunch,177
+Greek Salad,Rainy,Lunch,197
+Chicken Caesar Salad,Rainy,Lunch,219
+Fried Rice,Rainy,Lunch,192
+Chicken Fried Rice,Rainy,Lunch,220
+Egg Fried Rice,Rainy,Lunch,181
+Vegetable Fried Rice,Rainy,Lunch,174
+Noodles,Rainy,Lunch,173
+Chicken Noodles,Rainy,Lunch,200
+Vegetable Noodles,Rainy,Lunch,165
+Pasta Alfredo,Rainy,Lunch,230
+Spicy Pasta,Rainy,Lunch,215
+Mac & Cheese,Rainy,Lunch,217
+Chicken Pizza,Rainy,Dinner,274
+Beef Pizza,Rainy,Dinner,312
+Veg Pizza,Rainy,Dinner,242
+Margherita Pizza,Rainy,Dinner,261
+BBQ Chicken Pizza,Rainy,Dinner,313
+Beef Biryani,Rainy,Dinner,240
+Chicken Biryani,Rainy,Breakfast,209
+Kacchi Biryani,Rainy,Dinner,292
+Tehari,Rainy,Dinner,181
+Khichuri,Rainy,Dinner,168
+Mutton Curry,Rainy,Dinner,280
+Chicken Curry,Rainy,Dinner,209
+Beef Curry,Rainy,Dinner,227
+Fish Curry,Rainy,Dinner,204
+Dal,Rainy,Dinner,112
+Mixed Vegetables,Rainy,Dinner,120
+Butter Naan,Rainy,Dinner,55
+Garlic Naan,Rainy,Dinner,57
+Chapati,Rainy,Dinner,34
+Grilled Chicken,Rainy,Dinner,260
+Tandoori Chicken,Rainy,Dinner,282
+Chicken Wings,Rainy,Dinner,234
+BBQ Platter,Rainy,Dinner,435
+Steak,Rainy,Dinner,391
+Soup,Rainy,Dinner,124
+Tomato Soup,Rainy,Dinner,130
+Chicken Corn Soup,Rainy,Dinner,146
+Hot & Sour Soup,Rainy,Dinner,142
+Cold Coffee,Rainy,Lunch,132
+Coffee,Rainy,Breakfast,81
+Cappuccino,Rainy,Breakfast,115
+Latte,Rainy,Breakfast,130
+Espresso,Rainy,Breakfast,96
+Tea,Rainy,Breakfast,47
+Milk Tea,Rainy,Breakfast,63
+Green Tea,Rainy,Lunch,70
+Hot Chocolate,Rainy,Breakfast,132
+Lemonade,Rainy,Lunch,91
+Orange Juice,Rainy,Breakfast,106
+Mango Juice,Rainy,Lunch,112
+Apple Juice,Rainy,Lunch,110
+Watermelon Juice,Rainy,Lunch,101
+Milkshake,Rainy,Dinner,155
+Chocolate Milkshake,Rainy,Dinner,162
+Vanilla Milkshake,Rainy,Dinner,157
+Faluda,Rainy,Dinner,170
+Ice Cream,Rainy,Dinner,107
+Brownie,Rainy,Dinner,134
+Cheesecake,Rainy,Dinner,199
+Chocolate Cake,Rainy,Dinner,170
+Red Velvet Cake,Rainy,Dinner,191
+Donut,Rainy,Breakfast,77
+Muffin,Rainy,Breakfast,79
+Paratha & Egg,Cloudy,Lunch,84
+French Toast,Cloudy,Breakfast,115
+Pancakes,Cloudy,Breakfast,141
+Waffles,Cloudy,Breakfast,150
+Omelette,Cloudy,Breakfast,90
+Scrambled Eggs,Cloudy,Breakfast,103
+Boiled Egg Set,Cloudy,Breakfast,75
+Porridge,Cloudy,Breakfast,91
+Fruit Bowl,Cloudy,Lunch,125
+Yogurt Parfait,Cloudy,Breakfast,135
+Toast & Jam,Cloudy,Breakfast,63
+Butter Toast,Cloudy,Breakfast,61
+Croissant,Cloudy,Breakfast,89
+Breakfast Burrito,Cloudy,Breakfast,168
+Hash Browns,Cloudy,Breakfast,76
+Samosa,Cloudy,Breakfast,22
+Singara,Cloudy,Dinner,38
+Vegetable Roll,Cloudy,Breakfast,35
+Chicken Sandwich,Cloudy,Lunch,156
+Club Sandwich,Cloudy,Lunch,157
+Grilled Cheese Sandwich,Cloudy,Lunch,121
+Chicken Burger,Cloudy,Lunch,160
+Beef Burger,Cloudy,Lunch,181
+Veg Burger,Cloudy,Lunch,139
+Chicken Shawarma,Cloudy,Lunch,169
+Beef Shawarma,Cloudy,Lunch,184
+Chicken Wrap,Cloudy,Breakfast,149
+Caesar Salad,Cloudy,Lunch,180
+Greek Salad,Cloudy,Lunch,181
+Chicken Caesar Salad,Cloudy,Lunch,220
+Fried Rice,Cloudy,Lunch,188
+Chicken Fried Rice,Cloudy,Dinner,218
+Egg Fried Rice,Cloudy,Lunch,174
+Vegetable Fried Rice,Cloudy,Lunch,168
+Noodles,Cloudy,Lunch,164
+Chicken Noodles,Cloudy,Lunch,193
+Vegetable Noodles,Cloudy,Lunch,153
+Pasta Alfredo,Cloudy,Lunch,223
+Spicy Pasta,Cloudy,Lunch,215
+Mac & Cheese,Cloudy,Lunch,212
+Chicken Pizza,Cloudy,Dinner,272
+Beef Pizza,Cloudy,Dinner,296
+Veg Pizza,Cloudy,Dinner,237
+Margherita Pizza,Cloudy,Dinner,247
+BBQ Chicken Pizza,Cloudy,Dinner,311
+Beef Biryani,Cloudy,Dinner,233
+Chicken Biryani,Cloudy,Dinner,214
+Kacchi Biryani,Cloudy,Dinner,298
+Tehari,Cloudy,Dinner,188
+Khichuri,Cloudy,Dinner,152
+Mutton Curry,Cloudy,Dinner,275
+Chicken Curry,Cloudy,Dinner,206
+Beef Curry,Cloudy,Dinner,218
+Fish Curry,Cloudy,Dinner,203
+Dal,Cloudy,Dinner,100
+Mixed Vegetables,Cloudy,Dinner,125
+Butter Naan,Cloudy,Dinner,43
+Garlic Naan,Cloudy,Dinner,63
+Chapati,Cloudy,Dinner,36
+Grilled Chicken,Cloudy,Dinner,254
+Tandoori Chicken,Cloudy,Dinner,266
+Chicken Wings,Cloudy,Dinner,237
+BBQ Platter,Cloudy,Dinner,433
+Steak,Cloudy,Dinner,395
+Soup,Cloudy,Dinner,107
+Tomato Soup,Cloudy,Dinner,124
+Chicken Corn Soup,Cloudy,Dinner,147
+Hot & Sour Soup,Cloudy,Dinner,134
+Cold Coffee,Cloudy,Lunch,124
+Coffee,Cloudy,Breakfast,68
+Cappuccino,Cloudy,Breakfast,107
+Latte,Cloudy,Breakfast,127
+Espresso,Cloudy,Breakfast,101
+Tea,Cloudy,Breakfast,40
+Milk Tea,Cloudy,Breakfast,52
+Green Tea,Cloudy,Breakfast,62
+Hot Chocolate,Cloudy,Breakfast,128
+Lemonade,Cloudy,Lunch,90
+Orange Juice,Cloudy,Breakfast,94
+Mango Juice,Cloudy,Lunch,115
+Apple Juice,Cloudy,Lunch,108
+Watermelon Juice,Cloudy,Lunch,94
+Milkshake,Cloudy,Dinner,146
+Chocolate Milkshake,Cloudy,Dinner,162
+Vanilla Milkshake,Cloudy,Dinner,157
+Faluda,Cloudy,Dinner,159
+Ice Cream,Cloudy,Dinner,106
+Brownie,Cloudy,Dinner,138
+Cheesecake,Cloudy,Dinner,188
+Chocolate Cake,Cloudy,Dinner,173
+Red Velvet Cake,Cloudy,Dinner,184
+Donut,Cloudy,Breakfast,63
+Muffin,Cloudy,Breakfast,78
+Paratha & Egg,Cold,Breakfast,84
+French Toast,Cold,Breakfast,113
+Pancakes,Cold,Breakfast,155
+Waffles,Cold,Breakfast,154
+Omelette,Cold,Breakfast,104
+Scrambled Eggs,Cold,Breakfast,99
+Boiled Egg Set,Cold,Breakfast,77
+Porridge,Cold,Breakfast,99
+Fruit Bowl,Cold,Breakfast,126
+Yogurt Parfait,Cold,Breakfast,134
+Toast & Jam,Cold,Breakfast,75
+Butter Toast,Cold,Breakfast,65
+Croissant,Cold,Breakfast,100
+Breakfast Burrito,Cold,Breakfast,173
+Hash Browns,Cold,Lunch,92
+Samosa,Cold,Breakfast,40
+Singara,Cold,Breakfast,28
+Vegetable Roll,Cold,Breakfast,45
+Chicken Sandwich,Cold,Lunch,162
+Club Sandwich,Cold,Lunch,163
+Grilled Cheese Sandwich,Cold,Lunch,131
+Chicken Burger,Cold,Lunch,166
+Beef Burger,Cold,Lunch,193
+Veg Burger,Cold,Lunch,144
+Chicken Shawarma,Cold,Lunch,180
+Beef Shawarma,Cold,Lunch,184
+Chicken Wrap,Cold,Dinner,175
+Caesar Salad,Cold,Lunch,185
+Greek Salad,Cold,Lunch,197
+Chicken Caesar Salad,Cold,Lunch,227
+Fried Rice,Cold,Lunch,189
+Chicken Fried Rice,Cold,Lunch,224
+Egg Fried Rice,Cold,Lunch,184
+Vegetable Fried Rice,Cold,Lunch,178
+Noodles,Cold,Lunch,177
+Chicken Noodles,Cold,Lunch,207
+Vegetable Noodles,Cold,Lunch,165
+Pasta Alfredo,Cold,Lunch,229
+Spicy Pasta,Cold,Lunch,222
+Mac & Cheese,Cold,Lunch,214
+Chicken Pizza,Cold,Dinner,278
+Beef Pizza,Cold,Dinner,306
+Veg Pizza,Cold,Breakfast,235
+Margherita Pizza,Cold,Dinner,256
+BBQ Chicken Pizza,Cold,Dinner,318
+Beef Biryani,Cold,Dinner,237
+Chicken Biryani,Cold,Dinner,218
+Kacchi Biryani,Cold,Dinner,300
+Tehari,Cold,Dinner,185
+Khichuri,Cold,Dinner,171
+Mutton Curry,Cold,Dinner,278
+Chicken Curry,Cold,Dinner,205
+Beef Curry,Cold,Dinner,223
+Fish Curry,Cold,Dinner,205
+Dal,Cold,Lunch,99
+Mixed Vegetables,Cold,Dinner,134
+Butter Naan,Cold,Dinner,51
+Garlic Naan,Cold,Dinner,65
+Chapati,Cold,Lunch,34
+Grilled Chicken,Cold,Dinner,263
+Tandoori Chicken,Cold,Dinner,276
+Chicken Wings,Cold,Dinner,245
+BBQ Platter,Cold,Dinner,437
+Steak,Cold,Dinner,393
+Soup,Cold,Dinner,116
+Tomato Soup,Cold,Dinner,136
+Chicken Corn Soup,Cold,Dinner,160
+Hot & Sour Soup,Cold,Dinner,150
+Cold Coffee,Cold,Lunch,140
+Coffee,Cold,Breakfast,88
+Cappuccino,Cold,Breakfast,125
+Latte,Cold,Breakfast,133
+Espresso,Cold,Lunch,113
+Tea,Cold,Breakfast,60
+Milk Tea,Cold,Breakfast,60
+Green Tea,Cold,Breakfast,73
+Hot Chocolate,Cold,Breakfast,143
+Lemonade,Cold,Lunch,90
+Orange Juice,Cold,Breakfast,107
+Mango Juice,Cold,Lunch,115
+Apple Juice,Cold,Lunch,113
+Watermelon Juice,Cold,Lunch,107
+Milkshake,Cold,Dinner,163
+Chocolate Milkshake,Cold,Dinner,168
+Vanilla Milkshake,Cold,Dinner,163
+Faluda,Cold,Dinner,164
+Ice Cream,Cold,Dinner,111
+Brownie,Cold,Dinner,137
+Cheesecake,Cold,Dinner,197
+Chocolate Cake,Cold,Dinner,184
+Red Velvet Cake,Cold,Dinner,191
+Donut,Cold,Lunch,74
+Muffin,Cold,Breakfast,84
+Paratha & Egg,Hot,Breakfast,72
+French Toast,Hot,Breakfast,103
+Pancakes,Hot,Breakfast,137
+Waffles,Hot,Breakfast,145
+Omelette,Hot,Breakfast,86
+Scrambled Eggs,Hot,Breakfast,87
+Boiled Egg Set,Hot,Breakfast,61
+Porridge,Hot,Breakfast,82
+Fruit Bowl,Hot,Lunch,133
+Yogurt Parfait,Hot,Breakfast,130
+Toast & Jam,Hot,Breakfast,61
+Butter Toast,Hot,Breakfast,48
+Croissant,Hot,Breakfast,83
+Breakfast Burrito,Hot,Breakfast,157
+Hash Browns,Hot,Breakfast,68
+Samosa,Hot,Breakfast,18
+Singara,Hot,Breakfast,21
+Vegetable Roll,Hot,Breakfast,26
+Chicken Sandwich,Hot,Lunch,150
+Club Sandwich,Hot,Lunch,150
+Grilled Cheese Sandwich,Hot,Dinner,127
+Chicken Burger,Hot,Lunch,155
+Beef Burger,Hot,Lunch,181
+Veg Burger,Hot,Lunch,130
+Chicken Shawarma,Hot,Lunch,158
+Beef Shawarma,Hot,Lunch,171
+Chicken Wrap,Hot,Lunch,155
+Caesar Salad,Hot,Lunch,174
+Greek Salad,Hot,Lunch,179
+Chicken Caesar Salad,Hot,Lunch,216
+Fried Rice,Hot,Lunch,177
+Chicken Fried Rice,Hot,Lunch,206
+Egg Fried Rice,Hot,Breakfast,168
+Vegetable Fried Rice,Hot,Lunch,167
+Noodles,Hot,Lunch,166
+Chicken Noodles,Hot,Lunch,185
+Vegetable Noodles,Hot,Lunch,148
+Pasta Alfredo,Hot,Lunch,219
+Spicy Pasta,Hot,Lunch,207
+Mac & Cheese,Hot,Lunch,204
+Chicken Pizza,Hot,Dinner,268
+Beef Pizza,Hot,Dinner,293
+Veg Pizza,Hot,Dinner,238
+Margherita Pizza,Hot,Dinner,248
+BBQ Chicken Pizza,Hot,Dinner,303
+Beef Biryani,Hot,Dinner,232
+Chicken Biryani,Hot,Dinner,204
+Kacchi Biryani,Hot,Dinner,287
+Tehari,Hot,Dinner,179
+Khichuri,Hot,Dinner,145
+Mutton Curry,Hot,Dinner,271
+Chicken Curry,Hot,Dinner,202
+Beef Curry,Hot,Dinner,222
+Fish Curry,Hot,Dinner,185
+Dal,Hot,Dinner,95
+Mixed Vegetables,Hot,Dinner,110
+Butter Naan,Hot,Dinner,45
+Garlic Naan,Hot,Dinner,47
+Chapati,Hot,Dinner,21
+Grilled Chicken,Hot,Dinner,251
+Tandoori Chicken,Hot,Dinner,271
+Chicken Wings,Hot,Dinner,232
+BBQ Platter,Hot,Dinner,429
+Steak,Hot,Dinner,380
+Soup,Hot,Dinner,100
+Tomato Soup,Hot,Dinner,115
+Chicken Corn Soup,Hot,Dinner,135
+Hot & Sour Soup,Hot,Dinner,129
+Cold Coffee,Hot,Lunch,136
+Coffee,Hot,Breakfast,62
+Cappuccino,Hot,Breakfast,101
+Latte,Hot,Breakfast,120
+Espresso,Hot,Breakfast,94
+Tea,Hot,Breakfast,41
+Milk Tea,Hot,Breakfast,45
+Green Tea,Hot,Breakfast,53
+Hot Chocolate,Hot,Breakfast,121
+Lemonade,Hot,Lunch,82
+Orange Juice,Hot,Dinner,108
+Mango Juice,Hot,Lunch,113
+Apple Juice,Hot,Lunch,110
+Watermelon Juice,Hot,Lunch,91
+Milkshake,Hot,Dinner,148
+Chocolate Milkshake,Hot,Dinner,154
+Vanilla Milkshake,Hot,Dinner,164
+Faluda,Hot,Dinner,164
+Ice Cream,Hot,Dinner,104
+Brownie,Hot,Dinner,123
+Cheesecake,Hot,Dinner,181
+Chocolate Cake,Hot,Dinner,165
+Red Velvet Cake,Hot,Dinner,179
+Donut,Hot,Breakfast,61
+Muffin,Hot,Breakfast,76
+Paratha & Egg,Sunny,Breakfast,81
+French Toast,Sunny,Breakfast,107
+Pancakes,Sunny,Breakfast,143
+Waffles,Sunny,Breakfast,146
+Omelette,Sunny,Breakfast,89
+Scrambled Eggs,Sunny,Breakfast,98
+Boiled Egg Set,Sunny,Breakfast,66
+Porridge,Sunny,Breakfast,86
+Fruit Bowl,Sunny,Breakfast,118
+Yogurt Parfait,Sunny,Breakfast,129
+Toast & Jam,Sunny,Breakfast,59
+Butter Toast,Sunny,Breakfast,61
+Croissant,Sunny,Breakfast,90
+Breakfast Burrito,Sunny,Breakfast,164
+Hash Browns,Sunny,Breakfast,74
+Samosa,Sunny,Breakfast,24
+Singara,Sunny,Breakfast,21
+Vegetable Roll,Sunny,Breakfast,30
+Chicken Sandwich,Sunny,Lunch,154
+Club Sandwich,Sunny,Lunch,165
+Grilled Cheese Sandwich,Sunny,Lunch,131
+Chicken Burger,Sunny,Lunch,157
+Beef Burger,Sunny,Lunch,180
+Veg Burger,Sunny,Lunch,133
+Chicken Shawarma,Sunny,Lunch,167
+Beef Shawarma,Sunny,Lunch,178
+Chicken Wrap,Sunny,Lunch,154
+Caesar Salad,Sunny,Lunch,181
+Greek Salad,Sunny,Lunch,184
+Chicken Caesar Salad,Sunny,Lunch,209
+Fried Rice,Sunny,Lunch,183
+Chicken Fried Rice,Sunny,Lunch,210
+Egg Fried Rice,Sunny,Lunch,172
+Vegetable Fried Rice,Sunny,Lunch,167
+Noodles,Sunny,Lunch,167
+Chicken Noodles,Sunny,Breakfast,193
+Vegetable Noodles,Sunny,Lunch,152
+Pasta Alfredo,Sunny,Lunch,230
+Spicy Pasta,Sunny,Lunch,213
+Mac & Cheese,Sunny,Lunch,206
+Chicken Pizza,Sunny,Dinner,267
+Beef Pizza,Sunny,Dinner,298
+Veg Pizza,Sunny,Dinner,235
+Margherita Pizza,Sunny,Dinner,249
+BBQ Chicken Pizza,Sunny,Dinner,308
+Beef Biryani,Sunny,Dinner,226
+Chicken Biryani,Sunny,Dinner,208
+Kacchi Biryani,Sunny,Dinner,290
+Tehari,Sunny,Dinner,181
+Khichuri,Sunny,Dinner,150
+Mutton Curry,Sunny,Dinner,276
+Chicken Curry,Sunny,Dinner,200
+Beef Curry,Sunny,Breakfast,210
+Fish Curry,Sunny,Dinner,193
+Dal,Sunny,Dinner,106
+Mixed Vegetables,Sunny,Dinner,120
+Butter Naan,Sunny,Dinner,51
+Garlic Naan,Sunny,Breakfast,47
+Chapati,Sunny,Dinner,34
+Grilled Chicken,Sunny,Dinner,245
+Tandoori Chicken,Sunny,Dinner,264
+Chicken Wings,Sunny,Dinner,234
+BBQ Platter,Sunny,Dinner,436
+Steak,Sunny,Dinner,388
+Soup,Sunny,Dinner,109
+Tomato Soup,Sunny,Dinner,119
+Chicken Corn Soup,Sunny,Dinner,143
+Hot & Sour Soup,Sunny,Lunch,132
+Cold Coffee,Sunny,Lunch,121
+Coffee,Sunny,Breakfast,65
+Cappuccino,Sunny,Breakfast,112
+Latte,Sunny,Breakfast,121
+Espresso,Sunny,Breakfast,95
+Tea,Sunny,Breakfast,34
+Milk Tea,Sunny,Breakfast,44
+Green Tea,Sunny,Breakfast,66
+Hot Chocolate,Sunny,Breakfast,133
+Lemonade,Sunny,Lunch,80
+Orange Juice,Sunny,Breakfast,91
+Mango Juice,Sunny,Lunch,108
+Apple Juice,Sunny,Lunch,103
+Watermelon Juice,Sunny,Lunch,90
+Milkshake,Sunny,Dinner,151
+Chocolate Milkshake,Sunny,Breakfast,146
+Vanilla Milkshake,Sunny,Dinner,149
+Faluda,Sunny,Dinner,161
+Ice Cream,Sunny,Dinner,97
+Brownie,Sunny,Dinner,127
+Cheesecake,Sunny,Dinner,185
+Chocolate Cake,Sunny,Dinner,172
+Red Velvet Cake,Sunny,Dinner,190
+Donut,Sunny,Breakfast,63
+Muffin,Sunny,Breakfast,74
+Paratha & Egg,Rainy,Breakfast,85
+French Toast,Rainy,Breakfast,122
+Pancakes,Rainy,Breakfast,149
+Waffles,Rainy,Breakfast,159
+Omelette,Rainy,Breakfast,98
+Scrambled Eggs,Rainy,Breakfast,102
+Boiled Egg Set,Rainy,Breakfast,70
+Porridge,Rainy,Breakfast,93
+Fruit Bowl,Rainy,Breakfast,121
+Yogurt Parfait,Rainy,Breakfast,134
+Toast & Jam,Rainy,Breakfast,67
+Butter Toast,Rainy,Breakfast,67
+Croissant,Rainy,Breakfast,92
+Breakfast Burrito,Rainy,Breakfast,169
+Hash Browns,Rainy,Breakfast,76
+Samosa,Rainy,Breakfast,38
+Singara,Rainy,Breakfast,38
+Vegetable Roll,Rainy,Breakfast,49
+Chicken Sandwich,Rainy,Lunch,157
+Club Sandwich,Rainy,Lunch,170
+Grilled Cheese Sandwich,Rainy,Lunch,136
+Chicken Burger,Rainy,Breakfast,161
+Beef Burger,Rainy,Lunch,196
+Veg Burger,Rainy,Lunch,142
+Chicken Shawarma,Rainy,Lunch,173
+Beef Shawarma,Rainy,Lunch,182
+Chicken Wrap,Rainy,Lunch,160
+Caesar Salad,Rainy,Lunch,184
+Greek Salad,Rainy,Lunch,186
+Chicken Caesar Salad,Rainy,Lunch,220
+Fried Rice,Rainy,Lunch,186
+Chicken Fried Rice,Rainy,Lunch,225
+Egg Fried Rice,Rainy,Lunch,177
+Vegetable Fried Rice,Rainy,Lunch,177
+Noodles,Rainy,Lunch,170
+Chicken Noodles,Rainy,Lunch,199
+Vegetable Noodles,Rainy,Lunch,162
+Pasta Alfredo,Rainy,Lunch,235
+Spicy Pasta,Rainy,Lunch,218
+Mac & Cheese,Rainy,Lunch,205
+Chicken Pizza,Rainy,Dinner,277
+Beef Pizza,Rainy,Dinner,303
+Veg Pizza,Rainy,Lunch,241
+Margherita Pizza,Rainy,Dinner,253
+BBQ Chicken Pizza,Rainy,Dinner,313
+Beef Biryani,Rainy,Dinner,236
+Chicken Biryani,Rainy,Dinner,217
+Kacchi Biryani,Rainy,Dinner,299
+Tehari,Rainy,Dinner,188
+Khichuri,Rainy,Dinner,174
+Mutton Curry,Rainy,Dinner,273
+Chicken Curry,Rainy,Dinner,210
+Beef Curry,Rainy,Dinner,231
+Fish Curry,Rainy,Breakfast,197
+Dal,Rainy,Dinner,112
+Mixed Vegetables,Rainy,Dinner,123
+Butter Naan,Rainy,Dinner,55
+Garlic Naan,Rainy,Dinner,63
+Chapati,Rainy,Dinner,38
+Grilled Chicken,Rainy,Breakfast,241
+Tandoori Chicken,Rainy,Dinner,274
+Chicken Wings,Rainy,Dinner,234
+BBQ Platter,Rainy,Dinner,435
+Steak,Rainy,Dinner,398
+Soup,Rainy,Dinner,120
+Tomato Soup,Rainy,Dinner,127
+Chicken Corn Soup,Rainy,Dinner,147
+Hot & Sour Soup,Rainy,Dinner,147
+Cold Coffee,Rainy,Lunch,132
+Coffee,Rainy,Breakfast,77
+Cappuccino,Rainy,Breakfast,115
+Latte,Rainy,Breakfast,125
+Espresso,Rainy,Breakfast,97
+Tea,Rainy,Breakfast,55
+Milk Tea,Rainy,Breakfast,64
+Green Tea,Rainy,Breakfast,67
+Hot Chocolate,Rainy,Breakfast,133
+Lemonade,Rainy,Lunch,94
+Orange Juice,Rainy,Breakfast,104
+Mango Juice,Rainy,Lunch,116
+Apple Juice,Rainy,Lunch,114
+Watermelon Juice,Rainy,Lunch,103
+Milkshake,Rainy,Dinner,162
+Chocolate Milkshake,Rainy,Dinner,164
+Vanilla Milkshake,Rainy,Dinner,165
+Faluda,Rainy,Dinner,168
+Ice Cream,Rainy,Dinner,101
+Brownie,Rainy,Dinner,140
+Cheesecake,Rainy,Dinner,201
+Chocolate Cake,Rainy,Dinner,173
+Red Velvet Cake,Rainy,Dinner,192
+Donut,Rainy,Breakfast,74
+Muffin,Rainy,Breakfast,75
+Paratha & Egg,Cloudy,Breakfast,85
+French Toast,Cloudy,Breakfast,108
+Pancakes,Cloudy,Breakfast,141
+Waffles,Cloudy,Breakfast,158
+Omelette,Cloudy,Breakfast,94
+Scrambled Eggs,Cloudy,Breakfast,103
+Boiled Egg Set,Cloudy,Breakfast,78
+Porridge,Cloudy,Breakfast,89
+Fruit Bowl,Cloudy,Breakfast,128
+Yogurt Parfait,Cloudy,Breakfast,131
+Toast & Jam,Cloudy,Breakfast,67
+Butter Toast,Cloudy,Breakfast,55
+Croissant,Cloudy,Breakfast,88
+Breakfast Burrito,Cloudy,Breakfast,159
+Hash Browns,Cloudy,Breakfast,72
+Samosa,Cloudy,Breakfast,31
+Singara,Cloudy,Breakfast,28
+Vegetable Roll,Cloudy,Breakfast,34
+Chicken Sandwich,Cloudy,Lunch,147
+Club Sandwich,Cloudy,Lunch,166
+Grilled Cheese Sandwich,Cloudy,Lunch,124
+Chicken Burger,Cloudy,Lunch,163
+Beef Burger,Cloudy,Lunch,192
+Veg Burger,Cloudy,Lunch,143
+Chicken Shawarma,Cloudy,Lunch,168
+Beef Shawarma,Cloudy,Lunch,183
+Chicken Wrap,Cloudy,Lunch,153
+Caesar Salad,Cloudy,Lunch,176
+Greek Salad,Cloudy,Lunch,186
+Chicken Caesar Salad,Cloudy,Lunch,222
+Fried Rice,Cloudy,Lunch,185
+Chicken Fried Rice,Cloudy,Lunch,211
+Egg Fried Rice,Cloudy,Lunch,174
+Vegetable Fried Rice,Cloudy,Lunch,161
+Noodles,Cloudy,Lunch,173
+Chicken Noodles,Cloudy,Lunch,192
+Vegetable Noodles,Cloudy,Lunch,151
+Pasta Alfredo,Cloudy,Lunch,231
+Spicy Pasta,Cloudy,Lunch,214
+Mac & Cheese,Cloudy,Lunch,210
+Chicken Pizza,Cloudy,Dinner,273
+Beef Pizza,Cloudy,Dinner,298
+Veg Pizza,Cloudy,Dinner,238
+Margherita Pizza,Cloudy,Dinner,253
+BBQ Chicken Pizza,Cloudy,Dinner,313
+Beef Biryani,Cloudy,Dinner,227
+Chicken Biryani,Cloudy,Dinner,213
+Kacchi Biryani,Cloudy,Dinner,289
+Tehari,Cloudy,Dinner,187
+Khichuri,Cloudy,Dinner,161
+Mutton Curry,Cloudy,Dinner,275
+Chicken Curry,Cloudy,Dinner,198
+Beef Curry,Cloudy,Dinner,227
+Fish Curry,Cloudy,Dinner,196
+Dal,Cloudy,Breakfast,95
+Mixed Vegetables,Cloudy,Dinner,117
+Butter Naan,Cloudy,Dinner,49
+Garlic Naan,Cloudy,Dinner,59
+Chapati,Cloudy,Dinner,31
+Grilled Chicken,Cloudy,Dinner,250
+Tandoori Chicken,Cloudy,Breakfast,263
+Chicken Wings,Cloudy,Dinner,232
+BBQ Platter,Cloudy,Dinner,429
+Steak,Cloudy,Dinner,392
+Soup,Cloudy,Dinner,112
+Tomato Soup,Cloudy,Dinner,124
+Chicken Corn Soup,Cloudy,Dinner,142
+Hot & Sour Soup,Cloudy,Dinner,135
+Cold Coffee,Cloudy,Lunch,126
+Coffee,Cloudy,Breakfast,78
+Cappuccino,Cloudy,Breakfast,106
+Latte,Cloudy,Breakfast,123
+Espresso,Cloudy,Breakfast,98
+Tea,Cloudy,Breakfast,38
+Milk Tea,Cloudy,Breakfast,47
+Green Tea,Cloudy,Breakfast,61
+Hot Chocolate,Cloudy,Breakfast,138
+Lemonade,Cloudy,Lunch,89
+Orange Juice,Cloudy,Breakfast,100
+Mango Juice,Cloudy,Lunch,106
+Apple Juice,Cloudy,Lunch,112
+Watermelon Juice,Cloudy,Lunch,101
+Milkshake,Cloudy,Dinner,146
+Chocolate Milkshake,Cloudy,Dinner,166
+Vanilla Milkshake,Cloudy,Dinner,156
+Faluda,Cloudy,Dinner,156
+Ice Cream,Cloudy,Dinner,107
+Brownie,Cloudy,Dinner,138
+Cheesecake,Cloudy,Dinner,186
+Chocolate Cake,Cloudy,Dinner,166
+Red Velvet Cake,Cloudy,Dinner,189
+Donut,Cloudy,Breakfast,64
+Muffin,Cloudy,Breakfast,72
+Paratha & Egg,Cold,Breakfast,93
+French Toast,Cold,Breakfast,118
+Pancakes,Cold,Breakfast,153
+Waffles,Cold,Breakfast,162
+Omelette,Cold,Breakfast,101
+Scrambled Eggs,Cold,Breakfast,98
+Boiled Egg Set,Cold,Breakfast,78
+Porridge,Cold,Breakfast,94
+Fruit Bowl,Cold,Breakfast,134
+Yogurt Parfait,Cold,Breakfast,133
+Toast & Jam,Cold,Breakfast,72
+Butter Toast,Cold,Breakfast,68
+Croissant,Cold,Breakfast,96
+Breakfast Burrito,Cold,Breakfast,166
+Hash Browns,Cold,Breakfast,82
+Samosa,Cold,Breakfast,30
+Singara,Cold,Breakfast,25
+Vegetable Roll,Cold,Breakfast,38
+Chicken Sandwich,Cold,Lunch,156
+Club Sandwich,Cold,Lunch,169
+Grilled Cheese Sandwich,Cold,Lunch,137
+Chicken Burger,Cold,Dinner,175
+Beef Burger,Cold,Lunch,200
+Veg Burger,Cold,Lunch,138
+Chicken Shawarma,Cold,Lunch,168
+Beef Shawarma,Cold,Lunch,191
+Chicken Wrap,Cold,Lunch,162
+Caesar Salad,Cold,Lunch,185
+Greek Salad,Cold,Dinner,194
+Chicken Caesar Salad,Cold,Lunch,230
+Fried Rice,Cold,Lunch,194
+Chicken Fried Rice,Cold,Lunch,224
+Egg Fried Rice,Cold,Lunch,184
+Vegetable Fried Rice,Cold,Lunch,175
+Noodles,Cold,Lunch,174
+Chicken Noodles,Cold,Lunch,206
+Vegetable Noodles,Cold,Dinner,172
+Pasta Alfredo,Cold,Lunch,230
+Spicy Pasta,Cold,Lunch,228
+Mac & Cheese,Cold,Lunch,215
+Chicken Pizza,Cold,Dinner,283
+Beef Pizza,Cold,Lunch,305
+Veg Pizza,Cold,Dinner,254
+Margherita Pizza,Cold,Dinner,262
+BBQ Chicken Pizza,Cold,Dinner,315
+Beef Biryani,Cold,Dinner,233
+Chicken Biryani,Cold,Dinner,221
+Kacchi Biryani,Cold,Dinner,300
+Tehari,Cold,Dinner,183
+Khichuri,Cold,Dinner,176
+Mutton Curry,Cold,Dinner,282
+Chicken Curry,Cold,Dinner,204
+Beef Curry,Cold,Dinner,229
+Fish Curry,Cold,Dinner,208
+Dal,Cold,Dinner,110
+Mixed Vegetables,Cold,Dinner,133
+Butter Naan,Cold,Dinner,59
+Garlic Naan,Cold,Dinner,60
+Chapati,Cold,Dinner,38
+Grilled Chicken,Cold,Dinner,265
+Tandoori Chicken,Cold,Dinner,273
+Chicken Wings,Cold,Dinner,238
+BBQ Platter,Cold,Dinner,437
+Steak,Cold,Dinner,403
+Soup,Cold,Dinner,122
+Tomato Soup,Cold,Dinner,138
+Chicken Corn Soup,Cold,Dinner,163
+Hot & Sour Soup,Cold,Dinner,151
+Cold Coffee,Cold,Lunch,128
+Coffee,Cold,Breakfast,86
+Cappuccino,Cold,Breakfast,127
+Latte,Cold,Breakfast,140
+Espresso,Cold,Breakfast,108
+Tea,Cold,Lunch,60
+Milk Tea,Cold,Breakfast,59
+Green Tea,Cold,Breakfast,73
+Hot Chocolate,Cold,Breakfast,140
+Lemonade,Cold,Lunch,98
+Orange Juice,Cold,Breakfast,104
+Mango Juice,Cold,Lunch,113
+Apple Juice,Cold,Lunch,114
+Watermelon Juice,Cold,Lunch,110
+Milkshake,Cold,Dinner,159
+Chocolate Milkshake,Cold,Dinner,164
+Vanilla Milkshake,Cold,Dinner,163
+Faluda,Cold,Dinner,164
+Ice Cream,Cold,Dinner,103
+Brownie,Cold,Dinner,138
+Cheesecake,Cold,Dinner,205
+Chocolate Cake,Cold,Dinner,178
+Red Velvet Cake,Cold,Dinner,199
+Donut,Cold,Breakfast,73
+Muffin,Cold,Breakfast,79
+Paratha & Egg,Hot,Breakfast,80
+French Toast,Hot,Breakfast,108
+Pancakes,Hot,Breakfast,141
+Waffles,Hot,Breakfast,140
+Omelette,Hot,Breakfast,88
+Scrambled Eggs,Hot,Breakfast,93
+Boiled Egg Set,Hot,Breakfast,65
+Porridge,Hot,Breakfast,78
+Fruit Bowl,Hot,Breakfast,121
+Yogurt Parfait,Hot,Breakfast,133
+Toast & Jam,Hot,Breakfast,57
+Butter Toast,Hot,Breakfast,54
+Croissant,Hot,Breakfast,88
+Breakfast Burrito,Hot,Breakfast,159
+Hash Browns,Hot,Breakfast,72
+Samosa,Hot,Breakfast,17
+Singara,Hot,Breakfast,15
+Vegetable Roll,Hot,Breakfast,28
+Chicken Sandwich,Hot,Lunch,143
+Club Sandwich,Hot,Lunch,153
+Grilled Cheese Sandwich,Hot,Lunch,118
+Chicken Burger,Hot,Lunch,150
+Beef Burger,Hot,Lunch,182
+Veg Burger,Hot,Lunch,128
+Chicken Shawarma,Hot,Lunch,163
+Beef Shawarma,Hot,Lunch,181
+Chicken Wrap,Hot,Lunch,145
+Caesar Salad,Hot,Lunch,176
+Greek Salad,Hot,Lunch,181
+Chicken Caesar Salad,Hot,Lunch,212
+Fried Rice,Hot,Lunch,177
+Chicken Fried Rice,Hot,Lunch,212
+Egg Fried Rice,Hot,Lunch,175
+Vegetable Fried Rice,Hot,Lunch,161
+Noodles,Hot,Lunch,160
+Chicken Noodles,Hot,Lunch,197
+Vegetable Noodles,Hot,Lunch,148
+Pasta Alfredo,Hot,Lunch,221
+Spicy Pasta,Hot,Lunch,209
+Mac & Cheese,Hot,Lunch,195
+Chicken Pizza,Hot,Dinner,260
+Beef Pizza,Hot,Dinner,295
+Veg Pizza,Hot,Dinner,240
+Margherita Pizza,Hot,Dinner,243
+BBQ Chicken Pizza,Hot,Dinner,304
+Beef Biryani,Hot,Dinner,231
+Chicken Biryani,Hot,Dinner,212
+Kacchi Biryani,Hot,Dinner,283
+Tehari,Hot,Dinner,179
+Khichuri,Hot,Dinner,156
+Mutton Curry,Hot,Breakfast,262
+Chicken Curry,Hot,Dinner,202
+Beef Curry,Hot,Dinner,222
+Fish Curry,Hot,Dinner,195
+Dal,Hot,Dinner,101
+Mixed Vegetables,Hot,Dinner,118
+Butter Naan,Hot,Dinner,36
+Garlic Naan,Hot,Dinner,47
+Chapati,Hot,Dinner,21
+Grilled Chicken,Hot,Dinner,243
+Tandoori Chicken,Hot,Dinner,260
+Chicken Wings,Hot,Dinner,226
+BBQ Platter,Hot,Dinner,421
+Steak,Hot,Dinner,380
+Soup,Hot,Dinner,110
+Tomato Soup,Hot,Dinner,111
+Chicken Corn Soup,Hot,Dinner,133
+Hot & Sour Soup,Hot,Dinner,137
+Cold Coffee,Hot,Lunch,128
+Coffee,Hot,Breakfast,60
+Cappuccino,Hot,Breakfast,112
+Latte,Hot,Breakfast,111
+Espresso,Hot,Breakfast,87
+Tea,Hot,Breakfast,37
+Milk Tea,Hot,Breakfast,52
+Green Tea,Hot,Breakfast,60
+Hot Chocolate,Hot,Breakfast,130
+Lemonade,Hot,Lunch,84
+Orange Juice,Hot,Breakfast,100
+Mango Juice,Hot,Breakfast,110
+Apple Juice,Hot,Lunch,105
+Watermelon Juice,Hot,Lunch,89
+Milkshake,Hot,Dinner,156
+Chocolate Milkshake,Hot,Dinner,160
+Vanilla Milkshake,Hot,Dinner,160
+Faluda,Hot,Dinner,159
+Ice Cream,Hot,Dinner,101
+Brownie,Hot,Dinner,127
+Cheesecake,Hot,Dinner,180
+Chocolate Cake,Hot,Dinner,172
+Red Velvet Cake,Hot,Dinner,178
+Donut,Hot,Breakfast,61
+Muffin,Hot,Breakfast,67
+Paratha & Egg,Sunny,Breakfast,86
+French Toast,Sunny,Breakfast,108
+Pancakes,Sunny,Breakfast,141
+Waffles,Sunny,Breakfast,150
+Omelette,Sunny,Breakfast,88
+Scrambled Eggs,Sunny,Breakfast,89
+Boiled Egg Set,Sunny,Breakfast,64
+Porridge,Sunny,Dinner,96
+Fruit Bowl,Sunny,Breakfast,125
+Yogurt Parfait,Sunny,Breakfast,132
+Toast & Jam,Sunny,Breakfast,54
+Butter Toast,Sunny,Breakfast,53
+Croissant,Sunny,Breakfast,89
+Breakfast Burrito,Sunny,Breakfast,160
+Hash Browns,Sunny,Breakfast,69
+Samosa,Sunny,Breakfast,19
+Singara,Sunny,Breakfast,24
+Vegetable Roll,Sunny,Breakfast,31
+Chicken Sandwich,Sunny,Lunch,145
+Club Sandwich,Sunny,Lunch,158
+Grilled Cheese Sandwich,Sunny,Lunch,128
+Chicken Burger,Sunny,Lunch,159
+Beef Burger,Sunny,Lunch,184
+Veg Burger,Sunny,Lunch,130
+Chicken Shawarma,Sunny,Lunch,160
+Beef Shawarma,Sunny,Lunch,174
+Chicken Wrap,Sunny,Lunch,158
+Caesar Salad,Sunny,Dinner,186
+Greek Salad,Sunny,Lunch,190
+Chicken Caesar Salad,Sunny,Lunch,214
+Fried Rice,Sunny,Lunch,183
+Chicken Fried Rice,Sunny,Lunch,210
+Egg Fried Rice,Sunny,Lunch,170
+Vegetable Fried Rice,Sunny,Lunch,164
+Noodles,Sunny,Lunch,168
+Chicken Noodles,Sunny,Lunch,194
+Vegetable Noodles,Sunny,Lunch,156
+Pasta Alfredo,Sunny,Lunch,226
+Spicy Pasta,Sunny,Lunch,211
+Mac & Cheese,Sunny,Lunch,206
+Chicken Pizza,Sunny,Lunch,261
+Beef Pizza,Sunny,Dinner,301
+Veg Pizza,Sunny,Dinner,237
+Margherita Pizza,Sunny,Dinner,248
+BBQ Chicken Pizza,Sunny,Dinner,304
+Beef Biryani,Sunny,Dinner,235
+Chicken Biryani,Sunny,Dinner,207
+Kacchi Biryani,Sunny,Dinner,291
+Tehari,Sunny,Dinner,184
+Khichuri,Sunny,Dinner,159
+Mutton Curry,Sunny,Dinner,273
+Chicken Curry,Sunny,Dinner,203
+Beef Curry,Sunny,Dinner,219
+Fish Curry,Sunny,Dinner,201
+Dal,Sunny,Dinner,100
+Mixed Vegetables,Sunny,Dinner,126
+Butter Naan,Sunny,Dinner,47
+Garlic Naan,Sunny,Dinner,56
+Chapati,Sunny,Dinner,35
+Grilled Chicken,Sunny,Dinner,249
+Tandoori Chicken,Sunny,Dinner,267
+Chicken Wings,Sunny,Dinner,224
+BBQ Platter,Sunny,Dinner,433
+Steak,Sunny,Dinner,388
+Soup,Sunny,Dinner,108
+Tomato Soup,Sunny,Dinner,120
+Chicken Corn Soup,Sunny,Dinner,145
+Hot & Sour Soup,Sunny,Dinner,136
+Cold Coffee,Sunny,Lunch,120
+Coffee,Sunny,Breakfast,67
+Cappuccino,Sunny,Breakfast,106
+Latte,Sunny,Breakfast,119
+Espresso,Sunny,Breakfast,99
+Tea,Sunny,Breakfast,44
+Milk Tea,Sunny,Breakfast,53
+Green Tea,Sunny,Breakfast,60
+Hot Chocolate,Sunny,Breakfast,130
+Lemonade,Sunny,Lunch,81
+Orange Juice,Sunny,Breakfast,94
+Mango Juice,Sunny,Lunch,110
+Apple Juice,Sunny,Lunch,100
+Watermelon Juice,Sunny,Dinner,106
+Milkshake,Sunny,Dinner,153
+Chocolate Milkshake,Sunny,Dinner,158
+Vanilla Milkshake,Sunny,Dinner,156
+Faluda,Sunny,Dinner,154
+Ice Cream,Sunny,Dinner,97
+Brownie,Sunny,Dinner,125
+Cheesecake,Sunny,Dinner,187
+Chocolate Cake,Sunny,Dinner,168
+Red Velvet Cake,Sunny,Dinner,184
+Donut,Sunny,Breakfast,62
+Muffin,Sunny,Breakfast,69
+Paratha & Egg,Rainy,Breakfast,83
+French Toast,Rainy,Breakfast,122
+Pancakes,Rainy,Breakfast,152
+Waffles,Rainy,Breakfast,150
+Omelette,Rainy,Breakfast,98
+Scrambled Eggs,Rainy,Breakfast,106
+Boiled Egg Set,Rainy,Breakfast,70
+Porridge,Rainy,Breakfast,94
+Fruit Bowl,Rainy,Breakfast,132
+Yogurt Parfait,Rainy,Breakfast,138
+Toast & Jam,Rainy,Breakfast,61
+Butter Toast,Rainy,Breakfast,58
+Croissant,Rainy,Breakfast,95
+Breakfast Burrito,Rainy,Breakfast,161
+Hash Browns,Rainy,Breakfast,77
+Samosa,Rainy,Breakfast,32
+Singara,Rainy,Breakfast,25
+Vegetable Roll,Rainy,Breakfast,41
+Chicken Sandwich,Rainy,Lunch,155
+Club Sandwich,Rainy,Lunch,165
+Grilled Cheese Sandwich,Rainy,Lunch,127
+Chicken Burger,Rainy,Lunch,163
+Beef Burger,Rainy,Breakfast,188
+Veg Burger,Rainy,Lunch,147
+Chicken Shawarma,Rainy,Lunch,170
+Beef Shawarma,Rainy,Lunch,184
+Chicken Wrap,Rainy,Lunch,165
+Caesar Salad,Rainy,Lunch,176
+Greek Salad,Rainy,Lunch,190
+Chicken Caesar Salad,Rainy,Lunch,221
+Fried Rice,Rainy,Lunch,188
+Chicken Fried Rice,Rainy,Lunch,219
+Egg Fried Rice,Rainy,Lunch,183
+Vegetable Fried Rice,Rainy,Lunch,167
+Noodles,Rainy,Lunch,169
+Chicken Noodles,Rainy,Lunch,205
+Vegetable Noodles,Rainy,Lunch,160
+Pasta Alfredo,Rainy,Lunch,232
+Spicy Pasta,Rainy,Lunch,222
+Mac & Cheese,Rainy,Breakfast,209
+Chicken Pizza,Rainy,Dinner,282
+Beef Pizza,Rainy,Dinner,301
+Veg Pizza,Rainy,Dinner,250
+Margherita Pizza,Rainy,Dinner,251
+BBQ Chicken Pizza,Rainy,Lunch,316
+Beef Biryani,Rainy,Dinner,230
+Chicken Biryani,Rainy,Dinner,221
+Kacchi Biryani,Rainy,Dinner,299
+Tehari,Rainy,Dinner,186
+Khichuri,Rainy,Dinner,164
+Mutton Curry,Rainy,Lunch,276
+Chicken Curry,Rainy,Dinner,208
+Beef Curry,Rainy,Dinner,228
+Fish Curry,Rainy,Dinner,196
+Dal,Rainy,Dinner,105
+Mixed Vegetables,Rainy,Dinner,132
+Butter Naan,Rainy,Dinner,46
+Garlic Naan,Rainy,Dinner,57
+Chapati,Rainy,Dinner,37
+Grilled Chicken,Rainy,Dinner,258
+Tandoori Chicken,Rainy,Dinner,282
+Chicken Wings,Rainy,Dinner,237
+BBQ Platter,Rainy,Dinner,433
+Steak,Rainy,Dinner,398
+Soup,Rainy,Dinner,119
+Tomato Soup,Rainy,Dinner,131
+Chicken Corn Soup,Rainy,Dinner,152
+Hot & Sour Soup,Rainy,Dinner,142
+Cold Coffee,Rainy,Lunch,131
+Coffee,Rainy,Breakfast,70
+Cappuccino,Rainy,Breakfast,119
+Latte,Rainy,Breakfast,123
+Espresso,Rainy,Breakfast,105
+Tea,Rainy,Breakfast,56
+Milk Tea,Rainy,Breakfast,62
+Green Tea,Rainy,Breakfast,66
+Hot Chocolate,Rainy,Breakfast,142
+Lemonade,Rainy,Dinner,91
+Orange Juice,Rainy,Breakfast,104
+Mango Juice,Rainy,Lunch,111
+Apple Juice,Rainy,Lunch,113
+Watermelon Juice,Rainy,Lunch,103
+Milkshake,Rainy,Dinner,157
+Chocolate Milkshake,Rainy,Dinner,166
+Vanilla Milkshake,Rainy,Dinner,156
+Faluda,Rainy,Dinner,170
+Ice Cream,Rainy,Dinner,100
+Brownie,Rainy,Dinner,139
+Cheesecake,Rainy,Dinner,191
+Chocolate Cake,Rainy,Dinner,180
+Red Velvet Cake,Rainy,Dinner,191
+Donut,Rainy,Breakfast,75
+Muffin,Rainy,Breakfast,82
+Paratha & Egg,Cloudy,Breakfast,76
+French Toast,Cloudy,Breakfast,114
+Pancakes,Cloudy,Breakfast,137
+Waffles,Cloudy,Breakfast,151
+Omelette,Cloudy,Breakfast,97
+Scrambled Eggs,Cloudy,Breakfast,92
+Boiled Egg Set,Cloudy,Dinner,76
+Porridge,Cloudy,Breakfast,92
+Fruit Bowl,Cloudy,Breakfast,119
+Yogurt Parfait,Cloudy,Breakfast,130
+Toast & Jam,Cloudy,Breakfast,67
+Butter Toast,Cloudy,Breakfast,51
+Croissant,Cloudy,Breakfast,94
+Breakfast Burrito,Cloudy,Breakfast,164
+Hash Browns,Cloudy,Breakfast,83
+Samosa,Cloudy,Dinner,42
+Singara,Cloudy,Breakfast,18
+Vegetable Roll,Cloudy,Breakfast,38
+Chicken Sandwich,Cloudy,Lunch,153
+Club Sandwich,Cloudy,Lunch,164
+Grilled Cheese Sandwich,Cloudy,Lunch,131
+Chicken Burger,Cloudy,Lunch,152
+Beef Burger,Cloudy,Dinner,187
+Veg Burger,Cloudy,Lunch,135
+Chicken Shawarma,Cloudy,Lunch,161
+Beef Shawarma,Cloudy,Lunch,186
+Chicken Wrap,Cloudy,Lunch,154
+Caesar Salad,Cloudy,Lunch,173
+Greek Salad,Cloudy,Lunch,182
+Chicken Caesar Salad,Cloudy,Lunch,215
+Fried Rice,Cloudy,Lunch,187
+Chicken Fried Rice,Cloudy,Lunch,221
+Egg Fried Rice,Cloudy,Lunch,180
+Vegetable Fried Rice,Cloudy,Lunch,166
+Noodles,Cloudy,Dinner,172
+Chicken Noodles,Cloudy,Dinner,200
+Vegetable Noodles,Cloudy,Lunch,152
+Pasta Alfredo,Cloudy,Lunch,221
+Spicy Pasta,Cloudy,Lunch,221
+Mac & Cheese,Cloudy,Lunch,211
+Chicken Pizza,Cloudy,Dinner,277
+Beef Pizza,Cloudy,Dinner,299
+Veg Pizza,Cloudy,Dinner,237
+Margherita Pizza,Cloudy,Dinner,255
+BBQ Chicken Pizza,Cloudy,Dinner,315
+Beef Biryani,Cloudy,Dinner,237
+Chicken Biryani,Cloudy,Dinner,211
+Kacchi Biryani,Cloudy,Dinner,297
+Tehari,Cloudy,Dinner,180
+Khichuri,Cloudy,Dinner,160
+Mutton Curry,Cloudy,Dinner,270
+Chicken Curry,Cloudy,Dinner,201
+Beef Curry,Cloudy,Dinner,222
+Fish Curry,Cloudy,Dinner,199
+Dal,Cloudy,Dinner,108
+Mixed Vegetables,Cloudy,Lunch,117
+Butter Naan,Cloudy,Dinner,46
+Garlic Naan,Cloudy,Dinner,54
+Chapati,Cloudy,Dinner,32
+Grilled Chicken,Cloudy,Dinner,246
+Tandoori Chicken,Cloudy,Dinner,274
+Chicken Wings,Cloudy,Dinner,238
+BBQ Platter,Cloudy,Dinner,426
+Steak,Cloudy,Dinner,391
+Soup,Cloudy,Dinner,110
+Tomato Soup,Cloudy,Dinner,120
+Chicken Corn Soup,Cloudy,Dinner,143
+Hot & Sour Soup,Cloudy,Dinner,140
+Cold Coffee,Cloudy,Lunch,123
+Coffee,Cloudy,Breakfast,70
+Cappuccino,Cloudy,Breakfast,118
+Latte,Cloudy,Breakfast,118
+Espresso,Cloudy,Breakfast,103
+Tea,Cloudy,Breakfast,46
+Milk Tea,Cloudy,Breakfast,49
+Green Tea,Cloudy,Breakfast,57
+Hot Chocolate,Cloudy,Dinner,143
+Lemonade,Cloudy,Lunch,93
+Orange Juice,Cloudy,Breakfast,97
+Mango Juice,Cloudy,Lunch,115
+Apple Juice,Cloudy,Lunch,111
+Watermelon Juice,Cloudy,Lunch,99
+Milkshake,Cloudy,Dinner,158
+Chocolate Milkshake,Cloudy,Dinner,160
+Vanilla Milkshake,Cloudy,Lunch,150
+Faluda,Cloudy,Dinner,158
+Ice Cream,Cloudy,Dinner,97
+Brownie,Cloudy,Dinner,131
+Cheesecake,Cloudy,Dinner,192
+Chocolate Cake,Cloudy,Dinner,171
+Red Velvet Cake,Cloudy,Dinner,186
+Donut,Cloudy,Breakfast,64
+Muffin,Cloudy,Breakfast,74
+Paratha & Egg,Cold,Breakfast,90
+French Toast,Cold,Breakfast,118
+Pancakes,Cold,Breakfast,153
+Waffles,Cold,Breakfast,157
+Omelette,Cold,Breakfast,99
+Scrambled Eggs,Cold,Breakfast,102
+Boiled Egg Set,Cold,Breakfast,77
+Porridge,Cold,Breakfast,98
+Fruit Bowl,Cold,Breakfast,128
+Yogurt Parfait,Cold,Breakfast,133
+Toast & Jam,Cold,Breakfast,69
+Butter Toast,Cold,Breakfast,67
+Croissant,Cold,Breakfast,105
+Breakfast Burrito,Cold,Breakfast,166
+Hash Browns,Cold,Breakfast,90
+Samosa,Cold,Breakfast,40
+Singara,Cold,Breakfast,34
+Vegetable Roll,Cold,Breakfast,38
+Chicken Sandwich,Cold,Lunch,162
+Club Sandwich,Cold,Lunch,164
+Grilled Cheese Sandwich,Cold,Lunch,134
+Chicken Burger,Cold,Lunch,164
+Beef Burger,Cold,Lunch,197
+Veg Burger,Cold,Lunch,149
+Chicken Shawarma,Cold,Lunch,174
+Beef Shawarma,Cold,Lunch,183
+Chicken Wrap,Cold,Lunch,159
+Caesar Salad,Cold,Lunch,181
+Greek Salad,Cold,Lunch,188
+Chicken Caesar Salad,Cold,Lunch,223
+Fried Rice,Cold,Lunch,191
+Chicken Fried Rice,Cold,Lunch,230
+Egg Fried Rice,Cold,Lunch,185
+Vegetable Fried Rice,Cold,Lunch,174
+Noodles,Cold,Dinner,180
+Chicken Noodles,Cold,Lunch,200
+Vegetable Noodles,Cold,Lunch,164
+Pasta Alfredo,Cold,Lunch,235
+Spicy Pasta,Cold,Dinner,225
+Mac & Cheese,Cold,Lunch,210
+Chicken Pizza,Cold,Dinner,279
+Beef Pizza,Cold,Dinner,308
+Veg Pizza,Cold,Dinner,248
+Margherita Pizza,Cold,Dinner,265
+BBQ Chicken Pizza,Cold,Dinner,315
+Beef Biryani,Cold,Dinner,241
+Chicken Biryani,Cold,Dinner,214
+Kacchi Biryani,Cold,Dinner,299
+Tehari,Cold,Dinner,191
+Khichuri,Cold,Breakfast,164
+Mutton Curry,Cold,Dinner,278
+Chicken Curry,Cold,Dinner,207
+Beef Curry,Cold,Dinner,235
+Fish Curry,Cold,Dinner,206
+Dal,Cold,Dinner,111
+Mixed Vegetables,Cold,Dinner,130
+Butter Naan,Cold,Dinner,57
+Garlic Naan,Cold,Dinner,62
+Chapati,Cold,Dinner,41
+Grilled Chicken,Cold,Dinner,265
+Tandoori Chicken,Cold,Dinner,284
+Chicken Wings,Cold,Dinner,239
+BBQ Platter,Cold,Dinner,437
+Steak,Cold,Dinner,398
+Soup,Cold,Dinner,130
+Tomato Soup,Cold,Dinner,140
+Chicken Corn Soup,Cold,Dinner,158
+Hot & Sour Soup,Cold,Dinner,146
+Cold Coffee,Cold,Lunch,136
+Coffee,Cold,Breakfast,93
+Cappuccino,Cold,Breakfast,127
+Latte,Cold,Breakfast,143
+Espresso,Cold,Breakfast,119
+Tea,Cold,Breakfast,54
+Milk Tea,Cold,Breakfast,66
+Green Tea,Cold,Breakfast,72
+Hot Chocolate,Cold,Breakfast,144
+Lemonade,Cold,Lunch,98
+Orange Juice,Cold,Breakfast,98
+Mango Juice,Cold,Lunch,123
+Apple Juice,Cold,Lunch,120
+Watermelon Juice,Cold,Lunch,103
+Milkshake,Cold,Breakfast,150
+Chocolate Milkshake,Cold,Dinner,173
+Vanilla Milkshake,Cold,Dinner,164
+Faluda,Cold,Dinner,166
+Ice Cream,Cold,Dinner,103
+Brownie,Cold,Dinner,137
+Cheesecake,Cold,Dinner,201
+Chocolate Cake,Cold,Dinner,180
+Red Velvet Cake,Cold,Dinner,198
+Donut,Cold,Breakfast,76
+Muffin,Cold,Dinner,91
+Paratha & Egg,Hot,Breakfast,74
+French Toast,Hot,Breakfast,107
+Pancakes,Hot,Breakfast,138
+Waffles,Hot,Breakfast,152
+Omelette,Hot,Breakfast,85
+Scrambled Eggs,Hot,Breakfast,88
+Boiled Egg Set,Hot,Breakfast,60
+Porridge,Hot,Breakfast,84
+Fruit Bowl,Hot,Breakfast,122
+Yogurt Parfait,Hot,Breakfast,126
+Toast & Jam,Hot,Breakfast,61
+Butter Toast,Hot,Breakfast,54
+Croissant,Hot,Breakfast,83
+Breakfast Burrito,Hot,Breakfast,159
+Hash Browns,Hot,Breakfast,72
+Samosa,Hot,Breakfast,20
+Singara,Hot,Breakfast,18
+Vegetable Roll,Hot,Breakfast,30
+Chicken Sandwich,Hot,Dinner,153
+Club Sandwich,Hot,Lunch,155
+Grilled Cheese Sandwich,Hot,Lunch,127
+Chicken Burger,Hot,Lunch,156
+Beef Burger,Hot,Lunch,175
+Veg Burger,Hot,Lunch,129
+Chicken Shawarma,Hot,Lunch,155
+Beef Shawarma,Hot,Lunch,177
+Chicken Wrap,Hot,Lunch,153
+Caesar Salad,Hot,Lunch,175
+Greek Salad,Hot,Lunch,179
+Chicken Caesar Salad,Hot,Lunch,212
+Fried Rice,Hot,Lunch,176
+Chicken Fried Rice,Hot,Lunch,209
+Egg Fried Rice,Hot,Lunch,177
+Vegetable Fried Rice,Hot,Lunch,162
+Noodles,Hot,Lunch,159
+Chicken Noodles,Hot,Lunch,189
+Vegetable Noodles,Hot,Lunch,149
+Pasta Alfredo,Hot,Lunch,215
+Spicy Pasta,Hot,Lunch,209
+Mac & Cheese,Hot,Lunch,199
+Chicken Pizza,Hot,Dinner,266
+Beef Pizza,Hot,Dinner,295
+Veg Pizza,Hot,Dinner,242
+Margherita Pizza,Hot,Dinner,242
+BBQ Chicken Pizza,Hot,Dinner,304
+Beef Biryani,Hot,Breakfast,214
+Chicken Biryani,Hot,Dinner,200
+Kacchi Biryani,Hot,Dinner,292
+Tehari,Hot,Dinner,182
+Khichuri,Hot,Dinner,148
+Mutton Curry,Hot,Dinner,264
+Chicken Curry,Hot,Dinner,198
+Beef Curry,Hot,Dinner,215
+Fish Curry,Hot,Dinner,191
+Dal,Hot,Dinner,101
+Mixed Vegetables,Hot,Dinner,116
+Butter Naan,Hot,Dinner,47
+Garlic Naan,Hot,Dinner,46
+Chapati,Hot,Dinner,20
+Grilled Chicken,Hot,Dinner,249
+Tandoori Chicken,Hot,Dinner,264
+Chicken Wings,Hot,Dinner,223
+BBQ Platter,Hot,Dinner,424
+Steak,Hot,Dinner,392
+Soup,Hot,Breakfast,101
+Tomato Soup,Hot,Dinner,114
+Chicken Corn Soup,Hot,Dinner,137
+Hot & Sour Soup,Hot,Dinner,131
+Cold Coffee,Hot,Lunch,121
+Coffee,Hot,Breakfast,65
+Cappuccino,Hot,Breakfast,101
+Latte,Hot,Breakfast,112
+Espresso,Hot,Breakfast,95
+Tea,Hot,Breakfast,34
+Milk Tea,Hot,Breakfast,43
+Green Tea,Hot,Breakfast,53
+Hot Chocolate,Hot,Breakfast,130
+Lemonade,Hot,Lunch,90
+Orange Juice,Hot,Breakfast,92
+Mango Juice,Hot,Lunch,121
+Apple Juice,Hot,Lunch,108
+Watermelon Juice,Hot,Lunch,89
+Milkshake,Hot,Dinner,148
+Chocolate Milkshake,Hot,Dinner,155
+Vanilla Milkshake,Hot,Dinner,155
+Faluda,Hot,Dinner,165
+Ice Cream,Hot,Dinner,103
+Brownie,Hot,Dinner,124
+Cheesecake,Hot,Dinner,189
+Chocolate Cake,Hot,Dinner,162
+Red Velvet Cake,Hot,Dinner,179
+Donut,Hot,Breakfast,61
+Muffin,Hot,Breakfast,75
+Paratha & Egg,Sunny,Breakfast,85
+French Toast,Sunny,Breakfast,115
+Pancakes,Sunny,Breakfast,140
+Waffles,Sunny,Breakfast,155
+Omelette,Sunny,Breakfast,91
+Scrambled Eggs,Sunny,Breakfast,92
+Boiled Egg Set,Sunny,Breakfast,71
+Porridge,Sunny,Breakfast,81
+Fruit Bowl,Sunny,Breakfast,123
+Yogurt Parfait,Sunny,Breakfast,125
+Toast & Jam,Sunny,Breakfast,64
+Butter Toast,Sunny,Breakfast,59
+Croissant,Sunny,Breakfast,84
+Breakfast Burrito,Sunny,Breakfast,160
+Hash Browns,Sunny,Breakfast,77
+Samosa,Sunny,Breakfast,19
+Singara,Sunny,Breakfast,20
+Vegetable Roll,Sunny,Breakfast,33
+Chicken Sandwich,Sunny,Lunch,147
+Club Sandwich,Sunny,Lunch,158
+Grilled Cheese Sandwich,Sunny,Lunch,125
+Chicken Burger,Sunny,Lunch,155
+Beef Burger,Sunny,Lunch,188
+Veg Burger,Sunny,Lunch,140
+Chicken Shawarma,Sunny,Lunch,171
+Beef Shawarma,Sunny,Lunch,179
+Chicken Wrap,Sunny,Lunch,149
+Caesar Salad,Sunny,Lunch,180
+Greek Salad,Sunny,Lunch,182
+Chicken Caesar Salad,Sunny,Lunch,218
+Fried Rice,Sunny,Lunch,186
+Chicken Fried Rice,Sunny,Lunch,218
+Egg Fried Rice,Sunny,Lunch,172
+Vegetable Fried Rice,Sunny,Lunch,171
+Noodles,Sunny,Lunch,170
+Chicken Noodles,Sunny,Lunch,190
+Vegetable Noodles,Sunny,Lunch,153
+Pasta Alfredo,Sunny,Lunch,227
+Spicy Pasta,Sunny,Lunch,221
+Mac & Cheese,Sunny,Lunch,206
+Chicken Pizza,Sunny,Dinner,276
+Beef Pizza,Sunny,Dinner,298
+Veg Pizza,Sunny,Dinner,235
+Margherita Pizza,Sunny,Dinner,255
+BBQ Chicken Pizza,Sunny,Dinner,313
+Beef Biryani,Sunny,Dinner,224
+Chicken Biryani,Sunny,Dinner,212
+Kacchi Biryani,Sunny,Dinner,289
+Tehari,Sunny,Dinner,181
+Khichuri,Sunny,Dinner,155
+Mutton Curry,Sunny,Dinner,264
+Chicken Curry,Sunny,Dinner,201
+Beef Curry,Sunny,Dinner,226
+Fish Curry,Sunny,Dinner,193
+Dal,Sunny,Dinner,101
+Mixed Vegetables,Sunny,Dinner,116
+Butter Naan,Sunny,Dinner,42
+Garlic Naan,Sunny,Dinner,59
+Chapati,Sunny,Dinner,34
+Grilled Chicken,Sunny,Dinner,247
+Tandoori Chicken,Sunny,Lunch,267
+Chicken Wings,Sunny,Dinner,234
+BBQ Platter,Sunny,Dinner,427
+Steak,Sunny,Dinner,395
+Soup,Sunny,Lunch,105
+Tomato Soup,Sunny,Dinner,119
+Chicken Corn Soup,Sunny,Dinner,137
+Hot & Sour Soup,Sunny,Dinner,141
+Cold Coffee,Sunny,Lunch,126
+Coffee,Sunny,Breakfast,73
+Cappuccino,Sunny,Breakfast,106
+Latte,Sunny,Breakfast,114
+Espresso,Sunny,Breakfast,92
+Tea,Sunny,Breakfast,37
+Milk Tea,Sunny,Breakfast,55
+Green Tea,Sunny,Breakfast,54
+Hot Chocolate,Sunny,Breakfast,128
+Lemonade,Sunny,Lunch,83
+Orange Juice,Sunny,Breakfast,96
+Mango Juice,Sunny,Lunch,105
+Apple Juice,Sunny,Lunch,111
+Watermelon Juice,Sunny,Lunch,95
+Milkshake,Sunny,Dinner,147
+Chocolate Milkshake,Sunny,Dinner,165
+Vanilla Milkshake,Sunny,Dinner,153
+Faluda,Sunny,Dinner,159
+Ice Cream,Sunny,Dinner,105
+Brownie,Sunny,Dinner,133
+Cheesecake,Sunny,Dinner,188
+Chocolate Cake,Sunny,Dinner,173
+Red Velvet Cake,Sunny,Dinner,179
+Donut,Sunny,Breakfast,66
+Muffin,Sunny,Breakfast,74
+Paratha & Egg,Rainy,Breakfast,82
+French Toast,Rainy,Breakfast,119
+Pancakes,Rainy,Breakfast,141
+Waffles,Rainy,Breakfast,156
+Omelette,Rainy,Breakfast,99
+Scrambled Eggs,Rainy,Breakfast,106
+Boiled Egg Set,Rainy,Breakfast,82
+Porridge,Rainy,Breakfast,90
+Fruit Bowl,Rainy,Breakfast,127
+Yogurt Parfait,Rainy,Breakfast,130
+Toast & Jam,Rainy,Breakfast,67
+Butter Toast,Rainy,Breakfast,55
+Croissant,Rainy,Breakfast,102
+Breakfast Burrito,Rainy,Breakfast,165
+Hash Browns,Rainy,Breakfast,87
+Samosa,Rainy,Breakfast,33
+Singara,Rainy,Breakfast,32
+Vegetable Roll,Rainy,Breakfast,46
+Chicken Sandwich,Rainy,Lunch,153
+Club Sandwich,Rainy,Lunch,171
+Grilled Cheese Sandwich,Rainy,Lunch,134
+Chicken Burger,Rainy,Lunch,166
+Beef Burger,Rainy,Lunch,196
+Veg Burger,Rainy,Lunch,137
+Chicken Shawarma,Rainy,Lunch,177
+Beef Shawarma,Rainy,Lunch,189
+Chicken Wrap,Rainy,Lunch,159
+Caesar Salad,Rainy,Lunch,180
+Greek Salad,Rainy,Lunch,190
+Chicken Caesar Salad,Rainy,Lunch,223
+Fried Rice,Rainy,Lunch,189
+Chicken Fried Rice,Rainy,Lunch,215
+Egg Fried Rice,Rainy,Lunch,179
+Vegetable Fried Rice,Rainy,Lunch,168
+Noodles,Rainy,Lunch,165
+Chicken Noodles,Rainy,Lunch,206
+Vegetable Noodles,Rainy,Lunch,162
+Pasta Alfredo,Rainy,Lunch,232
+Spicy Pasta,Rainy,Lunch,223
+Mac & Cheese,Rainy,Lunch,217
+Chicken Pizza,Rainy,Dinner,275
+Beef Pizza,Rainy,Dinner,301
+Veg Pizza,Rainy,Dinner,245
+Margherita Pizza,Rainy,Dinner,252
+BBQ Chicken Pizza,Rainy,Dinner,311
+Beef Biryani,Rainy,Dinner,231
+Chicken Biryani,Rainy,Dinner,221
+Kacchi Biryani,Rainy,Dinner,300
+Tehari,Rainy,Dinner,182
+Khichuri,Rainy,Dinner,164
+Mutton Curry,Rainy,Dinner,279
+Chicken Curry,Rainy,Dinner,203
+Beef Curry,Rainy,Breakfast,220
+Fish Curry,Rainy,Dinner,203
+Dal,Rainy,Dinner,104
+Mixed Vegetables,Rainy,Dinner,121
+Butter Naan,Rainy,Dinner,51
+Garlic Naan,Rainy,Dinner,61
+Chapati,Rainy,Dinner,31
+Grilled Chicken,Rainy,Dinner,259
+Tandoori Chicken,Rainy,Dinner,273
+Chicken Wings,Rainy,Dinner,239
+BBQ Platter,Rainy,Dinner,430
+Steak,Rainy,Dinner,402
+Soup,Rainy,Dinner,125
+Tomato Soup,Rainy,Dinner,131
+Chicken Corn Soup,Rainy,Dinner,158
+Hot & Sour Soup,Rainy,Dinner,145
+Cold Coffee,Rainy,Lunch,130
+Coffee,Rainy,Breakfast,77
+Cappuccino,Rainy,Breakfast,119
+Latte,Rainy,Breakfast,131
+Espresso,Rainy,Breakfast,103
+Tea,Rainy,Breakfast,59
+Milk Tea,Rainy,Breakfast,58
+Green Tea,Rainy,Breakfast,72
+Hot Chocolate,Rainy,Breakfast,134
+Lemonade,Rainy,Lunch,93
+Orange Juice,Rainy,Breakfast,99
+Mango Juice,Rainy,Lunch,119
+Apple Juice,Rainy,Lunch,109
+Watermelon Juice,Rainy,Lunch,102
+Milkshake,Rainy,Dinner,155
+Chocolate Milkshake,Rainy,Dinner,167
+Vanilla Milkshake,Rainy,Dinner,155
+Faluda,Rainy,Dinner,164
+Ice Cream,Rainy,Dinner,100
+Brownie,Rainy,Dinner,137
+Cheesecake,Rainy,Dinner,190
+Chocolate Cake,Rainy,Dinner,180
+Red Velvet Cake,Rainy,Lunch,180
+Donut,Rainy,Breakfast,72
+Muffin,Rainy,Breakfast,76
+Paratha & Egg,Cloudy,Breakfast,83
+French Toast,Cloudy,Breakfast,117
+Pancakes,Cloudy,Breakfast,147
+Waffles,Cloudy,Breakfast,153
+Omelette,Cloudy,Breakfast,92
+Scrambled Eggs,Cloudy,Breakfast,102
+Boiled Egg Set,Cloudy,Breakfast,77
+Porridge,Cloudy,Breakfast,92
+Fruit Bowl,Cloudy,Breakfast,128
+Yogurt Parfait,Cloudy,Breakfast,135
+Toast & Jam,Cloudy,Breakfast,56
+Butter Toast,Cloudy,Breakfast,56
+Croissant,Cloudy,Breakfast,94
+Breakfast Burrito,Cloudy,Breakfast,164
+Hash Browns,Cloudy,Breakfast,71
+Samosa,Cloudy,Breakfast,27
+Singara,Cloudy,Breakfast,23
+Vegetable Roll,Cloudy,Breakfast,41
+Chicken Sandwich,Cloudy,Lunch,149
+Club Sandwich,Cloudy,Lunch,167
+Grilled Cheese Sandwich,Cloudy,Lunch,126
+Chicken Burger,Cloudy,Lunch,157
+Beef Burger,Cloudy,Lunch,189
+Veg Burger,Cloudy,Lunch,140
+Chicken Shawarma,Cloudy,Lunch,172
+Beef Shawarma,Cloudy,Lunch,177
+Chicken Wrap,Cloudy,Lunch,152
+Caesar Salad,Cloudy,Lunch,177
+Greek Salad,Cloudy,Lunch,192
+Chicken Caesar Salad,Cloudy,Lunch,214
+Fried Rice,Cloudy,Lunch,182
+Chicken Fried Rice,Cloudy,Lunch,212
+Egg Fried Rice,Cloudy,Lunch,171
+Vegetable Fried Rice,Cloudy,Lunch,169
+Noodles,Cloudy,Lunch,169
+Chicken Noodles,Cloudy,Lunch,195
+Vegetable Noodles,Cloudy,Lunch,158
+Pasta Alfredo,Cloudy,Lunch,224
+Spicy Pasta,Cloudy,Lunch,213
+Mac & Cheese,Cloudy,Lunch,213
+Chicken Pizza,Cloudy,Dinner,272
+Beef Pizza,Cloudy,Dinner,298
+Veg Pizza,Cloudy,Dinner,238
+Margherita Pizza,Cloudy,Dinner,252
+BBQ Chicken Pizza,Cloudy,Dinner,310
+Beef Biryani,Cloudy,Dinner,233
+Chicken Biryani,Cloudy,Dinner,211
+Kacchi Biryani,Cloudy,Dinner,286
+Tehari,Cloudy,Dinner,183
+Khichuri,Cloudy,Dinner,162
+Mutton Curry,Cloudy,Dinner,275
+Chicken Curry,Cloudy,Dinner,208
+Beef Curry,Cloudy,Dinner,220
+Fish Curry,Cloudy,Lunch,189
+Dal,Cloudy,Dinner,99
+Mixed Vegetables,Cloudy,Dinner,124
+Butter Naan,Cloudy,Dinner,43
+Garlic Naan,Cloudy,Dinner,63
+Chapati,Cloudy,Dinner,32
+Grilled Chicken,Cloudy,Dinner,251
+Tandoori Chicken,Cloudy,Dinner,278
+Chicken Wings,Cloudy,Dinner,237
+BBQ Platter,Cloudy,Dinner,430
+Steak,Cloudy,Dinner,391
+Soup,Cloudy,Dinner,109
+Tomato Soup,Cloudy,Lunch,119
+Chicken Corn Soup,Cloudy,Dinner,140
+Hot & Sour Soup,Cloudy,Dinner,131
+Cold Coffee,Cloudy,Lunch,122
+Coffee,Cloudy,Breakfast,68
+Cappuccino,Cloudy,Breakfast,112
+Latte,Cloudy,Breakfast,128
+Espresso,Cloudy,Breakfast,103
+Tea,Cloudy,Breakfast,36
+Milk Tea,Cloudy,Breakfast,48
+Green Tea,Cloudy,Dinner,66
+Hot Chocolate,Cloudy,Breakfast,133
+Lemonade,Cloudy,Lunch,91
+Orange Juice,Cloudy,Breakfast,98
+Mango Juice,Cloudy,Lunch,108
+Apple Juice,Cloudy,Lunch,113
+Watermelon Juice,Cloudy,Lunch,96
+Milkshake,Cloudy,Dinner,154
+Chocolate Milkshake,Cloudy,Dinner,167
+Vanilla Milkshake,Cloudy,Dinner,161
+Faluda,Cloudy,Dinner,157
+Ice Cream,Cloudy,Dinner,102
+Brownie,Cloudy,Dinner,127
+Cheesecake,Cloudy,Dinner,191
+Chocolate Cake,Cloudy,Dinner,166
+Red Velvet Cake,Cloudy,Dinner,189
+Donut,Cloudy,Breakfast,72
+Muffin,Cloudy,Breakfast,75
+Paratha & Egg,Cold,Breakfast,92
+French Toast,Cold,Breakfast,121
+Pancakes,Cold,Breakfast,146
+Waffles,Cold,Breakfast,153
+Omelette,Cold,Breakfast,103
+Scrambled Eggs,Cold,Breakfast,98
+Boiled Egg Set,Cold,Breakfast,84
+Porridge,Cold,Breakfast,92
+Fruit Bowl,Cold,Breakfast,133
+Yogurt Parfait,Cold,Breakfast,134
+Toast & Jam,Cold,Lunch,73
+Butter Toast,Cold,Breakfast,61
+Croissant,Cold,Breakfast,97
+Breakfast Burrito,Cold,Breakfast,175
+Hash Browns,Cold,Breakfast,85
+Samosa,Cold,Breakfast,35
+Singara,Cold,Breakfast,24
+Vegetable Roll,Cold,Lunch,52
+Chicken Sandwich,Cold,Lunch,159
+Club Sandwich,Cold,Lunch,163
+Grilled Cheese Sandwich,Cold,Dinner,145
+Chicken Burger,Cold,Breakfast,155
+Beef Burger,Cold,Lunch,196
+Veg Burger,Cold,Lunch,144
+Chicken Shawarma,Cold,Lunch,172
+Beef Shawarma,Cold,Lunch,191
+Chicken Wrap,Cold,Lunch,166
+Caesar Salad,Cold,Lunch,186
+Greek Salad,Cold,Lunch,190
+Chicken Caesar Salad,Cold,Lunch,220
+Fried Rice,Cold,Lunch,199
+Chicken Fried Rice,Cold,Lunch,222
+Egg Fried Rice,Cold,Lunch,188
+Vegetable Fried Rice,Cold,Lunch,172
+Noodles,Cold,Lunch,175
+Chicken Noodles,Cold,Lunch,210
+Vegetable Noodles,Cold,Lunch,163
+Pasta Alfredo,Cold,Lunch,233
+Spicy Pasta,Cold,Lunch,227
+Mac & Cheese,Cold,Lunch,216
+Chicken Pizza,Cold,Dinner,273
+Beef Pizza,Cold,Dinner,310
+Veg Pizza,Cold,Dinner,249
+Margherita Pizza,Cold,Dinner,260
+BBQ Chicken Pizza,Cold,Dinner,314
+Beef Biryani,Cold,Breakfast,226
+Chicken Biryani,Cold,Dinner,225
+Kacchi Biryani,Cold,Dinner,293
+Tehari,Cold,Dinner,187
+Khichuri,Cold,Dinner,177
+Mutton Curry,Cold,Dinner,285
+Chicken Curry,Cold,Dinner,208
+Beef Curry,Cold,Dinner,230
+Fish Curry,Cold,Dinner,202
+Dal,Cold,Dinner,109
+Mixed Vegetables,Cold,Dinner,126
+Butter Naan,Cold,Dinner,57
+Garlic Naan,Cold,Dinner,68
+Chapati,Cold,Dinner,34
+Grilled Chicken,Cold,Dinner,254
+Tandoori Chicken,Cold,Dinner,273
+Chicken Wings,Cold,Dinner,242
+BBQ Platter,Cold,Dinner,443
+Steak,Cold,Dinner,394
+Soup,Cold,Dinner,130
+Tomato Soup,Cold,Dinner,129
+Chicken Corn Soup,Cold,Dinner,158
+Hot & Sour Soup,Cold,Dinner,151
+Cold Coffee,Cold,Lunch,140
+Coffee,Cold,Breakfast,79
+Cappuccino,Cold,Breakfast,129
+Latte,Cold,Breakfast,135
+Espresso,Cold,Breakfast,107
+Tea,Cold,Breakfast,61
+Milk Tea,Cold,Lunch,80
+Green Tea,Cold,Breakfast,80
+Hot Chocolate,Cold,Breakfast,142
+Lemonade,Cold,Lunch,90
+Orange Juice,Cold,Breakfast,99
+Mango Juice,Cold,Dinner,121
+Apple Juice,Cold,Lunch,113
+Watermelon Juice,Cold,Lunch,105
+Milkshake,Cold,Dinner,157
+Chocolate Milkshake,Cold,Dinner,166
+Vanilla Milkshake,Cold,Dinner,164
+Faluda,Cold,Lunch,158
+Ice Cream,Cold,Dinner,105
+Brownie,Cold,Dinner,138
+Cheesecake,Cold,Dinner,202
+Chocolate Cake,Cold,Dinner,183
+Red Velvet Cake,Cold,Dinner,195
+Donut,Cold,Breakfast,70
+Muffin,Cold,Breakfast,78
+Paratha & Egg,Hot,Breakfast,82
+French Toast,Hot,Breakfast,100
+Pancakes,Hot,Breakfast,142
+Waffles,Hot,Breakfast,141
+Omelette,Hot,Breakfast,85
+Scrambled Eggs,Hot,Breakfast,86
+Boiled Egg Set,Hot,Breakfast,60
+Porridge,Hot,Breakfast,77
+Fruit Bowl,Hot,Breakfast,129
+Yogurt Parfait,Hot,Breakfast,135
+Toast & Jam,Hot,Breakfast,52
+Butter Toast,Hot,Breakfast,46
+Croissant,Hot,Breakfast,90
+Breakfast Burrito,Hot,Breakfast,161
+Hash Browns,Hot,Breakfast,76
+Samosa,Hot,Breakfast,15
+Singara,Hot,Breakfast,21
+Vegetable Roll,Hot,Breakfast,35
+Chicken Sandwich,Hot,Lunch,146
+Club Sandwich,Hot,Lunch,159
+Grilled Cheese Sandwich,Hot,Lunch,115
+Chicken Burger,Hot,Lunch,149
+Beef Burger,Hot,Lunch,179
+Veg Burger,Hot,Lunch,128
+Chicken Shawarma,Hot,Lunch,155
+Beef Shawarma,Hot,Lunch,182
+Chicken Wrap,Hot,Lunch,150
+Caesar Salad,Hot,Lunch,177
+Greek Salad,Hot,Lunch,181
+Chicken Caesar Salad,Hot,Lunch,209
+Fried Rice,Hot,Lunch,182
+Chicken Fried Rice,Hot,Lunch,210
+Egg Fried Rice,Hot,Lunch,170
+Vegetable Fried Rice,Hot,Lunch,160
+Noodles,Hot,Lunch,156
+Chicken Noodles,Hot,Lunch,186
+Vegetable Noodles,Hot,Lunch,150
+Pasta Alfredo,Hot,Lunch,222
+Spicy Pasta,Hot,Lunch,205
+Mac & Cheese,Hot,Lunch,206
+Chicken Pizza,Hot,Dinner,272
+Beef Pizza,Hot,Dinner,301
+Veg Pizza,Hot,Dinner,237
+Margherita Pizza,Hot,Dinner,244
+BBQ Chicken Pizza,Hot,Dinner,301
+Beef Biryani,Hot,Dinner,226
+Chicken Biryani,Hot,Dinner,203
+Kacchi Biryani,Hot,Dinner,287
+Tehari,Hot,Dinner,175
+Khichuri,Hot,Dinner,148
+Mutton Curry,Hot,Dinner,264
+Chicken Curry,Hot,Dinner,190
+Beef Curry,Hot,Dinner,211
+Fish Curry,Hot,Dinner,186
+Dal,Hot,Breakfast,84
+Mixed Vegetables,Hot,Dinner,119
+Butter Naan,Hot,Dinner,46
+Garlic Naan,Hot,Dinner,46
+Chapati,Hot,Dinner,25
+Grilled Chicken,Hot,Dinner,244
+Tandoori Chicken,Hot,Dinner,268
+Chicken Wings,Hot,Dinner,220
+BBQ Platter,Hot,Dinner,420
+Steak,Hot,Dinner,380
+Soup,Hot,Dinner,101
+Tomato Soup,Hot,Dinner,118
+Chicken Corn Soup,Hot,Dinner,134
+Hot & Sour Soup,Hot,Dinner,137
+Cold Coffee,Hot,Lunch,134
+Coffee,Hot,Lunch,75
+Cappuccino,Hot,Breakfast,112
+Latte,Hot,Breakfast,120
+Espresso,Hot,Breakfast,91
+Tea,Hot,Breakfast,40
+Milk Tea,Hot,Lunch,56
+Green Tea,Hot,Breakfast,62
+Hot Chocolate,Hot,Breakfast,130
+Lemonade,Hot,Lunch,90
+Orange Juice,Hot,Breakfast,96
+Mango Juice,Hot,Lunch,119
+Apple Juice,Hot,Lunch,111
+Watermelon Juice,Hot,Lunch,96
+Milkshake,Hot,Dinner,146
+Chocolate Milkshake,Hot,Dinner,161
+Vanilla Milkshake,Hot,Dinner,163
+Faluda,Hot,Dinner,160
+Ice Cream,Hot,Dinner,102
+Brownie,Hot,Dinner,127
+Cheesecake,Hot,Dinner,189
+Chocolate Cake,Hot,Dinner,163
+Red Velvet Cake,Hot,Dinner,179
+Donut,Hot,Breakfast,62
+Muffin,Hot,Breakfast,72
+Paratha & Egg,Sunny,Breakfast,75
+French Toast,Sunny,Breakfast,109
+Pancakes,Sunny,Breakfast,141
+Waffles,Sunny,Breakfast,147
+Omelette,Sunny,Breakfast,86
+Scrambled Eggs,Sunny,Breakfast,90
+Boiled Egg Set,Sunny,Breakfast,75
+Porridge,Sunny,Breakfast,90
+Fruit Bowl,Sunny,Breakfast,118
+Yogurt Parfait,Sunny,Dinner,143
+Toast & Jam,Sunny,Breakfast,66
+Butter Toast,Sunny,Breakfast,52
+Croissant,Sunny,Breakfast,84
+Breakfast Burrito,Sunny,Breakfast,155
+Hash Browns,Sunny,Breakfast,75
+Samosa,Sunny,Breakfast,24
+Singara,Sunny,Breakfast,22
+Vegetable Roll,Sunny,Breakfast,37
+Chicken Sandwich,Sunny,Lunch,155
+Club Sandwich,Sunny,Lunch,159
+Grilled Cheese Sandwich,Sunny,Lunch,121
+Chicken Burger,Sunny,Breakfast,146
+Beef Burger,Sunny,Lunch,182
+Veg Burger,Sunny,Lunch,133
+Chicken Shawarma,Sunny,Lunch,165
+Beef Shawarma,Sunny,Lunch,176
+Chicken Wrap,Sunny,Lunch,149
+Caesar Salad,Sunny,Lunch,175
+Greek Salad,Sunny,Lunch,188
+Chicken Caesar Salad,Sunny,Lunch,215
+Fried Rice,Sunny,Lunch,179
+Chicken Fried Rice,Sunny,Lunch,220
+Egg Fried Rice,Sunny,Lunch,177
+Vegetable Fried Rice,Sunny,Lunch,164
+Noodles,Sunny,Lunch,166
+Chicken Noodles,Sunny,Lunch,201
+Vegetable Noodles,Sunny,Lunch,151
+Pasta Alfredo,Sunny,Lunch,227
+Spicy Pasta,Sunny,Lunch,211
+Mac & Cheese,Sunny,Lunch,207
+Chicken Pizza,Sunny,Dinner,267
+Beef Pizza,Sunny,Dinner,306
+Veg Pizza,Sunny,Dinner,242
+Margherita Pizza,Sunny,Dinner,252
+BBQ Chicken Pizza,Sunny,Dinner,310
+Beef Biryani,Sunny,Dinner,235
+Chicken Biryani,Sunny,Dinner,215
+Kacchi Biryani,Sunny,Dinner,291
+Tehari,Sunny,Dinner,177
+Khichuri,Sunny,Dinner,155
+Mutton Curry,Sunny,Dinner,273
+Chicken Curry,Sunny,Dinner,201
+Beef Curry,Sunny,Dinner,223
+Fish Curry,Sunny,Dinner,193
+Dal,Sunny,Dinner,95
+Mixed Vegetables,Sunny,Dinner,124
+Butter Naan,Sunny,Dinner,45
+Garlic Naan,Sunny,Dinner,56
+Chapati,Sunny,Dinner,27
+Grilled Chicken,Sunny,Dinner,251
+Tandoori Chicken,Sunny,Dinner,274
+Chicken Wings,Sunny,Dinner,235
+BBQ Platter,Sunny,Dinner,430
+Steak,Sunny,Dinner,389
+Soup,Sunny,Dinner,106
+Tomato Soup,Sunny,Dinner,123
+Chicken Corn Soup,Sunny,Dinner,138
+Hot & Sour Soup,Sunny,Dinner,140
+Cold Coffee,Sunny,Lunch,125
+Coffee,Sunny,Breakfast,75
+Cappuccino,Sunny,Breakfast,108
+Latte,Sunny,Breakfast,116
+Espresso,Sunny,Breakfast,90
+Tea,Sunny,Breakfast,41
+Milk Tea,Sunny,Breakfast,48
+Green Tea,Sunny,Breakfast,60
+Hot Chocolate,Sunny,Breakfast,125
+Lemonade,Sunny,Lunch,83
+Orange Juice,Sunny,Breakfast,96
+Mango Juice,Sunny,Lunch,116
+Apple Juice,Sunny,Lunch,100
+Watermelon Juice,Sunny,Lunch,96
+Milkshake,Sunny,Dinner,144
+Chocolate Milkshake,Sunny,Dinner,154
+Vanilla Milkshake,Sunny,Dinner,161
+Faluda,Sunny,Dinner,163
+Ice Cream,Sunny,Dinner,94
+Brownie,Sunny,Dinner,125
+Cheesecake,Sunny,Dinner,196
+Chocolate Cake,Sunny,Dinner,165
+Red Velvet Cake,Sunny,Dinner,187
+Donut,Sunny,Breakfast,61
+Muffin,Sunny,Breakfast,77
+Paratha & Egg,Rainy,Breakfast,91
+French Toast,Rainy,Breakfast,120
+Pancakes,Rainy,Breakfast,142
+Waffles,Rainy,Breakfast,158
+Omelette,Rainy,Breakfast,98
+Scrambled Eggs,Rainy,Breakfast,99
+Boiled Egg Set,Rainy,Breakfast,82
+Porridge,Rainy,Breakfast,93
+Fruit Bowl,Rainy,Breakfast,132
+Yogurt Parfait,Rainy,Breakfast,136
+Toast & Jam,Rainy,Breakfast,66
+Butter Toast,Rainy,Breakfast,59
+Croissant,Rainy,Breakfast,95
+Breakfast Burrito,Rainy,Breakfast,162
+Hash Browns,Rainy,Breakfast,87
+Samosa,Rainy,Lunch,51
+Singara,Rainy,Breakfast,30
+Vegetable Roll,Rainy,Breakfast,47
+Chicken Sandwich,Rainy,Lunch,162
+Club Sandwich,Rainy,Lunch,167
+Grilled Cheese Sandwich,Rainy,Lunch,127
+Chicken Burger,Rainy,Lunch,164
+Beef Burger,Rainy,Lunch,194
+Veg Burger,Rainy,Lunch,144
+Chicken Shawarma,Rainy,Lunch,169
+Beef Shawarma,Rainy,Lunch,192
+Chicken Wrap,Rainy,Lunch,155
+Caesar Salad,Rainy,Lunch,180
+Greek Salad,Rainy,Lunch,191
+Chicken Caesar Salad,Rainy,Lunch,215
+Fried Rice,Rainy,Lunch,190
+Chicken Fried Rice,Rainy,Lunch,217
+Egg Fried Rice,Rainy,Lunch,187
+Vegetable Fried Rice,Rainy,Lunch,168
+Noodles,Rainy,Lunch,170
+Chicken Noodles,Rainy,Lunch,206
+Vegetable Noodles,Rainy,Lunch,155
+Pasta Alfredo,Rainy,Lunch,226
+Spicy Pasta,Rainy,Lunch,221
+Mac & Cheese,Rainy,Lunch,212
+Chicken Pizza,Rainy,Dinner,275
+Beef Pizza,Rainy,Breakfast,291
+Veg Pizza,Rainy,Dinner,249
+Margherita Pizza,Rainy,Dinner,259
+BBQ Chicken Pizza,Rainy,Dinner,320
+Beef Biryani,Rainy,Dinner,242
+Chicken Biryani,Rainy,Dinner,216
+Kacchi Biryani,Rainy,Dinner,299
+Tehari,Rainy,Dinner,192
+Khichuri,Rainy,Dinner,165
+Mutton Curry,Rainy,Dinner,282
+Chicken Curry,Rainy,Dinner,200
+Beef Curry,Rainy,Dinner,221
+Fish Curry,Rainy,Dinner,196
+Dal,Rainy,Dinner,100
+Mixed Vegetables,Rainy,Dinner,132
+Butter Naan,Rainy,Dinner,57
+Garlic Naan,Rainy,Dinner,58
+Chapati,Rainy,Dinner,31
+Grilled Chicken,Rainy,Dinner,260
+Tandoori Chicken,Rainy,Dinner,282
+Chicken Wings,Rainy,Dinner,234
+BBQ Platter,Rainy,Dinner,442
+Steak,Rainy,Dinner,400
+Soup,Rainy,Breakfast,110
+Tomato Soup,Rainy,Dinner,130
+Chicken Corn Soup,Rainy,Dinner,153
+Hot & Sour Soup,Rainy,Dinner,142
+Cold Coffee,Rainy,Lunch,135
+Coffee,Rainy,Breakfast,72
+Cappuccino,Rainy,Breakfast,118
+Latte,Rainy,Breakfast,120
+Espresso,Rainy,Breakfast,98
+Tea,Rainy,Breakfast,47
+Milk Tea,Rainy,Breakfast,65
+Green Tea,Rainy,Breakfast,71
+Hot Chocolate,Rainy,Breakfast,133
+Lemonade,Rainy,Lunch,88
+Orange Juice,Rainy,Breakfast,95
+Mango Juice,Rainy,Lunch,114
+Apple Juice,Rainy,Lunch,114
+Watermelon Juice,Rainy,Lunch,103
+Milkshake,Rainy,Dinner,151
+Chocolate Milkshake,Rainy,Dinner,169
+Vanilla Milkshake,Rainy,Dinner,157
+Faluda,Rainy,Dinner,161
+Ice Cream,Rainy,Dinner,105
+Brownie,Rainy,Dinner,139
+Cheesecake,Rainy,Dinner,196
+Chocolate Cake,Rainy,Dinner,178
+Red Velvet Cake,Rainy,Dinner,194
+Donut,Rainy,Breakfast,69
+Muffin,Rainy,Breakfast,78
+Paratha & Egg,Cloudy,Breakfast,86
+French Toast,Cloudy,Breakfast,110
+Pancakes,Cloudy,Breakfast,137
+Waffles,Cloudy,Breakfast,152
+Omelette,Cloudy,Breakfast,95
+Scrambled Eggs,Cloudy,Breakfast,96
+Boiled Egg Set,Cloudy,Breakfast,66
+Porridge,Cloudy,Breakfast,83
+Fruit Bowl,Cloudy,Breakfast,117
+Yogurt Parfait,Cloudy,Breakfast,128
+Toast & Jam,Cloudy,Breakfast,62
+Butter Toast,Cloudy,Breakfast,51
+Croissant,Cloudy,Breakfast,93
+Breakfast Burrito,Cloudy,Breakfast,161
+Hash Browns,Cloudy,Breakfast,79
+Samosa,Cloudy,Breakfast,25
+Singara,Cloudy,Breakfast,20
+Vegetable Roll,Cloudy,Breakfast,43
+Chicken Sandwich,Cloudy,Lunch,152
+Club Sandwich,Cloudy,Lunch,168
+Grilled Cheese Sandwich,Cloudy,Lunch,130
+Chicken Burger,Cloudy,Lunch,161
+Beef Burger,Cloudy,Lunch,185
+Veg Burger,Cloudy,Lunch,139
+Chicken Shawarma,Cloudy,Lunch,171
+Beef Shawarma,Cloudy,Lunch,184
+Chicken Wrap,Cloudy,Lunch,154
+Caesar Salad,Cloudy,Lunch,182
+Greek Salad,Cloudy,Lunch,192
+Chicken Caesar Salad,Cloudy,Lunch,218
+Fried Rice,Cloudy,Lunch,185
+Chicken Fried Rice,Cloudy,Lunch,216
+Egg Fried Rice,Cloudy,Lunch,179
+Vegetable Fried Rice,Cloudy,Lunch,161
+Noodles,Cloudy,Lunch,164
+Chicken Noodles,Cloudy,Lunch,193
+Vegetable Noodles,Cloudy,Lunch,155
+Pasta Alfredo,Cloudy,Dinner,233
+Spicy Pasta,Cloudy,Lunch,211
+Mac & Cheese,Cloudy,Lunch,203
+Chicken Pizza,Cloudy,Dinner,266
+Beef Pizza,Cloudy,Dinner,303
+Veg Pizza,Cloudy,Dinner,240
+Margherita Pizza,Cloudy,Dinner,248
+BBQ Chicken Pizza,Cloudy,Dinner,313
+Beef Biryani,Cloudy,Dinner,234
+Chicken Biryani,Cloudy,Dinner,207
+Kacchi Biryani,Cloudy,Dinner,293
+Tehari,Cloudy,Dinner,184
+Khichuri,Cloudy,Dinner,154
+Mutton Curry,Cloudy,Dinner,268
+Chicken Curry,Cloudy,Dinner,201
+Beef Curry,Cloudy,Dinner,216
+Fish Curry,Cloudy,Dinner,199
+Dal,Cloudy,Dinner,100
+Mixed Vegetables,Cloudy,Dinner,128
+Butter Naan,Cloudy,Dinner,43
+Garlic Naan,Cloudy,Dinner,63
+Chapati,Cloudy,Dinner,35
+Grilled Chicken,Cloudy,Dinner,251
+Tandoori Chicken,Cloudy,Dinner,274
+Chicken Wings,Cloudy,Dinner,233
+BBQ Platter,Cloudy,Dinner,435
+Steak,Cloudy,Dinner,393
+Soup,Cloudy,Dinner,112
+Tomato Soup,Cloudy,Dinner,125
+Chicken Corn Soup,Cloudy,Dinner,138
+Hot & Sour Soup,Cloudy,Dinner,143
+Cold Coffee,Cloudy,Lunch,123
+Coffee,Cloudy,Breakfast,68
+Cappuccino,Cloudy,Breakfast,117
+Latte,Cloudy,Breakfast,121
+Espresso,Cloudy,Breakfast,103
+Tea,Cloudy,Breakfast,43
+Milk Tea,Cloudy,Breakfast,48
+Green Tea,Cloudy,Breakfast,59
+Hot Chocolate,Cloudy,Breakfast,135
+Lemonade,Cloudy,Lunch,88
+Orange Juice,Cloudy,Lunch,98
+Mango Juice,Cloudy,Lunch,112
+Apple Juice,Cloudy,Lunch,108
+Watermelon Juice,Cloudy,Lunch,95
+Milkshake,Cloudy,Dinner,148
+Chocolate Milkshake,Cloudy,Dinner,167
+Vanilla Milkshake,Cloudy,Dinner,161
+Faluda,Cloudy,Dinner,168
+Ice Cream,Cloudy,Dinner,108
+Brownie,Cloudy,Dinner,132
+Cheesecake,Cloudy,Dinner,192
+Chocolate Cake,Cloudy,Dinner,178
+Red Velvet Cake,Cloudy,Dinner,193
+Donut,Cloudy,Breakfast,71
+Muffin,Cloudy,Breakfast,72
+Paratha & Egg,Cold,Dinner,104
+French Toast,Cold,Breakfast,123
+Pancakes,Cold,Breakfast,155
+Waffles,Cold,Breakfast,157
+Omelette,Cold,Breakfast,93
+Scrambled Eggs,Cold,Breakfast,107
+Boiled Egg Set,Cold,Breakfast,75
+Porridge,Cold,Breakfast,95
+Fruit Bowl,Cold,Breakfast,124
+Yogurt Parfait,Cold,Breakfast,133
+Toast & Jam,Cold,Breakfast,65
+Butter Toast,Cold,Breakfast,60
+Croissant,Cold,Breakfast,99
+Breakfast Burrito,Cold,Breakfast,171
+Hash Browns,Cold,Lunch,87
+Samosa,Cold,Breakfast,30
+Singara,Cold,Breakfast,25
+Vegetable Roll,Cold,Breakfast,41
+Chicken Sandwich,Cold,Lunch,157
+Club Sandwich,Cold,Lunch,168
+Grilled Cheese Sandwich,Cold,Dinner,137
+Chicken Burger,Cold,Dinner,164
+Beef Burger,Cold,Lunch,195
+Veg Burger,Cold,Lunch,141
+Chicken Shawarma,Cold,Lunch,175
+Beef Shawarma,Cold,Lunch,195
+Chicken Wrap,Cold,Lunch,158
+Caesar Salad,Cold,Lunch,188
+Greek Salad,Cold,Lunch,191
+Chicken Caesar Salad,Cold,Lunch,224
+Fried Rice,Cold,Lunch,193
+Chicken Fried Rice,Cold,Lunch,230
+Egg Fried Rice,Cold,Lunch,182
+Vegetable Fried Rice,Cold,Lunch,168
+Noodles,Cold,Lunch,170
+Chicken Noodles,Cold,Lunch,204
+Vegetable Noodles,Cold,Lunch,160
+Pasta Alfredo,Cold,Lunch,240
+Spicy Pasta,Cold,Lunch,225
+Mac & Cheese,Cold,Lunch,210
+Chicken Pizza,Cold,Dinner,285
+Beef Pizza,Cold,Dinner,312
+Veg Pizza,Cold,Dinner,244
+Margherita Pizza,Cold,Dinner,254
+BBQ Chicken Pizza,Cold,Dinner,313
+Beef Biryani,Cold,Dinner,239
+Chicken Biryani,Cold,Dinner,223
+Kacchi Biryani,Cold,Dinner,303
+Tehari,Cold,Dinner,189
+Khichuri,Cold,Dinner,174
+Mutton Curry,Cold,Dinner,273
+Chicken Curry,Cold,Dinner,208
+Beef Curry,Cold,Dinner,228
+Fish Curry,Cold,Dinner,205
+Dal,Cold,Dinner,114
+Mixed Vegetables,Cold,Dinner,123
+Butter Naan,Cold,Dinner,52
+Garlic Naan,Cold,Dinner,60
+Chapati,Cold,Dinner,39
+Grilled Chicken,Cold,Dinner,257
+Tandoori Chicken,Cold,Dinner,280
+Chicken Wings,Cold,Dinner,233
+BBQ Platter,Cold,Dinner,442
+Steak,Cold,Dinner,397
+Soup,Cold,Dinner,123
+Tomato Soup,Cold,Dinner,129
+Chicken Corn Soup,Cold,Dinner,161
+Hot & Sour Soup,Cold,Dinner,148
+Cold Coffee,Cold,Lunch,129
+Coffee,Cold,Breakfast,84
+Cappuccino,Cold,Breakfast,129
+Latte,Cold,Breakfast,130
+Espresso,Cold,Breakfast,108
+Tea,Cold,Breakfast,59
+Milk Tea,Cold,Breakfast,70
+Green Tea,Cold,Breakfast,80
+Hot Chocolate,Cold,Breakfast,147
+Lemonade,Cold,Lunch,89
+Orange Juice,Cold,Breakfast,99
+Mango Juice,Cold,Lunch,114
+Apple Juice,Cold,Lunch,116
+Watermelon Juice,Cold,Lunch,102
+Milkshake,Cold,Dinner,162
+Chocolate Milkshake,Cold,Dinner,170
+Vanilla Milkshake,Cold,Dinner,162
+Faluda,Cold,Dinner,167
+Ice Cream,Cold,Dinner,113
+Brownie,Cold,Dinner,133
+Cheesecake,Cold,Dinner,196
+Chocolate Cake,Cold,Dinner,181
+Red Velvet Cake,Cold,Dinner,188
+Donut,Cold,Breakfast,70
+Muffin,Cold,Breakfast,86
+Paratha & Egg,Hot,Breakfast,70
+French Toast,Hot,Breakfast,109
+Pancakes,Hot,Breakfast,130
+Waffles,Hot,Breakfast,148
+Omelette,Hot,Dinner,92
+Scrambled Eggs,Hot,Breakfast,90
+Boiled Egg Set,Hot,Breakfast,71
+Porridge,Hot,Breakfast,80
+Fruit Bowl,Hot,Breakfast,128
+Yogurt Parfait,Hot,Breakfast,138
+Toast & Jam,Hot,Dinner,62
+Butter Toast,Hot,Breakfast,52
+Croissant,Hot,Breakfast,86
+Breakfast Burrito,Hot,Breakfast,162
+Hash Browns,Hot,Breakfast,65
+Samosa,Hot,Lunch,30
+Singara,Hot,Breakfast,19
+Vegetable Roll,Hot,Breakfast,31
+Chicken Sandwich,Hot,Lunch,141
+Club Sandwich,Hot,Lunch,153
+Grilled Cheese Sandwich,Hot,Lunch,117
+Chicken Burger,Hot,Lunch,152
+Beef Burger,Hot,Lunch,186
+Veg Burger,Hot,Lunch,135
+Chicken Shawarma,Hot,Lunch,158
+Beef Shawarma,Hot,Lunch,182
+Chicken Wrap,Hot,Lunch,147
+Caesar Salad,Hot,Lunch,170
+Greek Salad,Hot,Lunch,186
+Chicken Caesar Salad,Hot,Lunch,205
+Fried Rice,Hot,Lunch,181
+Chicken Fried Rice,Hot,Lunch,209
+Egg Fried Rice,Hot,Lunch,171
+Vegetable Fried Rice,Hot,Lunch,155
+Noodles,Hot,Lunch,161
+Chicken Noodles,Hot,Lunch,186
+Vegetable Noodles,Hot,Lunch,157
+Pasta Alfredo,Hot,Lunch,221
+Spicy Pasta,Hot,Lunch,211
+Mac & Cheese,Hot,Lunch,197
+Chicken Pizza,Hot,Dinner,267
+Beef Pizza,Hot,Dinner,296
+Veg Pizza,Hot,Dinner,237
+Margherita Pizza,Hot,Dinner,245
+BBQ Chicken Pizza,Hot,Dinner,301
+Beef Biryani,Hot,Dinner,231
+Chicken Biryani,Hot,Dinner,204
+Kacchi Biryani,Hot,Dinner,292
+Tehari,Hot,Dinner,182
+Khichuri,Hot,Dinner,157
+Mutton Curry,Hot,Dinner,267
+Chicken Curry,Hot,Breakfast,185
+Beef Curry,Hot,Dinner,214
+Fish Curry,Hot,Dinner,192
+Dal,Hot,Dinner,93
+Mixed Vegetables,Hot,Dinner,118
+Butter Naan,Hot,Dinner,46
+Garlic Naan,Hot,Dinner,46
+Chapati,Hot,Dinner,26
+Grilled Chicken,Hot,Dinner,246
+Tandoori Chicken,Hot,Dinner,264
+Chicken Wings,Hot,Dinner,227
+BBQ Platter,Hot,Dinner,422
+Steak,Hot,Dinner,390
+Soup,Hot,Dinner,105
+Tomato Soup,Hot,Dinner,120
+Chicken Corn Soup,Hot,Dinner,139
+Hot & Sour Soup,Hot,Dinner,134
+Cold Coffee,Hot,Lunch,123
+Coffee,Hot,Breakfast,72
+Cappuccino,Hot,Breakfast,109
+Latte,Hot,Breakfast,116
+Espresso,Hot,Breakfast,97
+Tea,Hot,Breakfast,38
+Milk Tea,Hot,Breakfast,46
+Green Tea,Hot,Dinner,63
+Hot Chocolate,Hot,Breakfast,131
+Lemonade,Hot,Lunch,85
+Orange Juice,Hot,Breakfast,105
+Mango Juice,Hot,Lunch,115
+Apple Juice,Hot,Lunch,106
+Watermelon Juice,Hot,Lunch,92
+Milkshake,Hot,Dinner,150
+Chocolate Milkshake,Hot,Dinner,168
+Vanilla Milkshake,Hot,Dinner,165
+Faluda,Hot,Breakfast,154
+Ice Cream,Hot,Dinner,100
+Brownie,Hot,Dinner,125
+Cheesecake,Hot,Dinner,190
+Chocolate Cake,Hot,Dinner,163
+Red Velvet Cake,Hot,Dinner,175
+Donut,Hot,Breakfast,61
+Muffin,Hot,Breakfast,70
+Paratha & Egg,Sunny,Lunch,83
+French Toast,Sunny,Breakfast,115
+Pancakes,Sunny,Breakfast,144
+Waffles,Sunny,Breakfast,146
+Omelette,Sunny,Breakfast,93
+Scrambled Eggs,Sunny,Dinner,105
+Boiled Egg Set,Sunny,Breakfast,69
+Porridge,Sunny,Breakfast,84
+Fruit Bowl,Sunny,Breakfast,124
+Yogurt Parfait,Sunny,Breakfast,124
+Toast & Jam,Sunny,Dinner,73
+Butter Toast,Sunny,Breakfast,52
+Croissant,Sunny,Breakfast,84
+Breakfast Burrito,Sunny,Breakfast,161
+Hash Browns,Sunny,Breakfast,75
+Samosa,Sunny,Breakfast,23
+Singara,Sunny,Breakfast,15
+Vegetable Roll,Sunny,Breakfast,37
+Chicken Sandwich,Sunny,Lunch,144
+Club Sandwich,Sunny,Lunch,158
+Grilled Cheese Sandwich,Sunny,Lunch,124
+Chicken Burger,Sunny,Lunch,154
+Beef Burger,Sunny,Lunch,187
+Veg Burger,Sunny,Lunch,131
+Chicken Shawarma,Sunny,Lunch,167
+Beef Shawarma,Sunny,Lunch,179
+Chicken Wrap,Sunny,Lunch,150
+Caesar Salad,Sunny,Lunch,174
+Greek Salad,Sunny,Breakfast,180
+Chicken Caesar Salad,Sunny,Lunch,214
+Fried Rice,Sunny,Lunch,185
+Chicken Fried Rice,Sunny,Dinner,218
+Egg Fried Rice,Sunny,Lunch,169
+Vegetable Fried Rice,Sunny,Lunch,166
+Noodles,Sunny,Lunch,167
+Chicken Noodles,Sunny,Lunch,190
+Vegetable Noodles,Sunny,Lunch,159
+Pasta Alfredo,Sunny,Lunch,228
+Spicy Pasta,Sunny,Lunch,218
+Mac & Cheese,Sunny,Lunch,209
+Chicken Pizza,Sunny,Dinner,271
+Beef Pizza,Sunny,Dinner,294
+Veg Pizza,Sunny,Dinner,240
+Margherita Pizza,Sunny,Dinner,248
+BBQ Chicken Pizza,Sunny,Dinner,306
+Beef Biryani,Sunny,Lunch,224
+Chicken Biryani,Sunny,Dinner,206
+Kacchi Biryani,Sunny,Dinner,289
+Tehari,Sunny,Dinner,184
+Khichuri,Sunny,Dinner,151
+Mutton Curry,Sunny,Dinner,271
+Chicken Curry,Sunny,Dinner,200
+Beef Curry,Sunny,Dinner,224
+Fish Curry,Sunny,Dinner,194
+Dal,Sunny,Dinner,101
+Mixed Vegetables,Sunny,Dinner,126
+Butter Naan,Sunny,Dinner,45
+Garlic Naan,Sunny,Dinner,59
+Chapati,Sunny,Dinner,26
+Grilled Chicken,Sunny,Dinner,252
+Tandoori Chicken,Sunny,Dinner,272
+Chicken Wings,Sunny,Dinner,230
+BBQ Platter,Sunny,Dinner,430
+Steak,Sunny,Dinner,393
+Soup,Sunny,Dinner,115
+Tomato Soup,Sunny,Dinner,124
+Chicken Corn Soup,Sunny,Dinner,138
+Hot & Sour Soup,Sunny,Dinner,136
+Cold Coffee,Sunny,Lunch,119
+Coffee,Sunny,Breakfast,69
+Cappuccino,Sunny,Breakfast,111
+Latte,Sunny,Breakfast,125
+Espresso,Sunny,Breakfast,95
+Tea,Sunny,Breakfast,40
+Milk Tea,Sunny,Breakfast,49
+Green Tea,Sunny,Breakfast,60
+Hot Chocolate,Sunny,Breakfast,133
+Lemonade,Sunny,Lunch,89
+Orange Juice,Sunny,Breakfast,92
+Mango Juice,Sunny,Lunch,116
+Apple Juice,Sunny,Lunch,105
+Watermelon Juice,Sunny,Lunch,95
+Milkshake,Sunny,Dinner,149
+Chocolate Milkshake,Sunny,Dinner,164
+Vanilla Milkshake,Sunny,Dinner,161
+Faluda,Sunny,Dinner,157
+Ice Cream,Sunny,Dinner,104
+Brownie,Sunny,Dinner,128
+Cheesecake,Sunny,Dinner,189
+Chocolate Cake,Sunny,Dinner,167
+Red Velvet Cake,Sunny,Breakfast,178
+Donut,Sunny,Breakfast,62
+Muffin,Sunny,Breakfast,78
+Paratha & Egg,Rainy,Breakfast,81
+French Toast,Rainy,Breakfast,118
+Pancakes,Rainy,Breakfast,146
+Waffles,Rainy,Breakfast,159
+Omelette,Rainy,Breakfast,98
+Scrambled Eggs,Rainy,Breakfast,95
+Boiled Egg Set,Rainy,Breakfast,77
+Porridge,Rainy,Breakfast,87
+Fruit Bowl,Rainy,Breakfast,125
+Yogurt Parfait,Rainy,Breakfast,131
+Toast & Jam,Rainy,Breakfast,71
+Butter Toast,Rainy,Breakfast,59
+Croissant,Rainy,Breakfast,93
+Breakfast Burrito,Rainy,Breakfast,171
+Hash Browns,Rainy,Breakfast,84
+Samosa,Rainy,Breakfast,35
+Singara,Rainy,Breakfast,34
+Vegetable Roll,Rainy,Breakfast,55
+Chicken Sandwich,Rainy,Lunch,162
+Club Sandwich,Rainy,Lunch,164
+Grilled Cheese Sandwich,Rainy,Lunch,127
+Chicken Burger,Rainy,Lunch,161
+Beef Burger,Rainy,Lunch,196
+Veg Burger,Rainy,Lunch,135
+Chicken Shawarma,Rainy,Lunch,172
+Beef Shawarma,Rainy,Lunch,186
+Chicken Wrap,Rainy,Lunch,164
+Caesar Salad,Rainy,Lunch,186
+Greek Salad,Rainy,Lunch,186
+Chicken Caesar Salad,Rainy,Lunch,219
+Fried Rice,Rainy,Lunch,196
+Chicken Fried Rice,Rainy,Lunch,224
+Egg Fried Rice,Rainy,Lunch,175
+Vegetable Fried Rice,Rainy,Lunch,175
+Noodles,Rainy,Lunch,176
+Chicken Noodles,Rainy,Lunch,202
+Vegetable Noodles,Rainy,Lunch,165
+Pasta Alfredo,Rainy,Lunch,230
+Spicy Pasta,Rainy,Lunch,215
+Mac & Cheese,Rainy,Lunch,207
+Chicken Pizza,Rainy,Dinner,270
+Beef Pizza,Rainy,Dinner,301
+Veg Pizza,Rainy,Dinner,247
+Margherita Pizza,Rainy,Dinner,257
+BBQ Chicken Pizza,Rainy,Dinner,310
+Beef Biryani,Rainy,Dinner,237
+Chicken Biryani,Rainy,Dinner,212
+Kacchi Biryani,Rainy,Dinner,300
+Tehari,Rainy,Dinner,190
+Khichuri,Rainy,Dinner,171
+Mutton Curry,Rainy,Dinner,270
+Chicken Curry,Rainy,Dinner,200
+Beef Curry,Rainy,Dinner,220
+Fish Curry,Rainy,Dinner,207
+Dal,Rainy,Dinner,108
+Mixed Vegetables,Rainy,Dinner,131
+Butter Naan,Rainy,Dinner,51
+Garlic Naan,Rainy,Dinner,65
+Chapati,Rainy,Dinner,31
+Grilled Chicken,Rainy,Dinner,252
+Tandoori Chicken,Rainy,Dinner,274
+Chicken Wings,Rainy,Dinner,240
+BBQ Platter,Rainy,Dinner,430
+Steak,Rainy,Dinner,391
+Soup,Rainy,Dinner,122
+Tomato Soup,Rainy,Dinner,131
+Chicken Corn Soup,Rainy,Breakfast,142
+Hot & Sour Soup,Rainy,Dinner,146
+Cold Coffee,Rainy,Lunch,125
+Coffee,Rainy,Breakfast,70
+Cappuccino,Rainy,Breakfast,110
+Latte,Rainy,Breakfast,130
+Espresso,Rainy,Breakfast,97
+Tea,Rainy,Breakfast,60
+Milk Tea,Rainy,Breakfast,62
+Green Tea,Rainy,Breakfast,61
+Hot Chocolate,Rainy,Breakfast,139
+Lemonade,Rainy,Lunch,94
+Orange Juice,Rainy,Breakfast,100
+Mango Juice,Rainy,Lunch,119
+Apple Juice,Rainy,Lunch,115
+Watermelon Juice,Rainy,Lunch,100
+Milkshake,Rainy,Breakfast,147
+Chocolate Milkshake,Rainy,Lunch,158
+Vanilla Milkshake,Rainy,Dinner,167
+Faluda,Rainy,Dinner,165
+Ice Cream,Rainy,Dinner,109
+Brownie,Rainy,Dinner,138
+Cheesecake,Rainy,Dinner,198
+Chocolate Cake,Rainy,Dinner,171
+Red Velvet Cake,Rainy,Lunch,181
+Donut,Rainy,Breakfast,68
+Muffin,Rainy,Breakfast,83
+Paratha & Egg,Cloudy,Breakfast,84
+French Toast,Cloudy,Breakfast,109
+Pancakes,Cloudy,Breakfast,142
+Waffles,Cloudy,Breakfast,147
+Omelette,Cloudy,Breakfast,91
+Scrambled Eggs,Cloudy,Lunch,106
+Boiled Egg Set,Cloudy,Breakfast,71
+Porridge,Cloudy,Breakfast,81
+Fruit Bowl,Cloudy,Breakfast,124
+Yogurt Parfait,Cloudy,Lunch,132
+Toast & Jam,Cloudy,Breakfast,68
+Butter Toast,Cloudy,Breakfast,63
+Croissant,Cloudy,Breakfast,86
+Breakfast Burrito,Cloudy,Breakfast,157
+Hash Browns,Cloudy,Breakfast,74
+Samosa,Cloudy,Breakfast,24
+Singara,Cloudy,Breakfast,25
+Vegetable Roll,Cloudy,Breakfast,31
+Chicken Sandwich,Cloudy,Lunch,153
+Club Sandwich,Cloudy,Lunch,160
+Grilled Cheese Sandwich,Cloudy,Dinner,129
+Chicken Burger,Cloudy,Lunch,154
+Beef Burger,Cloudy,Lunch,186
+Veg Burger,Cloudy,Lunch,137
+Chicken Shawarma,Cloudy,Lunch,166
+Beef Shawarma,Cloudy,Lunch,177
+Chicken Wrap,Cloudy,Lunch,161
+Caesar Salad,Cloudy,Lunch,182
+Greek Salad,Cloudy,Lunch,191
+Chicken Caesar Salad,Cloudy,Lunch,222
+Fried Rice,Cloudy,Lunch,186
+Chicken Fried Rice,Cloudy,Lunch,211
+Egg Fried Rice,Cloudy,Lunch,182
+Vegetable Fried Rice,Cloudy,Lunch,164
+Noodles,Cloudy,Lunch,161
+Chicken Noodles,Cloudy,Lunch,201
+Vegetable Noodles,Cloudy,Lunch,160
+Pasta Alfredo,Cloudy,Lunch,221
+Spicy Pasta,Cloudy,Lunch,215
+Mac & Cheese,Cloudy,Breakfast,199
+Chicken Pizza,Cloudy,Dinner,269
+Beef Pizza,Cloudy,Dinner,296
+Veg Pizza,Cloudy,Dinner,243
+Margherita Pizza,Cloudy,Dinner,252
+BBQ Chicken Pizza,Cloudy,Dinner,310
+Beef Biryani,Cloudy,Dinner,232
+Chicken Biryani,Cloudy,Dinner,213
+Kacchi Biryani,Cloudy,Dinner,290
+Tehari,Cloudy,Dinner,180
+Khichuri,Cloudy,Dinner,159
+Mutton Curry,Cloudy,Dinner,276
+Chicken Curry,Cloudy,Dinner,201
+Beef Curry,Cloudy,Dinner,222
+Fish Curry,Cloudy,Dinner,192
+Dal,Cloudy,Dinner,99
+Mixed Vegetables,Cloudy,Dinner,117
+Butter Naan,Cloudy,Dinner,51
+Garlic Naan,Cloudy,Dinner,52
+Chapati,Cloudy,Dinner,35
+Grilled Chicken,Cloudy,Dinner,256
+Tandoori Chicken,Cloudy,Dinner,271
+Chicken Wings,Cloudy,Dinner,233
+BBQ Platter,Cloudy,Dinner,428
+Steak,Cloudy,Dinner,386
+Soup,Cloudy,Dinner,113
+Tomato Soup,Cloudy,Dinner,118
+Chicken Corn Soup,Cloudy,Breakfast,136
+Hot & Sour Soup,Cloudy,Dinner,143
+Cold Coffee,Cloudy,Lunch,123
+Coffee,Cloudy,Breakfast,68
+Cappuccino,Cloudy,Breakfast,115
+Latte,Cloudy,Breakfast,116
+Espresso,Cloudy,Breakfast,93
+Tea,Cloudy,Breakfast,41
+Milk Tea,Cloudy,Breakfast,50
+Green Tea,Cloudy,Breakfast,61
+Hot Chocolate,Cloudy,Breakfast,129
+Lemonade,Cloudy,Lunch,87
+Orange Juice,Cloudy,Breakfast,91
+Mango Juice,Cloudy,Lunch,109
+Apple Juice,Cloudy,Lunch,101
+Watermelon Juice,Cloudy,Lunch,100
+Milkshake,Cloudy,Dinner,155
+Chocolate Milkshake,Cloudy,Dinner,158
+Vanilla Milkshake,Cloudy,Dinner,152
+Faluda,Cloudy,Dinner,160
+Ice Cream,Cloudy,Dinner,107
+Brownie,Cloudy,Dinner,137
+Cheesecake,Cloudy,Dinner,188
+Chocolate Cake,Cloudy,Dinner,172
+Red Velvet Cake,Cloudy,Dinner,183
+Donut,Cloudy,Breakfast,68
+Muffin,Cloudy,Breakfast,81
+Paratha & Egg,Cold,Breakfast,95
+French Toast,Cold,Breakfast,124
+Pancakes,Cold,Breakfast,149
+Waffles,Cold,Breakfast,153
+Omelette,Cold,Breakfast,98
+Scrambled Eggs,Cold,Lunch,112
+Boiled Egg Set,Cold,Breakfast,78
+Porridge,Cold,Breakfast,90
+Fruit Bowl,Cold,Breakfast,126
+Yogurt Parfait,Cold,Dinner,143
+Toast & Jam,Cold,Breakfast,63
+Butter Toast,Cold,Breakfast,70
+Croissant,Cold,Breakfast,98
+Breakfast Burrito,Cold,Breakfast,163
+Hash Browns,Cold,Breakfast,89
+Samosa,Cold,Breakfast,29
+Singara,Cold,Breakfast,24
+Vegetable Roll,Cold,Breakfast,40
+Chicken Sandwich,Cold,Breakfast,154
+Club Sandwich,Cold,Lunch,173
+Grilled Cheese Sandwich,Cold,Lunch,134
+Chicken Burger,Cold,Lunch,166
+Beef Burger,Cold,Lunch,198
+Veg Burger,Cold,Lunch,145
+Chicken Shawarma,Cold,Lunch,173
+Beef Shawarma,Cold,Lunch,184
+Chicken Wrap,Cold,Lunch,170
+Caesar Salad,Cold,Lunch,182
+Greek Salad,Cold,Lunch,197
+Chicken Caesar Salad,Cold,Lunch,229
+Fried Rice,Cold,Lunch,191
+Chicken Fried Rice,Cold,Lunch,219
+Egg Fried Rice,Cold,Lunch,178
+Vegetable Fried Rice,Cold,Breakfast,174
+Noodles,Cold,Lunch,175
+Chicken Noodles,Cold,Lunch,200
+Vegetable Noodles,Cold,Lunch,164
+Pasta Alfredo,Cold,Lunch,239
+Spicy Pasta,Cold,Lunch,228
+Mac & Cheese,Cold,Lunch,208
+Chicken Pizza,Cold,Dinner,280
+Beef Pizza,Cold,Dinner,313
+Veg Pizza,Cold,Dinner,251
+Margherita Pizza,Cold,Dinner,257
+BBQ Chicken Pizza,Cold,Dinner,315
+Beef Biryani,Cold,Dinner,236
+Chicken Biryani,Cold,Dinner,215
+Kacchi Biryani,Cold,Dinner,303
+Tehari,Cold,Dinner,187
+Khichuri,Cold,Dinner,168
+Mutton Curry,Cold,Dinner,279
+Chicken Curry,Cold,Dinner,204
+Beef Curry,Cold,Dinner,230
+Fish Curry,Cold,Dinner,199
+Dal,Cold,Dinner,104
+Mixed Vegetables,Cold,Dinner,124
+Butter Naan,Cold,Dinner,58
+Garlic Naan,Cold,Dinner,63
+Chapati,Cold,Dinner,33
+Grilled Chicken,Cold,Dinner,260
+Tandoori Chicken,Cold,Dinner,274
+Chicken Wings,Cold,Dinner,244
+BBQ Platter,Cold,Dinner,444
+Steak,Cold,Dinner,405
+Soup,Cold,Dinner,125
+Tomato Soup,Cold,Breakfast,128
+Chicken Corn Soup,Cold,Dinner,156
+Hot & Sour Soup,Cold,Dinner,143
+Cold Coffee,Cold,Breakfast,124
+Coffee,Cold,Breakfast,83
+Cappuccino,Cold,Breakfast,120
+Latte,Cold,Breakfast,131
+Espresso,Cold,Breakfast,114
+Tea,Cold,Breakfast,56
+Milk Tea,Cold,Breakfast,68
+Green Tea,Cold,Breakfast,85
+Hot Chocolate,Cold,Breakfast,147
+Lemonade,Cold,Lunch,96
+Orange Juice,Cold,Breakfast,105
+Mango Juice,Cold,Lunch,113
+Apple Juice,Cold,Lunch,119
+Watermelon Juice,Cold,Lunch,101
+Milkshake,Cold,Dinner,160
+Chocolate Milkshake,Cold,Dinner,167
+Vanilla Milkshake,Cold,Dinner,165
+Faluda,Cold,Dinner,174
+Ice Cream,Cold,Dinner,104
+Brownie,Cold,Dinner,145
+Cheesecake,Cold,Dinner,195
+Chocolate Cake,Cold,Dinner,176
+Red Velvet Cake,Cold,Lunch,188
+Donut,Cold,Breakfast,69
+Muffin,Cold,Breakfast,79
+Paratha & Egg,Hot,Breakfast,77
+French Toast,Hot,Breakfast,101
+Pancakes,Hot,Breakfast,138
+Waffles,Hot,Breakfast,149
+Omelette,Hot,Breakfast,88
+Scrambled Eggs,Hot,Breakfast,91
+Boiled Egg Set,Hot,Breakfast,62
+Porridge,Hot,Breakfast,80
+Fruit Bowl,Hot,Breakfast,129
+Yogurt Parfait,Hot,Breakfast,127
+Toast & Jam,Hot,Breakfast,55
+Butter Toast,Hot,Breakfast,52
+Croissant,Hot,Breakfast,85
+Breakfast Burrito,Hot,Breakfast,157
+Hash Browns,Hot,Breakfast,67
+Samosa,Hot,Breakfast,19
+Singara,Hot,Lunch,25
+Vegetable Roll,Hot,Breakfast,29
+Chicken Sandwich,Hot,Lunch,140
+Club Sandwich,Hot,Lunch,160
+Grilled Cheese Sandwich,Hot,Lunch,122
+Chicken Burger,Hot,Lunch,147
+Beef Burger,Hot,Lunch,178
+Veg Burger,Hot,Lunch,134
+Chicken Shawarma,Hot,Lunch,159
+Beef Shawarma,Hot,Lunch,172
+Chicken Wrap,Hot,Lunch,146
+Caesar Salad,Hot,Lunch,176
+Greek Salad,Hot,Lunch,186
+Chicken Caesar Salad,Hot,Lunch,214
+Fried Rice,Hot,Lunch,180
+Chicken Fried Rice,Hot,Lunch,210
+Egg Fried Rice,Hot,Lunch,173
+Vegetable Fried Rice,Hot,Lunch,161
+Noodles,Hot,Lunch,159
+Chicken Noodles,Hot,Lunch,194
+Vegetable Noodles,Hot,Lunch,149
+Pasta Alfredo,Hot,Lunch,225
+Spicy Pasta,Hot,Lunch,215
+Mac & Cheese,Hot,Lunch,199
+Chicken Pizza,Hot,Dinner,270
+Beef Pizza,Hot,Dinner,294
+Veg Pizza,Hot,Dinner,233
+Margherita Pizza,Hot,Dinner,247
+BBQ Chicken Pizza,Hot,Dinner,312
+Beef Biryani,Hot,Dinner,232
+Chicken Biryani,Hot,Dinner,202
+Kacchi Biryani,Hot,Dinner,286
+Tehari,Hot,Dinner,182
+Khichuri,Hot,Dinner,146
+Mutton Curry,Hot,Dinner,269
+Chicken Curry,Hot,Dinner,193
+Beef Curry,Hot,Dinner,216
+Fish Curry,Hot,Dinner,190
+Dal,Hot,Dinner,95
+Mixed Vegetables,Hot,Dinner,121
+Butter Naan,Hot,Dinner,44
+Garlic Naan,Hot,Dinner,55
+Chapati,Hot,Dinner,31
+Grilled Chicken,Hot,Dinner,241
+Tandoori Chicken,Hot,Dinner,268
+Chicken Wings,Hot,Dinner,222
+BBQ Platter,Hot,Dinner,431
+Steak,Hot,Dinner,387
+Soup,Hot,Dinner,107
+Tomato Soup,Hot,Dinner,115
+Chicken Corn Soup,Hot,Dinner,135
+Hot & Sour Soup,Hot,Dinner,137
+Cold Coffee,Hot,Lunch,129
+Coffee,Hot,Breakfast,65
+Cappuccino,Hot,Breakfast,109
+Latte,Hot,Breakfast,116
+Espresso,Hot,Breakfast,94
+Tea,Hot,Breakfast,37
+Milk Tea,Hot,Dinner,61
+Green Tea,Hot,Breakfast,58
+Hot Chocolate,Hot,Breakfast,121
+Lemonade,Hot,Dinner,95
+Orange Juice,Hot,Breakfast,97
+Mango Juice,Hot,Lunch,113
+Apple Juice,Hot,Lunch,110
+Watermelon Juice,Hot,Lunch,101
+Milkshake,Hot,Dinner,150
+Chocolate Milkshake,Hot,Dinner,159
+Vanilla Milkshake,Hot,Dinner,156
+Faluda,Hot,Dinner,162
+Ice Cream,Hot,Dinner,106
+Brownie,Hot,Lunch,116
+Cheesecake,Hot,Dinner,188
+Chocolate Cake,Hot,Dinner,163
+Red Velvet Cake,Hot,Dinner,185
+Donut,Hot,Breakfast,57
+Muffin,Hot,Breakfast,66
+Paratha & Egg,Sunny,Breakfast,83
+French Toast,Sunny,Breakfast,108
+Pancakes,Sunny,Breakfast,135
+Waffles,Sunny,Breakfast,156
+Omelette,Sunny,Breakfast,84
+Scrambled Eggs,Sunny,Breakfast,101
+Boiled Egg Set,Sunny,Breakfast,70
+Porridge,Sunny,Lunch,86
+Fruit Bowl,Sunny,Breakfast,117
+Yogurt Parfait,Sunny,Breakfast,136
+Toast & Jam,Sunny,Lunch,71
+Butter Toast,Sunny,Breakfast,55
+Croissant,Sunny,Breakfast,96
+Breakfast Burrito,Sunny,Breakfast,154
+Hash Browns,Sunny,Breakfast,76
+Samosa,Sunny,Breakfast,31
+Singara,Sunny,Breakfast,24
+Vegetable Roll,Sunny,Breakfast,33
+Chicken Sandwich,Sunny,Lunch,151
+Club Sandwich,Sunny,Lunch,154
+Grilled Cheese Sandwich,Sunny,Lunch,129
+Chicken Burger,Sunny,Lunch,159
+Beef Burger,Sunny,Lunch,181
+Veg Burger,Sunny,Lunch,139
+Chicken Shawarma,Sunny,Lunch,171
+Beef Shawarma,Sunny,Lunch,185
+Chicken Wrap,Sunny,Lunch,157
+Caesar Salad,Sunny,Lunch,174
+Greek Salad,Sunny,Lunch,185
+Chicken Caesar Salad,Sunny,Lunch,215
+Fried Rice,Sunny,Lunch,189
+Chicken Fried Rice,Sunny,Lunch,212
+Egg Fried Rice,Sunny,Lunch,176
+Vegetable Fried Rice,Sunny,Lunch,168
+Noodles,Sunny,Lunch,165
+Chicken Noodles,Sunny,Lunch,189
+Vegetable Noodles,Sunny,Lunch,150
+Pasta Alfredo,Sunny,Lunch,226
+Spicy Pasta,Sunny,Lunch,215
+Mac & Cheese,Sunny,Lunch,199
+Chicken Pizza,Sunny,Lunch,264
+Beef Pizza,Sunny,Dinner,303
+Veg Pizza,Sunny,Dinner,235
+Margherita Pizza,Sunny,Dinner,245
+BBQ Chicken Pizza,Sunny,Dinner,316
+Beef Biryani,Sunny,Dinner,229
+Chicken Biryani,Sunny,Dinner,212
+Kacchi Biryani,Sunny,Dinner,289
+Tehari,Sunny,Dinner,177
+Khichuri,Sunny,Dinner,153
+Mutton Curry,Sunny,Dinner,267
+Chicken Curry,Sunny,Dinner,195
+Beef Curry,Sunny,Dinner,221
+Fish Curry,Sunny,Dinner,195
+Dal,Sunny,Dinner,104
+Mixed Vegetables,Sunny,Dinner,114
+Butter Naan,Sunny,Breakfast,38
+Garlic Naan,Sunny,Dinner,56
+Chapati,Sunny,Dinner,29
+Grilled Chicken,Sunny,Dinner,256
+Tandoori Chicken,Sunny,Dinner,274
+Chicken Wings,Sunny,Dinner,227
+BBQ Platter,Sunny,Dinner,427
+Steak,Sunny,Dinner,387
+Soup,Sunny,Dinner,105
+Tomato Soup,Sunny,Dinner,125
+Chicken Corn Soup,Sunny,Dinner,140
+Hot & Sour Soup,Sunny,Dinner,130
+Cold Coffee,Sunny,Lunch,122
+Coffee,Sunny,Breakfast,69
+Cappuccino,Sunny,Breakfast,107
+Latte,Sunny,Breakfast,126
+Espresso,Sunny,Breakfast,100
+Tea,Sunny,Breakfast,37
+Milk Tea,Sunny,Breakfast,46
+Green Tea,Sunny,Breakfast,57
+Hot Chocolate,Sunny,Breakfast,127
+Lemonade,Sunny,Lunch,80
+Orange Juice,Sunny,Breakfast,91
+Mango Juice,Sunny,Lunch,113
+Apple Juice,Sunny,Lunch,100
+Watermelon Juice,Sunny,Lunch,93
+Milkshake,Sunny,Dinner,145
+Chocolate Milkshake,Sunny,Dinner,162
+Vanilla Milkshake,Sunny,Dinner,157
+Faluda,Sunny,Dinner,162
+Ice Cream,Sunny,Dinner,100
+Brownie,Sunny,Dinner,128
+Cheesecake,Sunny,Dinner,187
+Chocolate Cake,Sunny,Dinner,176
+Red Velvet Cake,Sunny,Dinner,186
+Donut,Sunny,Breakfast,59
+Muffin,Sunny,Breakfast,81
+Paratha & Egg,Rainy,Breakfast,86
+French Toast,Rainy,Breakfast,111
+Pancakes,Rainy,Breakfast,141
+Waffles,Rainy,Breakfast,152
+Omelette,Rainy,Breakfast,96
+Scrambled Eggs,Rainy,Breakfast,97
+Boiled Egg Set,Rainy,Breakfast,78
+Porridge,Rainy,Breakfast,97
+Fruit Bowl,Rainy,Breakfast,120
+Yogurt Parfait,Rainy,Breakfast,140
+Toast & Jam,Rainy,Breakfast,62
+Butter Toast,Rainy,Breakfast,56
+Croissant,Rainy,Breakfast,94
+Breakfast Burrito,Rainy,Breakfast,170
+Hash Browns,Rainy,Breakfast,75
+Samosa,Rainy,Breakfast,42
+Singara,Rainy,Breakfast,35
+Vegetable Roll,Rainy,Breakfast,47
+Chicken Sandwich,Rainy,Lunch,154
+Club Sandwich,Rainy,Lunch,169
+Grilled Cheese Sandwich,Rainy,Lunch,133
+Chicken Burger,Rainy,Lunch,155
+Beef Burger,Rainy,Lunch,196
+Veg Burger,Rainy,Lunch,140
+Chicken Shawarma,Rainy,Lunch,165
+Beef Shawarma,Rainy,Lunch,192
+Chicken Wrap,Rainy,Breakfast,160
+Caesar Salad,Rainy,Lunch,186
+Greek Salad,Rainy,Lunch,193
+Chicken Caesar Salad,Rainy,Lunch,221
+Fried Rice,Rainy,Lunch,187
+Chicken Fried Rice,Rainy,Lunch,221
+Egg Fried Rice,Rainy,Lunch,187
+Vegetable Fried Rice,Rainy,Lunch,173
+Noodles,Rainy,Lunch,166
+Chicken Noodles,Rainy,Lunch,196
+Vegetable Noodles,Rainy,Lunch,157
+Pasta Alfredo,Rainy,Lunch,232
+Spicy Pasta,Rainy,Lunch,226
+Mac & Cheese,Rainy,Lunch,207
+Chicken Pizza,Rainy,Dinner,271
+Beef Pizza,Rainy,Dinner,310
+Veg Pizza,Rainy,Dinner,247
+Margherita Pizza,Rainy,Dinner,260
+BBQ Chicken Pizza,Rainy,Dinner,315
+Beef Biryani,Rainy,Dinner,239
+Chicken Biryani,Rainy,Dinner,221
+Kacchi Biryani,Rainy,Dinner,296
+Tehari,Rainy,Dinner,187
+Khichuri,Rainy,Dinner,160
+Mutton Curry,Rainy,Dinner,280
+Chicken Curry,Rainy,Dinner,200
+Beef Curry,Rainy,Dinner,220
+Fish Curry,Rainy,Dinner,206
+Dal,Rainy,Dinner,110
+Mixed Vegetables,Rainy,Dinner,126
+Butter Naan,Rainy,Dinner,57
+Garlic Naan,Rainy,Dinner,62
+Chapati,Rainy,Dinner,36
+Grilled Chicken,Rainy,Dinner,253
+Tandoori Chicken,Rainy,Dinner,280
+Chicken Wings,Rainy,Dinner,236
+BBQ Platter,Rainy,Dinner,431
+Steak,Rainy,Dinner,391
+Soup,Rainy,Dinner,125
+Tomato Soup,Rainy,Dinner,123
+Chicken Corn Soup,Rainy,Breakfast,146
+Hot & Sour Soup,Rainy,Dinner,136
+Cold Coffee,Rainy,Lunch,127
+Coffee,Rainy,Breakfast,72
+Cappuccino,Rainy,Breakfast,117
+Latte,Rainy,Breakfast,125
+Espresso,Rainy,Lunch,111
+Tea,Rainy,Breakfast,55
+Milk Tea,Rainy,Breakfast,66
+Green Tea,Rainy,Breakfast,66
+Hot Chocolate,Rainy,Breakfast,140
+Lemonade,Rainy,Lunch,95
+Orange Juice,Rainy,Breakfast,101
+Mango Juice,Rainy,Lunch,110
+Apple Juice,Rainy,Lunch,109
+Watermelon Juice,Rainy,Lunch,105
+Milkshake,Rainy,Dinner,154
+Chocolate Milkshake,Rainy,Lunch,158
+Vanilla Milkshake,Rainy,Dinner,160
+Faluda,Rainy,Dinner,171
+Ice Cream,Rainy,Dinner,108
+Brownie,Rainy,Dinner,138
+Cheesecake,Rainy,Dinner,197
+Chocolate Cake,Rainy,Dinner,170
+Red Velvet Cake,Rainy,Dinner,186
+Donut,Rainy,Breakfast,76
+Muffin,Rainy,Dinner,91
+Paratha & Egg,Cloudy,Breakfast,77
+French Toast,Cloudy,Breakfast,108
+Pancakes,Cloudy,Breakfast,141
+Waffles,Cloudy,Breakfast,150
+Omelette,Cloudy,Breakfast,90
+Scrambled Eggs,Cloudy,Breakfast,97
+Boiled Egg Set,Cloudy,Breakfast,74
+Porridge,Cloudy,Breakfast,93
+Fruit Bowl,Cloudy,Breakfast,126
+Yogurt Parfait,Cloudy,Breakfast,126
+Toast & Jam,Cloudy,Breakfast,60
+Butter Toast,Cloudy,Breakfast,56
+Croissant,Cloudy,Breakfast,90
+Breakfast Burrito,Cloudy,Breakfast,168
+Hash Browns,Cloudy,Breakfast,72
+Samosa,Cloudy,Breakfast,29
+Singara,Cloudy,Breakfast,28
+Vegetable Roll,Cloudy,Breakfast,33
+Chicken Sandwich,Cloudy,Lunch,157
+Club Sandwich,Cloudy,Lunch,165
+Grilled Cheese Sandwich,Cloudy,Lunch,125
+Chicken Burger,Cloudy,Lunch,153
+Beef Burger,Cloudy,Lunch,181
+Veg Burger,Cloudy,Lunch,132
+Chicken Shawarma,Cloudy,Lunch,161
+Beef Shawarma,Cloudy,Lunch,185
+Chicken Wrap,Cloudy,Lunch,155
+Caesar Salad,Cloudy,Lunch,182
+Greek Salad,Cloudy,Lunch,188
+Chicken Caesar Salad,Cloudy,Lunch,222
+Fried Rice,Cloudy,Lunch,182
+Chicken Fried Rice,Cloudy,Lunch,223
+Egg Fried Rice,Cloudy,Lunch,181
+Vegetable Fried Rice,Cloudy,Lunch,172
+Noodles,Cloudy,Lunch,172
+Chicken Noodles,Cloudy,Lunch,199
+Vegetable Noodles,Cloudy,Lunch,159
+Pasta Alfredo,Cloudy,Lunch,224
+Spicy Pasta,Cloudy,Lunch,223
+Mac & Cheese,Cloudy,Lunch,211
+Chicken Pizza,Cloudy,Dinner,274
+Beef Pizza,Cloudy,Lunch,302
+Veg Pizza,Cloudy,Dinner,245
+Margherita Pizza,Cloudy,Dinner,254
+BBQ Chicken Pizza,Cloudy,Dinner,316
+Beef Biryani,Cloudy,Dinner,231
+Chicken Biryani,Cloudy,Dinner,207
+Kacchi Biryani,Cloudy,Dinner,290
+Tehari,Cloudy,Dinner,183
+Khichuri,Cloudy,Dinner,151
+Mutton Curry,Cloudy,Dinner,266
+Chicken Curry,Cloudy,Dinner,201
+Beef Curry,Cloudy,Dinner,216
+Fish Curry,Cloudy,Breakfast,183
+Dal,Cloudy,Dinner,101
+Mixed Vegetables,Cloudy,Dinner,121
+Butter Naan,Cloudy,Dinner,51
+Garlic Naan,Cloudy,Dinner,55
+Chapati,Cloudy,Dinner,35
+Grilled Chicken,Cloudy,Dinner,255
+Tandoori Chicken,Cloudy,Dinner,272
+Chicken Wings,Cloudy,Dinner,236
+BBQ Platter,Cloudy,Dinner,429
+Steak,Cloudy,Dinner,389
+Soup,Cloudy,Dinner,112
+Tomato Soup,Cloudy,Dinner,128
+Chicken Corn Soup,Cloudy,Dinner,141
+Hot & Sour Soup,Cloudy,Dinner,141
+Cold Coffee,Cloudy,Lunch,123
+Coffee,Cloudy,Breakfast,66
+Cappuccino,Cloudy,Lunch,117
+Latte,Cloudy,Breakfast,120
+Espresso,Cloudy,Breakfast,93
+Tea,Cloudy,Breakfast,43
+Milk Tea,Cloudy,Breakfast,51
+Green Tea,Cloudy,Breakfast,56
+Hot Chocolate,Cloudy,Breakfast,131
+Lemonade,Cloudy,Lunch,92
+Orange Juice,Cloudy,Breakfast,95
+Mango Juice,Cloudy,Lunch,117
+Apple Juice,Cloudy,Breakfast,108
+Watermelon Juice,Cloudy,Lunch,102
+Milkshake,Cloudy,Dinner,150
+Chocolate Milkshake,Cloudy,Dinner,158
+Vanilla Milkshake,Cloudy,Dinner,159
+Faluda,Cloudy,Dinner,156
+Ice Cream,Cloudy,Dinner,103
+Brownie,Cloudy,Dinner,136
+Cheesecake,Cloudy,Dinner,197
+Chocolate Cake,Cloudy,Breakfast,165
+Red Velvet Cake,Cloudy,Dinner,181
+Donut,Cloudy,Breakfast,68
+Muffin,Cloudy,Breakfast,80
+Paratha & Egg,Cold,Breakfast,89
+French Toast,Cold,Breakfast,118
+Pancakes,Cold,Breakfast,150
+Waffles,Cold,Breakfast,165
+Omelette,Cold,Breakfast,97
+Scrambled Eggs,Cold,Breakfast,99
+Boiled Egg Set,Cold,Breakfast,75
+Porridge,Cold,Breakfast,98
+Fruit Bowl,Cold,Breakfast,126
+Yogurt Parfait,Cold,Breakfast,144
+Toast & Jam,Cold,Breakfast,71
+Butter Toast,Cold,Breakfast,61
+Croissant,Cold,Breakfast,104
+Breakfast Burrito,Cold,Breakfast,175
+Hash Browns,Cold,Breakfast,79
+Samosa,Cold,Breakfast,39
+Singara,Cold,Breakfast,34
+Vegetable Roll,Cold,Breakfast,40
+Chicken Sandwich,Cold,Lunch,162
+Club Sandwich,Cold,Lunch,173
+Grilled Cheese Sandwich,Cold,Lunch,129
+Chicken Burger,Cold,Lunch,162
+Beef Burger,Cold,Lunch,194
+Veg Burger,Cold,Lunch,141
+Chicken Shawarma,Cold,Lunch,170
+Beef Shawarma,Cold,Lunch,188
+Chicken Wrap,Cold,Lunch,158
+Caesar Salad,Cold,Breakfast,177
+Greek Salad,Cold,Lunch,188
+Chicken Caesar Salad,Cold,Lunch,229
+Fried Rice,Cold,Lunch,200
+Chicken Fried Rice,Cold,Lunch,225
+Egg Fried Rice,Cold,Lunch,189
+Vegetable Fried Rice,Cold,Lunch,174
+Noodles,Cold,Lunch,170
+Chicken Noodles,Cold,Lunch,209
+Vegetable Noodles,Cold,Lunch,165
+Pasta Alfredo,Cold,Dinner,238
+Spicy Pasta,Cold,Lunch,230
+Mac & Cheese,Cold,Lunch,212
+Chicken Pizza,Cold,Dinner,279
+Beef Pizza,Cold,Dinner,306
+Veg Pizza,Cold,Dinner,248
+Margherita Pizza,Cold,Dinner,255
+BBQ Chicken Pizza,Cold,Dinner,316
+Beef Biryani,Cold,Dinner,244
+Chicken Biryani,Cold,Dinner,216
+Kacchi Biryani,Cold,Dinner,305
+Tehari,Cold,Dinner,183
+Khichuri,Cold,Dinner,171
+Mutton Curry,Cold,Dinner,279
+Chicken Curry,Cold,Dinner,207
+Beef Curry,Cold,Dinner,229
+Fish Curry,Cold,Dinner,200
+Dal,Cold,Dinner,108
+Mixed Vegetables,Cold,Dinner,132
+Butter Naan,Cold,Dinner,60
+Garlic Naan,Cold,Dinner,58
+Chapati,Cold,Dinner,40
+Grilled Chicken,Cold,Dinner,264
+Tandoori Chicken,Cold,Dinner,282
+Chicken Wings,Cold,Dinner,233
+BBQ Platter,Cold,Dinner,443
+Steak,Cold,Dinner,393
+Soup,Cold,Dinner,123
+Tomato Soup,Cold,Dinner,140
+Chicken Corn Soup,Cold,Dinner,147
+Hot & Sour Soup,Cold,Dinner,155
+Cold Coffee,Cold,Lunch,137
+Coffee,Cold,Breakfast,90
+Cappuccino,Cold,Dinner,141
+Latte,Cold,Breakfast,136
+Espresso,Cold,Breakfast,113
+Tea,Cold,Breakfast,57
+Milk Tea,Cold,Breakfast,61
+Green Tea,Cold,Breakfast,71
+Hot Chocolate,Cold,Breakfast,149
+Lemonade,Cold,Dinner,105
+Orange Juice,Cold,Breakfast,101
+Mango Juice,Cold,Lunch,120
+Apple Juice,Cold,Dinner,116
+Watermelon Juice,Cold,Lunch,104
+Milkshake,Cold,Dinner,159
+Chocolate Milkshake,Cold,Dinner,166
+Vanilla Milkshake,Cold,Dinner,168
+Faluda,Cold,Dinner,174
+Ice Cream,Cold,Dinner,112
+Brownie,Cold,Dinner,135
+Cheesecake,Cold,Dinner,199
+Chocolate Cake,Cold,Dinner,174
+Red Velvet Cake,Cold,Dinner,199
+Donut,Cold,Breakfast,70
+Muffin,Cold,Breakfast,84
+Paratha & Egg,Hot,Breakfast,76
+French Toast,Hot,Breakfast,110
+Pancakes,Hot,Breakfast,134
+Waffles,Hot,Breakfast,146
+Omelette,Hot,Lunch,95
+Scrambled Eggs,Hot,Breakfast,94
+Boiled Egg Set,Hot,Breakfast,60
+Porridge,Hot,Breakfast,80
+Fruit Bowl,Hot,Breakfast,120
+Yogurt Parfait,Hot,Breakfast,138
+Toast & Jam,Hot,Breakfast,57
+Butter Toast,Hot,Breakfast,45
+Croissant,Hot,Breakfast,85
+Breakfast Burrito,Hot,Breakfast,150
+Hash Browns,Hot,Breakfast,77
+Samosa,Hot,Breakfast,22
+Singara,Hot,Breakfast,15
+Vegetable Roll,Hot,Breakfast,28
+Chicken Sandwich,Hot,Lunch,150
+Club Sandwich,Hot,Lunch,155
+Grilled Cheese Sandwich,Hot,Lunch,123
+Chicken Burger,Hot,Lunch,157
+Beef Burger,Hot,Lunch,185
+Veg Burger,Hot,Lunch,126
+Chicken Shawarma,Hot,Lunch,167
+Beef Shawarma,Hot,Lunch,171
+Chicken Wrap,Hot,Lunch,149
+Caesar Salad,Hot,Lunch,176
+Greek Salad,Hot,Lunch,187
+Chicken Caesar Salad,Hot,Lunch,213
+Fried Rice,Hot,Lunch,177
+Chicken Fried Rice,Hot,Lunch,212
+Egg Fried Rice,Hot,Lunch,176
+Vegetable Fried Rice,Hot,Lunch,165
+Noodles,Hot,Lunch,165
+Chicken Noodles,Hot,Lunch,194
+Vegetable Noodles,Hot,Lunch,151
+Pasta Alfredo,Hot,Lunch,217
+Spicy Pasta,Hot,Lunch,213
+Mac & Cheese,Hot,Lunch,203
+Chicken Pizza,Hot,Dinner,260
+Beef Pizza,Hot,Dinner,290
+Veg Pizza,Hot,Dinner,232
+Margherita Pizza,Hot,Dinner,241
+BBQ Chicken Pizza,Hot,Dinner,311
+Beef Biryani,Hot,Dinner,226
+Chicken Biryani,Hot,Dinner,204
+Kacchi Biryani,Hot,Dinner,291
+Tehari,Hot,Dinner,181
+Khichuri,Hot,Lunch,141
+Mutton Curry,Hot,Dinner,268
+Chicken Curry,Hot,Dinner,197
+Beef Curry,Hot,Dinner,220
+Fish Curry,Hot,Dinner,189
+Dal,Hot,Dinner,96
+Mixed Vegetables,Hot,Dinner,120
+Butter Naan,Hot,Dinner,39
+Garlic Naan,Hot,Dinner,53
+Chapati,Hot,Dinner,31
+Grilled Chicken,Hot,Dinner,245
+Tandoori Chicken,Hot,Breakfast,252
+Chicken Wings,Hot,Dinner,227
+BBQ Platter,Hot,Dinner,428
+Steak,Hot,Dinner,380
+Soup,Hot,Dinner,106
+Tomato Soup,Hot,Dinner,111
+Chicken Corn Soup,Hot,Dinner,139
+Hot & Sour Soup,Hot,Dinner,136
+Cold Coffee,Hot,Lunch,128
+Coffee,Hot,Breakfast,64
+Cappuccino,Hot,Breakfast,108
+Latte,Hot,Breakfast,121
+Espresso,Hot,Breakfast,88
+Tea,Hot,Breakfast,41
+Milk Tea,Hot,Breakfast,45
+Green Tea,Hot,Breakfast,59
+Hot Chocolate,Hot,Breakfast,129
+Lemonade,Hot,Lunch,88
+Orange Juice,Hot,Breakfast,93
+Mango Juice,Hot,Lunch,112
+Apple Juice,Hot,Lunch,110
+Watermelon Juice,Hot,Lunch,102
+Milkshake,Hot,Dinner,155
+Chocolate Milkshake,Hot,Dinner,167
+Vanilla Milkshake,Hot,Dinner,151
+Faluda,Hot,Dinner,165
+Ice Cream,Hot,Dinner,112
+Brownie,Hot,Dinner,131
+Cheesecake,Hot,Dinner,186
+Chocolate Cake,Hot,Dinner,168
+Red Velvet Cake,Hot,Dinner,179
+Donut,Hot,Breakfast,56
+Muffin,Hot,Breakfast,73
+Paratha & Egg,Sunny,Breakfast,80
+French Toast,Sunny,Breakfast,113
+Pancakes,Sunny,Breakfast,135
+Waffles,Sunny,Breakfast,153
+Omelette,Sunny,Breakfast,95
+Scrambled Eggs,Sunny,Breakfast,94
+Boiled Egg Set,Sunny,Breakfast,67
+Porridge,Sunny,Breakfast,85
+Fruit Bowl,Sunny,Breakfast,123
+Yogurt Parfait,Sunny,Breakfast,124
+Toast & Jam,Sunny,Lunch,60
+Butter Toast,Sunny,Breakfast,50
+Croissant,Sunny,Breakfast,88
+Breakfast Burrito,Sunny,Breakfast,160
+Hash Browns,Sunny,Breakfast,80
+Samosa,Sunny,Lunch,35
+Singara,Sunny,Breakfast,22
+Vegetable Roll,Sunny,Breakfast,35
+Chicken Sandwich,Sunny,Lunch,152
+Club Sandwich,Sunny,Lunch,164
+Grilled Cheese Sandwich,Sunny,Dinner,126
+Chicken Burger,Sunny,Lunch,151
+Beef Burger,Sunny,Lunch,183
+Veg Burger,Sunny,Lunch,140
+Chicken Shawarma,Sunny,Lunch,166
+Beef Shawarma,Sunny,Lunch,180
+Chicken Wrap,Sunny,Lunch,156
+Caesar Salad,Sunny,Lunch,178
+Greek Salad,Sunny,Lunch,191
+Chicken Caesar Salad,Sunny,Lunch,210
+Fried Rice,Sunny,Lunch,186
+Chicken Fried Rice,Sunny,Lunch,214
+Egg Fried Rice,Sunny,Lunch,181
+Vegetable Fried Rice,Sunny,Lunch,168
+Noodles,Sunny,Dinner,166
+Chicken Noodles,Sunny,Lunch,197
+Vegetable Noodles,Sunny,Lunch,153
+Pasta Alfredo,Sunny,Lunch,228
+Spicy Pasta,Sunny,Lunch,209
+Mac & Cheese,Sunny,Lunch,206
+Chicken Pizza,Sunny,Dinner,264
+Beef Pizza,Sunny,Dinner,302
+Veg Pizza,Sunny,Dinner,244
+Margherita Pizza,Sunny,Dinner,256
+BBQ Chicken Pizza,Sunny,Dinner,313
+Beef Biryani,Sunny,Dinner,232
+Chicken Biryani,Sunny,Dinner,207
+Kacchi Biryani,Sunny,Dinner,291
+Tehari,Sunny,Dinner,181
+Khichuri,Sunny,Dinner,159
+Mutton Curry,Sunny,Dinner,266
+Chicken Curry,Sunny,Dinner,200
+Beef Curry,Sunny,Dinner,220
+Fish Curry,Sunny,Dinner,198
+Dal,Sunny,Dinner,104
+Mixed Vegetables,Sunny,Dinner,121
+Butter Naan,Sunny,Dinner,43
+Garlic Naan,Sunny,Dinner,56
+Chapati,Sunny,Dinner,29
+Grilled Chicken,Sunny,Dinner,250
+Tandoori Chicken,Sunny,Lunch,265
+Chicken Wings,Sunny,Dinner,236
+BBQ Platter,Sunny,Dinner,427
+Steak,Sunny,Dinner,394
+Soup,Sunny,Dinner,105
+Tomato Soup,Sunny,Dinner,125
+Chicken Corn Soup,Sunny,Dinner,140
+Hot & Sour Soup,Sunny,Dinner,134
+Cold Coffee,Sunny,Lunch,122
+Coffee,Sunny,Breakfast,69
+Cappuccino,Sunny,Breakfast,115
+Latte,Sunny,Breakfast,123
+Espresso,Sunny,Breakfast,96
+Tea,Sunny,Breakfast,41
+Milk Tea,Sunny,Breakfast,47
+Green Tea,Sunny,Breakfast,61
+Hot Chocolate,Sunny,Breakfast,129
+Lemonade,Sunny,Lunch,81
+Orange Juice,Sunny,Breakfast,92
+Mango Juice,Sunny,Lunch,109
+Apple Juice,Sunny,Lunch,109
+Watermelon Juice,Sunny,Lunch,101
+Milkshake,Sunny,Dinner,145
+Chocolate Milkshake,Sunny,Dinner,162
+Vanilla Milkshake,Sunny,Dinner,154
+Faluda,Sunny,Dinner,166
+Ice Cream,Sunny,Dinner,95
+Brownie,Sunny,Dinner,134
+Cheesecake,Sunny,Dinner,193
+Chocolate Cake,Sunny,Lunch,163
+Red Velvet Cake,Sunny,Dinner,181
+Donut,Sunny,Breakfast,66
+Muffin,Sunny,Breakfast,80
+Paratha & Egg,Rainy,Breakfast,82
+French Toast,Rainy,Breakfast,119
+Pancakes,Rainy,Breakfast,151
+Waffles,Rainy,Breakfast,155
+Omelette,Rainy,Breakfast,98
+Scrambled Eggs,Rainy,Breakfast,103
+Boiled Egg Set,Rainy,Breakfast,71
+Porridge,Rainy,Breakfast,85
+Fruit Bowl,Rainy,Breakfast,129
+Yogurt Parfait,Rainy,Breakfast,140
+Toast & Jam,Rainy,Breakfast,60
+Butter Toast,Rainy,Breakfast,64
+Croissant,Rainy,Dinner,102
+Breakfast Burrito,Rainy,Breakfast,162
+Hash Browns,Rainy,Breakfast,87
+Samosa,Rainy,Breakfast,35
+Singara,Rainy,Breakfast,32
+Vegetable Roll,Rainy,Breakfast,48
+Chicken Sandwich,Rainy,Dinner,166
+Club Sandwich,Rainy,Lunch,170
+Grilled Cheese Sandwich,Rainy,Lunch,136
+Chicken Burger,Rainy,Lunch,167
+Beef Burger,Rainy,Lunch,190
+Veg Burger,Rainy,Lunch,140
+Chicken Shawarma,Rainy,Lunch,174
+Beef Shawarma,Rainy,Lunch,184
+Chicken Wrap,Rainy,Lunch,162
+Caesar Salad,Rainy,Lunch,175
+Greek Salad,Rainy,Lunch,186
+Chicken Caesar Salad,Rainy,Lunch,215
+Fried Rice,Rainy,Lunch,186
+Chicken Fried Rice,Rainy,Lunch,225
+Egg Fried Rice,Rainy,Lunch,177
+Vegetable Fried Rice,Rainy,Lunch,169
+Noodles,Rainy,Lunch,170
+Chicken Noodles,Rainy,Lunch,206
+Vegetable Noodles,Rainy,Lunch,162
+Pasta Alfredo,Rainy,Lunch,228
+Spicy Pasta,Rainy,Lunch,224
+Mac & Cheese,Rainy,Lunch,216
+Chicken Pizza,Rainy,Dinner,273
+Beef Pizza,Rainy,Dinner,302
+Veg Pizza,Rainy,Dinner,247
+Margherita Pizza,Rainy,Dinner,251
+BBQ Chicken Pizza,Rainy,Dinner,317
+Beef Biryani,Rainy,Dinner,234
+Chicken Biryani,Rainy,Dinner,221
+Kacchi Biryani,Rainy,Dinner,291
+Tehari,Rainy,Dinner,186
+Khichuri,Rainy,Dinner,161
+Mutton Curry,Rainy,Dinner,279
+Chicken Curry,Rainy,Dinner,204
+Beef Curry,Rainy,Dinner,221
+Fish Curry,Rainy,Dinner,204
+Dal,Rainy,Dinner,108
+Mixed Vegetables,Rainy,Dinner,123
+Butter Naan,Rainy,Dinner,54
+Garlic Naan,Rainy,Dinner,63
+Chapati,Rainy,Lunch,34
+Grilled Chicken,Rainy,Dinner,250
+Tandoori Chicken,Rainy,Dinner,270
+Chicken Wings,Rainy,Dinner,234
+BBQ Platter,Rainy,Dinner,441
+Steak,Rainy,Dinner,397
+Soup,Rainy,Dinner,126
+Tomato Soup,Rainy,Dinner,123
+Chicken Corn Soup,Rainy,Dinner,149
+Hot & Sour Soup,Rainy,Dinner,139
+Cold Coffee,Rainy,Lunch,132
+Coffee,Rainy,Breakfast,72
+Cappuccino,Rainy,Breakfast,116
+Latte,Rainy,Lunch,131
+Espresso,Rainy,Breakfast,106
+Tea,Rainy,Breakfast,53
+Milk Tea,Rainy,Breakfast,64
+Green Tea,Rainy,Breakfast,68
+Hot Chocolate,Rainy,Breakfast,135
+Lemonade,Rainy,Lunch,91
+Orange Juice,Rainy,Breakfast,99
+Mango Juice,Rainy,Lunch,113
+Apple Juice,Rainy,Lunch,111
+Watermelon Juice,Rainy,Lunch,102
+Milkshake,Rainy,Dinner,150
+Chocolate Milkshake,Rainy,Dinner,160
+Vanilla Milkshake,Rainy,Dinner,167
+Faluda,Rainy,Dinner,167
+Ice Cream,Rainy,Dinner,101
+Brownie,Rainy,Dinner,130
+Cheesecake,Rainy,Dinner,198
+Chocolate Cake,Rainy,Dinner,178
+Red Velvet Cake,Rainy,Dinner,190
+Donut,Rainy,Breakfast,74
+Muffin,Rainy,Breakfast,76
+Paratha & Egg,Cloudy,Breakfast,87
+French Toast,Cloudy,Breakfast,112
+Pancakes,Cloudy,Breakfast,142
+Waffles,Cloudy,Breakfast,156
+Omelette,Cloudy,Breakfast,96
+Scrambled Eggs,Cloudy,Breakfast,101
+Boiled Egg Set,Cloudy,Breakfast,77
+Porridge,Cloudy,Breakfast,91
+Fruit Bowl,Cloudy,Breakfast,120
+Yogurt Parfait,Cloudy,Breakfast,134
+Toast & Jam,Cloudy,Breakfast,60
+Butter Toast,Cloudy,Breakfast,60
+Croissant,Cloudy,Breakfast,89
+Breakfast Burrito,Cloudy,Breakfast,159
+Hash Browns,Cloudy,Breakfast,75
+Samosa,Cloudy,Breakfast,25
+Singara,Cloudy,Breakfast,28
+Vegetable Roll,Cloudy,Breakfast,39
+Chicken Sandwich,Cloudy,Lunch,155
+Club Sandwich,Cloudy,Lunch,159
+Grilled Cheese Sandwich,Cloudy,Lunch,125
+Chicken Burger,Cloudy,Lunch,156
+Beef Burger,Cloudy,Lunch,192
+Veg Burger,Cloudy,Breakfast,137
+Chicken Shawarma,Cloudy,Lunch,166
+Beef Shawarma,Cloudy,Lunch,176
+Chicken Wrap,Cloudy,Lunch,158
+Caesar Salad,Cloudy,Lunch,182
+Greek Salad,Cloudy,Lunch,181
+Chicken Caesar Salad,Cloudy,Lunch,219
+Fried Rice,Cloudy,Lunch,184
+Chicken Fried Rice,Cloudy,Lunch,221
+Egg Fried Rice,Cloudy,Lunch,182
+Vegetable Fried Rice,Cloudy,Lunch,162
+Noodles,Cloudy,Lunch,172
+Chicken Noodles,Cloudy,Lunch,191
+Vegetable Noodles,Cloudy,Lunch,155
+Pasta Alfredo,Cloudy,Lunch,224
+Spicy Pasta,Cloudy,Lunch,216
+Mac & Cheese,Cloudy,Lunch,212
+Chicken Pizza,Cloudy,Dinner,269
+Beef Pizza,Cloudy,Dinner,297
+Veg Pizza,Cloudy,Dinner,241
+Margherita Pizza,Cloudy,Dinner,256
+BBQ Chicken Pizza,Cloudy,Dinner,314
+Beef Biryani,Cloudy,Dinner,230
+Chicken Biryani,Cloudy,Dinner,215
+Kacchi Biryani,Cloudy,Dinner,290
+Tehari,Cloudy,Dinner,186
+Khichuri,Cloudy,Dinner,163
+Mutton Curry,Cloudy,Dinner,270
+Chicken Curry,Cloudy,Dinner,205
+Beef Curry,Cloudy,Dinner,227
+Fish Curry,Cloudy,Dinner,202
+Dal,Cloudy,Dinner,105
+Mixed Vegetables,Cloudy,Dinner,118
+Butter Naan,Cloudy,Dinner,43
+Garlic Naan,Cloudy,Dinner,60
+Chapati,Cloudy,Dinner,31
+Grilled Chicken,Cloudy,Dinner,248
+Tandoori Chicken,Cloudy,Dinner,269
+Chicken Wings,Cloudy,Dinner,236
+BBQ Platter,Cloudy,Dinner,430
+Steak,Cloudy,Dinner,397
+Soup,Cloudy,Dinner,112
+Tomato Soup,Cloudy,Dinner,118
+Chicken Corn Soup,Cloudy,Dinner,145
+Hot & Sour Soup,Cloudy,Breakfast,125
+Cold Coffee,Cloudy,Lunch,121
+Coffee,Cloudy,Breakfast,72
+Cappuccino,Cloudy,Lunch,122
+Latte,Cloudy,Lunch,121
+Espresso,Cloudy,Breakfast,95
+Tea,Cloudy,Breakfast,44
+Milk Tea,Cloudy,Breakfast,48
+Green Tea,Cloudy,Breakfast,59
+Hot Chocolate,Cloudy,Dinner,148
+Lemonade,Cloudy,Lunch,92
+Orange Juice,Cloudy,Breakfast,100
+Mango Juice,Cloudy,Breakfast,102
+Apple Juice,Cloudy,Lunch,109
+Watermelon Juice,Cloudy,Lunch,94
+Milkshake,Cloudy,Dinner,155
+Chocolate Milkshake,Cloudy,Dinner,163
+Vanilla Milkshake,Cloudy,Dinner,156
+Faluda,Cloudy,Dinner,163
+Ice Cream,Cloudy,Dinner,99
+Brownie,Cloudy,Dinner,130
+Cheesecake,Cloudy,Dinner,186
+Chocolate Cake,Cloudy,Dinner,172
+Red Velvet Cake,Cloudy,Dinner,193
+Donut,Cloudy,Breakfast,72
+Muffin,Cloudy,Breakfast,80
+Paratha & Egg,Cold,Breakfast,90
+French Toast,Cold,Breakfast,124
+Pancakes,Cold,Breakfast,154
+Waffles,Cold,Breakfast,160
+Omelette,Cold,Breakfast,97
+Scrambled Eggs,Cold,Lunch,107
+Boiled Egg Set,Cold,Breakfast,76
+Porridge,Cold,Breakfast,92
+Fruit Bowl,Cold,Breakfast,131
+Yogurt Parfait,Cold,Breakfast,138
+Toast & Jam,Cold,Breakfast,68
+Butter Toast,Cold,Breakfast,61
+Croissant,Cold,Breakfast,93
+Breakfast Burrito,Cold,Breakfast,165
+Hash Browns,Cold,Breakfast,81
+Samosa,Cold,Breakfast,38
+Singara,Cold,Breakfast,28
+Vegetable Roll,Cold,Breakfast,50
+Chicken Sandwich,Cold,Lunch,154
+Club Sandwich,Cold,Lunch,164
+Grilled Cheese Sandwich,Cold,Lunch,136
+Chicken Burger,Cold,Lunch,161
+Beef Burger,Cold,Lunch,190
+Veg Burger,Cold,Lunch,142
+Chicken Shawarma,Cold,Lunch,180
+Beef Shawarma,Cold,Lunch,191
+Chicken Wrap,Cold,Lunch,166
+Caesar Salad,Cold,Lunch,188
+Greek Salad,Cold,Breakfast,186
+Chicken Caesar Salad,Cold,Lunch,225
+Fried Rice,Cold,Lunch,198
+Chicken Fried Rice,Cold,Lunch,225
+Egg Fried Rice,Cold,Lunch,185
+Vegetable Fried Rice,Cold,Dinner,177
+Noodles,Cold,Lunch,169
+Chicken Noodles,Cold,Lunch,207
+Vegetable Noodles,Cold,Lunch,167
+Pasta Alfredo,Cold,Breakfast,226
+Spicy Pasta,Cold,Dinner,223
+Mac & Cheese,Cold,Lunch,218
+Chicken Pizza,Cold,Dinner,280
+Beef Pizza,Cold,Dinner,311
+Veg Pizza,Cold,Dinner,255
+Margherita Pizza,Cold,Dinner,256
+BBQ Chicken Pizza,Cold,Dinner,322
+Beef Biryani,Cold,Dinner,244
+Chicken Biryani,Cold,Dinner,225
+Kacchi Biryani,Cold,Dinner,294
+Tehari,Cold,Dinner,184
+Khichuri,Cold,Dinner,179
+Mutton Curry,Cold,Dinner,284
+Chicken Curry,Cold,Dinner,215
+Beef Curry,Cold,Dinner,232
+Fish Curry,Cold,Dinner,205
+Dal,Cold,Dinner,110
+Mixed Vegetables,Cold,Dinner,128
+Butter Naan,Cold,Dinner,50
+Garlic Naan,Cold,Dinner,65
+Chapati,Cold,Dinner,45
+Grilled Chicken,Cold,Dinner,253
+Tandoori Chicken,Cold,Lunch,276
+Chicken Wings,Cold,Dinner,236
+BBQ Platter,Cold,Dinner,444
+Steak,Cold,Dinner,401
+Soup,Cold,Dinner,128
+Tomato Soup,Cold,Dinner,138
+Chicken Corn Soup,Cold,Dinner,159
+Hot & Sour Soup,Cold,Dinner,148
+Cold Coffee,Cold,Lunch,128
+Coffee,Cold,Breakfast,91
+Cappuccino,Cold,Breakfast,124
+Latte,Cold,Lunch,140
+Espresso,Cold,Breakfast,113
+Tea,Cold,Breakfast,48
+Milk Tea,Cold,Breakfast,68
+Green Tea,Cold,Breakfast,76
+Hot Chocolate,Cold,Breakfast,147
+Lemonade,Cold,Lunch,90
+Orange Juice,Cold,Breakfast,102
+Mango Juice,Cold,Lunch,121
+Apple Juice,Cold,Lunch,120
+Watermelon Juice,Cold,Lunch,102
+Milkshake,Cold,Dinner,164
+Chocolate Milkshake,Cold,Dinner,165
+Vanilla Milkshake,Cold,Dinner,162
+Faluda,Cold,Dinner,163
+Ice Cream,Cold,Dinner,105
+Brownie,Cold,Breakfast,129
+Cheesecake,Cold,Dinner,199
+Chocolate Cake,Cold,Dinner,183
+Red Velvet Cake,Cold,Dinner,195
+Donut,Cold,Breakfast,80
+Muffin,Cold,Breakfast,86
+Paratha & Egg,Hot,Breakfast,74
+French Toast,Hot,Breakfast,110
+Pancakes,Hot,Breakfast,141
+Waffles,Hot,Breakfast,149
+Omelette,Hot,Breakfast,81
+Scrambled Eggs,Hot,Breakfast,88
+Boiled Egg Set,Hot,Breakfast,72
+Porridge,Hot,Breakfast,78
+Fruit Bowl,Hot,Breakfast,127
+Yogurt Parfait,Hot,Breakfast,138
+Toast & Jam,Hot,Breakfast,62
+Butter Toast,Hot,Breakfast,45
+Croissant,Hot,Breakfast,80
+Breakfast Burrito,Hot,Breakfast,150
+Hash Browns,Hot,Breakfast,69
+Samosa,Hot,Breakfast,27
+Singara,Hot,Breakfast,19
+Vegetable Roll,Hot,Breakfast,35
+Chicken Sandwich,Hot,Lunch,142
+Club Sandwich,Hot,Lunch,161
+Grilled Cheese Sandwich,Hot,Lunch,120
+Chicken Burger,Hot,Lunch,147
+Beef Burger,Hot,Lunch,179
+Veg Burger,Hot,Lunch,130
+Chicken Shawarma,Hot,Lunch,167
+Beef Shawarma,Hot,Lunch,170
+Chicken Wrap,Hot,Lunch,146
+Caesar Salad,Hot,Lunch,175
+Greek Salad,Hot,Lunch,187
+Chicken Caesar Salad,Hot,Lunch,212
+Fried Rice,Hot,Lunch,181
+Chicken Fried Rice,Hot,Lunch,214
+Egg Fried Rice,Hot,Lunch,166
+Vegetable Fried Rice,Hot,Lunch,155
+Noodles,Hot,Lunch,155
+Chicken Noodles,Hot,Lunch,193
+Vegetable Noodles,Hot,Lunch,148
+Pasta Alfredo,Hot,Lunch,216
+Spicy Pasta,Hot,Lunch,211
+Mac & Cheese,Hot,Lunch,199
+Chicken Pizza,Hot,Dinner,271
+Beef Pizza,Hot,Dinner,295
+Veg Pizza,Hot,Dinner,235
+Margherita Pizza,Hot,Dinner,245
+BBQ Chicken Pizza,Hot,Dinner,300
+Beef Biryani,Hot,Dinner,232
+Chicken Biryani,Hot,Dinner,211
+Kacchi Biryani,Hot,Dinner,280
+Tehari,Hot,Breakfast,166
+Khichuri,Hot,Dinner,153
+Mutton Curry,Hot,Dinner,261
+Chicken Curry,Hot,Dinner,192
+Beef Curry,Hot,Dinner,213
+Fish Curry,Hot,Dinner,193
+Dal,Hot,Dinner,95
+Mixed Vegetables,Hot,Lunch,112
+Butter Naan,Hot,Dinner,46
+Garlic Naan,Hot,Dinner,52
+Chapati,Hot,Dinner,23
+Grilled Chicken,Hot,Dinner,251
+Tandoori Chicken,Hot,Dinner,270
+Chicken Wings,Hot,Dinner,225
+BBQ Platter,Hot,Dinner,421
+Steak,Hot,Dinner,391
+Soup,Hot,Lunch,103
+Tomato Soup,Hot,Dinner,111
+Chicken Corn Soup,Hot,Dinner,140
+Hot & Sour Soup,Hot,Dinner,129
+Cold Coffee,Hot,Lunch,122
+Coffee,Hot,Lunch,65
+Cappuccino,Hot,Breakfast,106
+Latte,Hot,Breakfast,118
+Espresso,Hot,Breakfast,86
+Tea,Hot,Breakfast,41
+Milk Tea,Hot,Breakfast,42
+Green Tea,Hot,Breakfast,61
+Hot Chocolate,Hot,Breakfast,130
+Lemonade,Hot,Lunch,89
+Orange Juice,Hot,Breakfast,107
+Mango Juice,Hot,Lunch,118
+Apple Juice,Hot,Lunch,113
+Watermelon Juice,Hot,Lunch,96
+Milkshake,Hot,Dinner,150
+Chocolate Milkshake,Hot,Dinner,157
+Vanilla Milkshake,Hot,Dinner,160
+Faluda,Hot,Dinner,165
+Ice Cream,Hot,Dinner,109
+Brownie,Hot,Dinner,131
+Cheesecake,Hot,Dinner,181
+Chocolate Cake,Hot,Dinner,161
+Red Velvet Cake,Hot,Dinner,186
+Donut,Hot,Breakfast,64
+Muffin,Hot,Breakfast,66
+Paratha & Egg,Sunny,Breakfast,75
+French Toast,Sunny,Breakfast,106
+Pancakes,Sunny,Breakfast,138
+Waffles,Sunny,Breakfast,156
+Omelette,Sunny,Breakfast,86
+Scrambled Eggs,Sunny,Breakfast,97
+Boiled Egg Set,Sunny,Breakfast,67
+Porridge,Sunny,Dinner,99
+Fruit Bowl,Sunny,Breakfast,125
+Yogurt Parfait,Sunny,Breakfast,124
+Toast & Jam,Sunny,Breakfast,66
+Butter Toast,Sunny,Breakfast,50
+Croissant,Sunny,Breakfast,95
+Breakfast Burrito,Sunny,Breakfast,162
+Hash Browns,Sunny,Breakfast,81
+Samosa,Sunny,Breakfast,19
+Singara,Sunny,Breakfast,24
+Vegetable Roll,Sunny,Breakfast,36
+Chicken Sandwich,Sunny,Breakfast,146
+Club Sandwich,Sunny,Lunch,166
+Grilled Cheese Sandwich,Sunny,Lunch,131
+Chicken Burger,Sunny,Lunch,153
+Beef Burger,Sunny,Lunch,183
+Veg Burger,Sunny,Lunch,132
+Chicken Shawarma,Sunny,Lunch,170
+Beef Shawarma,Sunny,Lunch,181
+Chicken Wrap,Sunny,Lunch,160
+Caesar Salad,Sunny,Lunch,170
+Greek Salad,Sunny,Lunch,186
+Chicken Caesar Salad,Sunny,Lunch,217
+Fried Rice,Sunny,Lunch,191
+Chicken Fried Rice,Sunny,Breakfast,215
+Egg Fried Rice,Sunny,Lunch,169
+Vegetable Fried Rice,Sunny,Lunch,161
+Noodles,Sunny,Lunch,163
+Chicken Noodles,Sunny,Dinner,194
+Vegetable Noodles,Sunny,Lunch,160
+Pasta Alfredo,Sunny,Lunch,220
+Spicy Pasta,Sunny,Lunch,210
+Mac & Cheese,Sunny,Lunch,210
+Chicken Pizza,Sunny,Dinner,270
+Beef Pizza,Sunny,Dinner,302
+Veg Pizza,Sunny,Dinner,242
+Margherita Pizza,Sunny,Dinner,251
+BBQ Chicken Pizza,Sunny,Dinner,310
+Beef Biryani,Sunny,Dinner,230
+Chicken Biryani,Sunny,Dinner,210
+Kacchi Biryani,Sunny,Dinner,294
+Tehari,Sunny,Dinner,179
+Khichuri,Sunny,Dinner,150
+Mutton Curry,Sunny,Dinner,266
+Chicken Curry,Sunny,Dinner,200
+Beef Curry,Sunny,Dinner,224
+Fish Curry,Sunny,Dinner,201
+Dal,Sunny,Dinner,103
+Mixed Vegetables,Sunny,Dinner,122
+Butter Naan,Sunny,Dinner,39
+Garlic Naan,Sunny,Dinner,49
+Chapati,Sunny,Dinner,34
+Grilled Chicken,Sunny,Dinner,246
+Tandoori Chicken,Sunny,Dinner,270
+Chicken Wings,Sunny,Dinner,228
+BBQ Platter,Sunny,Dinner,428
+Steak,Sunny,Dinner,392
+Soup,Sunny,Dinner,107
+Tomato Soup,Sunny,Dinner,126
+Chicken Corn Soup,Sunny,Dinner,144
+Hot & Sour Soup,Sunny,Dinner,136
+Cold Coffee,Sunny,Lunch,119
+Coffee,Sunny,Breakfast,74
+Cappuccino,Sunny,Lunch,121
+Latte,Sunny,Breakfast,116
+Espresso,Sunny,Breakfast,90
+Tea,Sunny,Breakfast,37
+Milk Tea,Sunny,Breakfast,47
+Green Tea,Sunny,Breakfast,55
+Hot Chocolate,Sunny,Breakfast,127
+Lemonade,Sunny,Lunch,80
+Orange Juice,Sunny,Breakfast,100
+Mango Juice,Sunny,Lunch,104
+Apple Juice,Sunny,Breakfast,101
+Watermelon Juice,Sunny,Lunch,89
+Milkshake,Sunny,Breakfast,137
+Chocolate Milkshake,Sunny,Dinner,156
+Vanilla Milkshake,Sunny,Dinner,154
+Faluda,Sunny,Dinner,165
+Ice Cream,Sunny,Dinner,103
+Brownie,Sunny,Dinner,133
+Cheesecake,Sunny,Dinner,190
+Chocolate Cake,Sunny,Dinner,167
+Red Velvet Cake,Sunny,Dinner,189
+Donut,Sunny,Breakfast,60
+Muffin,Sunny,Breakfast,73
+Paratha & Egg,Rainy,Breakfast,84
+French Toast,Rainy,Breakfast,113
+Pancakes,Rainy,Breakfast,146
+Waffles,Rainy,Breakfast,153
+Omelette,Rainy,Breakfast,90
+Scrambled Eggs,Rainy,Breakfast,99
+Boiled Egg Set,Rainy,Breakfast,73
+Porridge,Rainy,Breakfast,88
+Fruit Bowl,Rainy,Dinner,131
+Yogurt Parfait,Rainy,Breakfast,136
+Toast & Jam,Rainy,Breakfast,71
+Butter Toast,Rainy,Breakfast,59
+Croissant,Rainy,Breakfast,100
+Breakfast Burrito,Rainy,Breakfast,164
+Hash Browns,Rainy,Breakfast,76
+Samosa,Rainy,Breakfast,29
+Singara,Rainy,Breakfast,28
+Vegetable Roll,Rainy,Breakfast,48
+Chicken Sandwich,Rainy,Lunch,151
+Club Sandwich,Rainy,Lunch,163
+Grilled Cheese Sandwich,Rainy,Lunch,135
+Chicken Burger,Rainy,Lunch,158
+Beef Burger,Rainy,Lunch,197
+Veg Burger,Rainy,Lunch,135
+Chicken Shawarma,Rainy,Lunch,177
+Beef Shawarma,Rainy,Lunch,180
+Chicken Wrap,Rainy,Lunch,158
+Caesar Salad,Rainy,Lunch,185
+Greek Salad,Rainy,Lunch,196
+Chicken Caesar Salad,Rainy,Lunch,219
+Fried Rice,Rainy,Lunch,193
+Chicken Fried Rice,Rainy,Lunch,220
+Egg Fried Rice,Rainy,Lunch,182
+Vegetable Fried Rice,Rainy,Lunch,166
+Noodles,Rainy,Lunch,165
+Chicken Noodles,Rainy,Lunch,197
+Vegetable Noodles,Rainy,Lunch,167
+Pasta Alfredo,Rainy,Lunch,235
+Spicy Pasta,Rainy,Lunch,218
+Mac & Cheese,Rainy,Lunch,215
+Chicken Pizza,Rainy,Dinner,281
+Beef Pizza,Rainy,Dinner,308
+Veg Pizza,Rainy,Dinner,244
+Margherita Pizza,Rainy,Dinner,250
+BBQ Chicken Pizza,Rainy,Dinner,310
+Beef Biryani,Rainy,Dinner,231
+Chicken Biryani,Rainy,Dinner,217
+Kacchi Biryani,Rainy,Dinner,300
+Tehari,Rainy,Dinner,187
+Khichuri,Rainy,Dinner,172
+Mutton Curry,Rainy,Dinner,275
+Chicken Curry,Rainy,Dinner,207
+Beef Curry,Rainy,Dinner,226
+Fish Curry,Rainy,Dinner,201
+Dal,Rainy,Dinner,108
+Mixed Vegetables,Rainy,Dinner,123
+Butter Naan,Rainy,Dinner,47
+Garlic Naan,Rainy,Dinner,67
+Chapati,Rainy,Dinner,36
+Grilled Chicken,Rainy,Dinner,253
+Tandoori Chicken,Rainy,Dinner,272
+Chicken Wings,Rainy,Dinner,231
+BBQ Platter,Rainy,Dinner,431
+Steak,Rainy,Dinner,402
+Soup,Rainy,Dinner,128
+Tomato Soup,Rainy,Dinner,126
+Chicken Corn Soup,Rainy,Dinner,150
+Hot & Sour Soup,Rainy,Dinner,144
+Cold Coffee,Rainy,Lunch,132
+Coffee,Rainy,Breakfast,71
+Cappuccino,Rainy,Breakfast,118
+Latte,Rainy,Breakfast,120
+Espresso,Rainy,Breakfast,100
+Tea,Rainy,Breakfast,54
+Milk Tea,Rainy,Breakfast,61
+Green Tea,Rainy,Breakfast,70
+Hot Chocolate,Rainy,Breakfast,134
+Lemonade,Rainy,Lunch,87
+Orange Juice,Rainy,Breakfast,95
+Mango Juice,Rainy,Lunch,121
+Apple Juice,Rainy,Lunch,109
+Watermelon Juice,Rainy,Lunch,100
+Milkshake,Rainy,Dinner,154
+Chocolate Milkshake,Rainy,Lunch,160
+Vanilla Milkshake,Rainy,Breakfast,152
+Faluda,Rainy,Dinner,168
+Ice Cream,Rainy,Dinner,107
+Brownie,Rainy,Dinner,137
+Cheesecake,Rainy,Dinner,191
+Chocolate Cake,Rainy,Dinner,170
+Red Velvet Cake,Rainy,Dinner,189
+Donut,Rainy,Breakfast,73
+Muffin,Rainy,Breakfast,82
+Paratha & Egg,Cloudy,Breakfast,87
+French Toast,Cloudy,Breakfast,110
+Pancakes,Cloudy,Breakfast,143
+Waffles,Cloudy,Breakfast,149
+Omelette,Cloudy,Breakfast,98
+Scrambled Eggs,Cloudy,Breakfast,98
+Boiled Egg Set,Cloudy,Breakfast,70
+Porridge,Cloudy,Breakfast,89
+Fruit Bowl,Cloudy,Breakfast,116
+Yogurt Parfait,Cloudy,Breakfast,134
+Toast & Jam,Cloudy,Breakfast,66
+Butter Toast,Cloudy,Breakfast,55
+Croissant,Cloudy,Breakfast,92
+Breakfast Burrito,Cloudy,Breakfast,167
+Hash Browns,Cloudy,Breakfast,82
+Samosa,Cloudy,Lunch,35
+Singara,Cloudy,Breakfast,25
+Vegetable Roll,Cloudy,Breakfast,31
+Chicken Sandwich,Cloudy,Lunch,146
+Club Sandwich,Cloudy,Lunch,156
+Grilled Cheese Sandwich,Cloudy,Lunch,124
+Chicken Burger,Cloudy,Lunch,157
+Beef Burger,Cloudy,Lunch,189
+Veg Burger,Cloudy,Lunch,137
+Chicken Shawarma,Cloudy,Lunch,161
+Beef Shawarma,Cloudy,Lunch,185
+Chicken Wrap,Cloudy,Lunch,159
+Caesar Salad,Cloudy,Lunch,173
+Greek Salad,Cloudy,Lunch,193
+Chicken Caesar Salad,Cloudy,Lunch,221
+Fried Rice,Cloudy,Lunch,191
+Chicken Fried Rice,Cloudy,Lunch,220
+Egg Fried Rice,Cloudy,Breakfast,169
+Vegetable Fried Rice,Cloudy,Lunch,168
+Noodles,Cloudy,Lunch,163
+Chicken Noodles,Cloudy,Lunch,194
+Vegetable Noodles,Cloudy,Lunch,154
+Pasta Alfredo,Cloudy,Lunch,231
+Spicy Pasta,Cloudy,Lunch,222
+Mac & Cheese,Cloudy,Lunch,204
+Chicken Pizza,Cloudy,Dinner,269
+Beef Pizza,Cloudy,Dinner,299
+Veg Pizza,Cloudy,Dinner,238
+Margherita Pizza,Cloudy,Dinner,253
+BBQ Chicken Pizza,Cloudy,Dinner,314
+Beef Biryani,Cloudy,Dinner,233
+Chicken Biryani,Cloudy,Dinner,217
+Kacchi Biryani,Cloudy,Dinner,296
+Tehari,Cloudy,Dinner,188
+Khichuri,Cloudy,Dinner,154
+Mutton Curry,Cloudy,Dinner,269
+Chicken Curry,Cloudy,Dinner,201
+Beef Curry,Cloudy,Dinner,224
+Fish Curry,Cloudy,Dinner,200
+Dal,Cloudy,Dinner,97
+Mixed Vegetables,Cloudy,Dinner,121
+Butter Naan,Cloudy,Dinner,49
+Garlic Naan,Cloudy,Dinner,53
+Chapati,Cloudy,Dinner,37
+Grilled Chicken,Cloudy,Dinner,247
+Tandoori Chicken,Cloudy,Dinner,266
+Chicken Wings,Cloudy,Dinner,232
+BBQ Platter,Cloudy,Dinner,434
+Steak,Cloudy,Dinner,387
+Soup,Cloudy,Dinner,116
+Tomato Soup,Cloudy,Dinner,123
+Chicken Corn Soup,Cloudy,Dinner,138
+Hot & Sour Soup,Cloudy,Dinner,136
+Cold Coffee,Cloudy,Lunch,121
+Coffee,Cloudy,Breakfast,73
+Cappuccino,Cloudy,Breakfast,115
+Latte,Cloudy,Breakfast,124
+Espresso,Cloudy,Breakfast,94
+Tea,Cloudy,Breakfast,46
+Milk Tea,Cloudy,Breakfast,48
+Green Tea,Cloudy,Breakfast,59
+Hot Chocolate,Cloudy,Breakfast,131
+Lemonade,Cloudy,Lunch,91
+Orange Juice,Cloudy,Breakfast,96
+Mango Juice,Cloudy,Lunch,111
+Apple Juice,Cloudy,Lunch,105
+Watermelon Juice,Cloudy,Lunch,93
+Milkshake,Cloudy,Dinner,158
+Chocolate Milkshake,Cloudy,Dinner,167
+Vanilla Milkshake,Cloudy,Lunch,149
+Faluda,Cloudy,Dinner,164
+Ice Cream,Cloudy,Dinner,96
+Brownie,Cloudy,Dinner,137
+Cheesecake,Cloudy,Dinner,187
+Chocolate Cake,Cloudy,Dinner,169
+Red Velvet Cake,Cloudy,Dinner,187
+Donut,Cloudy,Breakfast,65
+Muffin,Cloudy,Breakfast,76
+Paratha & Egg,Cold,Breakfast,93
+French Toast,Cold,Dinner,132
+Pancakes,Cold,Breakfast,151
+Waffles,Cold,Breakfast,153
+Omelette,Cold,Breakfast,98
+Scrambled Eggs,Cold,Breakfast,108
+Boiled Egg Set,Cold,Breakfast,79
+Porridge,Cold,Breakfast,93
+Fruit Bowl,Cold,Breakfast,133
+Yogurt Parfait,Cold,Breakfast,136
+Toast & Jam,Cold,Breakfast,66
+Butter Toast,Cold,Breakfast,62
+Croissant,Cold,Breakfast,93
+Breakfast Burrito,Cold,Breakfast,167
+Hash Browns,Cold,Lunch,85
+Samosa,Cold,Breakfast,36
+Singara,Cold,Breakfast,30
+Vegetable Roll,Cold,Breakfast,48
+Chicken Sandwich,Cold,Lunch,156
+Club Sandwich,Cold,Lunch,165
+Grilled Cheese Sandwich,Cold,Lunch,134
+Chicken Burger,Cold,Lunch,158
+Beef Burger,Cold,Lunch,195
+Veg Burger,Cold,Lunch,142
+Chicken Shawarma,Cold,Lunch,170
+Beef Shawarma,Cold,Lunch,187
+Chicken Wrap,Cold,Lunch,161
+Caesar Salad,Cold,Lunch,183
+Greek Salad,Cold,Lunch,190
+Chicken Caesar Salad,Cold,Lunch,227
+Fried Rice,Cold,Lunch,199
+Chicken Fried Rice,Cold,Lunch,229
+Egg Fried Rice,Cold,Lunch,180
+Vegetable Fried Rice,Cold,Lunch,173
+Noodles,Cold,Lunch,170
+Chicken Noodles,Cold,Lunch,200
+Vegetable Noodles,Cold,Lunch,160
+Pasta Alfredo,Cold,Lunch,231
+Spicy Pasta,Cold,Lunch,222
+Mac & Cheese,Cold,Lunch,208
+Chicken Pizza,Cold,Dinner,279
+Beef Pizza,Cold,Dinner,312
+Veg Pizza,Cold,Dinner,243
+Margherita Pizza,Cold,Dinner,261
+BBQ Chicken Pizza,Cold,Dinner,318
+Beef Biryani,Cold,Dinner,236
+Chicken Biryani,Cold,Dinner,218
+Kacchi Biryani,Cold,Dinner,297
+Tehari,Cold,Dinner,186
+Khichuri,Cold,Breakfast,154
+Mutton Curry,Cold,Dinner,278
+Chicken Curry,Cold,Dinner,210
+Beef Curry,Cold,Lunch,226
+Fish Curry,Cold,Dinner,205
+Dal,Cold,Dinner,103
+Mixed Vegetables,Cold,Dinner,124
+Butter Naan,Cold,Dinner,48
+Garlic Naan,Cold,Dinner,62
+Chapati,Cold,Dinner,39
+Grilled Chicken,Cold,Dinner,265
+Tandoori Chicken,Cold,Breakfast,272
+Chicken Wings,Cold,Dinner,245
+BBQ Platter,Cold,Dinner,437
+Steak,Cold,Dinner,394
+Soup,Cold,Dinner,131
+Tomato Soup,Cold,Dinner,134
+Chicken Corn Soup,Cold,Dinner,147
+Hot & Sour Soup,Cold,Dinner,150
+Cold Coffee,Cold,Lunch,130
+Coffee,Cold,Breakfast,84
+Cappuccino,Cold,Breakfast,119
+Latte,Cold,Breakfast,131
+Espresso,Cold,Breakfast,117
+Tea,Cold,Breakfast,63
+Milk Tea,Cold,Breakfast,61
+Green Tea,Cold,Breakfast,77
+Hot Chocolate,Cold,Breakfast,147
+Lemonade,Cold,Lunch,96
+Orange Juice,Cold,Breakfast,99
+Mango Juice,Cold,Lunch,114
+Apple Juice,Cold,Lunch,120
+Watermelon Juice,Cold,Dinner,115
+Milkshake,Cold,Dinner,165
+Chocolate Milkshake,Cold,Dinner,164
+Vanilla Milkshake,Cold,Dinner,160
+Faluda,Cold,Dinner,174
+Ice Cream,Cold,Dinner,115
+Brownie,Cold,Dinner,145
+Cheesecake,Cold,Breakfast,186
+Chocolate Cake,Cold,Dinner,177
+Red Velvet Cake,Cold,Dinner,193
+Donut,Cold,Breakfast,75
+Muffin,Cold,Breakfast,89
+Paratha & Egg,Hot,Dinner,83
+French Toast,Hot,Breakfast,107
+Pancakes,Hot,Breakfast,134
+Waffles,Hot,Lunch,146
+Omelette,Hot,Breakfast,90
+Scrambled Eggs,Hot,Breakfast,87
+Boiled Egg Set,Hot,Breakfast,61
+Porridge,Hot,Breakfast,83
+Fruit Bowl,Hot,Breakfast,121
+Yogurt Parfait,Hot,Breakfast,131
+Toast & Jam,Hot,Breakfast,56
+Butter Toast,Hot,Breakfast,47
+Croissant,Hot,Breakfast,82
+Breakfast Burrito,Hot,Breakfast,152
+Hash Browns,Hot,Breakfast,66
+Samosa,Hot,Breakfast,23
+Singara,Hot,Breakfast,17
+Vegetable Roll,Hot,Breakfast,36
+Chicken Sandwich,Hot,Lunch,143
+Club Sandwich,Hot,Lunch,155
+Grilled Cheese Sandwich,Hot,Lunch,124
+Chicken Burger,Hot,Lunch,154
+Beef Burger,Hot,Lunch,177
+Veg Burger,Hot,Lunch,126
+Chicken Shawarma,Hot,Breakfast,153
+Beef Shawarma,Hot,Lunch,176
+Chicken Wrap,Hot,Lunch,156
+Caesar Salad,Hot,Lunch,175
+Greek Salad,Hot,Lunch,179
+Chicken Caesar Salad,Hot,Lunch,211
+Fried Rice,Hot,Lunch,184
+Chicken Fried Rice,Hot,Lunch,208
+Egg Fried Rice,Hot,Lunch,174
+Vegetable Fried Rice,Hot,Lunch,162
+Noodles,Hot,Dinner,161
+Chicken Noodles,Hot,Lunch,192
+Vegetable Noodles,Hot,Lunch,146
+Pasta Alfredo,Hot,Lunch,224
+Spicy Pasta,Hot,Lunch,208
+Mac & Cheese,Hot,Lunch,205
+Chicken Pizza,Hot,Dinner,266
+Beef Pizza,Hot,Breakfast,292
+Veg Pizza,Hot,Dinner,241
+Margherita Pizza,Hot,Dinner,243
+BBQ Chicken Pizza,Hot,Dinner,303
+Beef Biryani,Hot,Dinner,231
+Chicken Biryani,Hot,Dinner,212
+Kacchi Biryani,Hot,Dinner,280
+Tehari,Hot,Lunch,175
+Khichuri,Hot,Dinner,154
+Mutton Curry,Hot,Dinner,267
+Chicken Curry,Hot,Dinner,192
+Beef Curry,Hot,Dinner,222
+Fish Curry,Hot,Dinner,188
+Dal,Hot,Dinner,93
+Mixed Vegetables,Hot,Dinner,114
+Butter Naan,Hot,Dinner,43
+Garlic Naan,Hot,Dinner,57
+Chapati,Hot,Dinner,24
+Grilled Chicken,Hot,Dinner,252
+Tandoori Chicken,Hot,Dinner,271
+Chicken Wings,Hot,Dinner,225
+BBQ Platter,Hot,Dinner,429
+Steak,Hot,Dinner,388
+Soup,Hot,Dinner,104
+Tomato Soup,Hot,Dinner,121
+Chicken Corn Soup,Hot,Dinner,138
+Hot & Sour Soup,Hot,Dinner,133
+Cold Coffee,Hot,Lunch,129
+Coffee,Hot,Breakfast,61
+Cappuccino,Hot,Breakfast,101
+Latte,Hot,Breakfast,121
+Espresso,Hot,Breakfast,86
+Tea,Hot,Breakfast,30
+Milk Tea,Hot,Breakfast,50
+Green Tea,Hot,Breakfast,53
+Hot Chocolate,Hot,Breakfast,129
+Lemonade,Hot,Lunch,82
+Orange Juice,Hot,Breakfast,99
+Mango Juice,Hot,Lunch,109
+Apple Juice,Hot,Lunch,107
+Watermelon Juice,Hot,Lunch,101
+Milkshake,Hot,Dinner,157
+Chocolate Milkshake,Hot,Dinner,157
+Vanilla Milkshake,Hot,Dinner,150
+Faluda,Hot,Dinner,160
+Ice Cream,Hot,Dinner,97
+Brownie,Hot,Dinner,125
+Cheesecake,Hot,Dinner,190
+Chocolate Cake,Hot,Breakfast,155
+Red Velvet Cake,Hot,Dinner,175
+Donut,Hot,Breakfast,66
+Muffin,Hot,Breakfast,72
+Paratha & Egg,Sunny,Breakfast,79
+French Toast,Sunny,Breakfast,105
+Pancakes,Sunny,Breakfast,136
+Waffles,Sunny,Breakfast,146
+Omelette,Sunny,Breakfast,88
+Scrambled Eggs,Sunny,Breakfast,90
+Boiled Egg Set,Sunny,Breakfast,67
+Porridge,Sunny,Breakfast,88
+Fruit Bowl,Sunny,Breakfast,118
+Yogurt Parfait,Sunny,Breakfast,126
+Toast & Jam,Sunny,Breakfast,60
+Butter Toast,Sunny,Breakfast,53
+Croissant,Sunny,Breakfast,95
+Breakfast Burrito,Sunny,Breakfast,162
+Hash Browns,Sunny,Breakfast,79
+Samosa,Sunny,Breakfast,30
+Singara,Sunny,Breakfast,17
+Vegetable Roll,Sunny,Breakfast,38
+Chicken Sandwich,Sunny,Lunch,146
+Club Sandwich,Sunny,Lunch,164
+Grilled Cheese Sandwich,Sunny,Lunch,130
+Chicken Burger,Sunny,Lunch,149
+Beef Burger,Sunny,Lunch,180
+Veg Burger,Sunny,Lunch,129
+Chicken Shawarma,Sunny,Lunch,168
+Beef Shawarma,Sunny,Lunch,178
+Chicken Wrap,Sunny,Lunch,150
+Caesar Salad,Sunny,Lunch,175
+Greek Salad,Sunny,Lunch,189
+Chicken Caesar Salad,Sunny,Lunch,214
+Fried Rice,Sunny,Lunch,187
+Chicken Fried Rice,Sunny,Lunch,212
+Egg Fried Rice,Sunny,Lunch,176
+Vegetable Fried Rice,Sunny,Lunch,161
+Noodles,Sunny,Lunch,166
+Chicken Noodles,Sunny,Lunch,189
+Vegetable Noodles,Sunny,Lunch,149
+Pasta Alfredo,Sunny,Lunch,223
+Spicy Pasta,Sunny,Lunch,220
+Mac & Cheese,Sunny,Lunch,209
+Chicken Pizza,Sunny,Dinner,264
+Beef Pizza,Sunny,Dinner,298
+Veg Pizza,Sunny,Dinner,246
+Margherita Pizza,Sunny,Dinner,251
+BBQ Chicken Pizza,Sunny,Dinner,307
+Beef Biryani,Sunny,Dinner,226
+Chicken Biryani,Sunny,Dinner,211
+Kacchi Biryani,Sunny,Dinner,291
+Tehari,Sunny,Dinner,184
+Khichuri,Sunny,Dinner,159
+Mutton Curry,Sunny,Dinner,270
+Chicken Curry,Sunny,Dinner,201
+Beef Curry,Sunny,Dinner,225
+Fish Curry,Sunny,Dinner,201
+Dal,Sunny,Dinner,101
+Mixed Vegetables,Sunny,Dinner,121
+Butter Naan,Sunny,Dinner,41
+Garlic Naan,Sunny,Dinner,53
+Chapati,Sunny,Dinner,36
+Grilled Chicken,Sunny,Dinner,248
+Tandoori Chicken,Sunny,Dinner,273
+Chicken Wings,Sunny,Dinner,228
+BBQ Platter,Sunny,Dinner,435
+Steak,Sunny,Dinner,396
+Soup,Sunny,Dinner,115
+Tomato Soup,Sunny,Dinner,117
+Chicken Corn Soup,Sunny,Dinner,134
+Hot & Sour Soup,Sunny,Dinner,130
+Cold Coffee,Sunny,Lunch,129
+Coffee,Sunny,Breakfast,71
+Cappuccino,Sunny,Breakfast,110
+Latte,Sunny,Breakfast,119
+Espresso,Sunny,Breakfast,91
+Tea,Sunny,Breakfast,37
+Milk Tea,Sunny,Breakfast,46
+Green Tea,Sunny,Breakfast,60
+Hot Chocolate,Sunny,Breakfast,131
+Lemonade,Sunny,Lunch,85
+Orange Juice,Sunny,Breakfast,95
+Mango Juice,Sunny,Lunch,104
+Apple Juice,Sunny,Lunch,111
+Watermelon Juice,Sunny,Lunch,92
+Milkshake,Sunny,Dinner,156
+Chocolate Milkshake,Sunny,Dinner,155
+Vanilla Milkshake,Sunny,Dinner,154
+Faluda,Sunny,Dinner,158
+Ice Cream,Sunny,Dinner,94
+Brownie,Sunny,Dinner,128
+Cheesecake,Sunny,Dinner,194
+Chocolate Cake,Sunny,Dinner,164
+Red Velvet Cake,Sunny,Dinner,189
+Donut,Sunny,Breakfast,63
+Muffin,Sunny,Breakfast,75
+Paratha & Egg,Rainy,Breakfast,91
+French Toast,Rainy,Breakfast,122
+Pancakes,Rainy,Breakfast,145
+Waffles,Rainy,Breakfast,157
+Omelette,Rainy,Breakfast,98
+Scrambled Eggs,Rainy,Breakfast,105
+Boiled Egg Set,Rainy,Breakfast,82
+Porridge,Rainy,Dinner,107
+Fruit Bowl,Rainy,Breakfast,125
+Yogurt Parfait,Rainy,Breakfast,142
+Toast & Jam,Rainy,Breakfast,62
+Butter Toast,Rainy,Breakfast,65
+Croissant,Rainy,Lunch,101
+Breakfast Burrito,Rainy,Breakfast,168
+Hash Browns,Rainy,Breakfast,76
+Samosa,Rainy,Breakfast,41
+Singara,Rainy,Breakfast,29
+Vegetable Roll,Rainy,Breakfast,41
+Chicken Sandwich,Rainy,Lunch,153
+Club Sandwich,Rainy,Lunch,163
+Grilled Cheese Sandwich,Rainy,Lunch,129
+Chicken Burger,Rainy,Lunch,162
+Beef Burger,Rainy,Lunch,191
+Veg Burger,Rainy,Lunch,143
+Chicken Shawarma,Rainy,Lunch,175
+Beef Shawarma,Rainy,Lunch,188
+Chicken Wrap,Rainy,Lunch,158
+Caesar Salad,Rainy,Lunch,184
+Greek Salad,Rainy,Lunch,197
+Chicken Caesar Salad,Rainy,Lunch,222
+Fried Rice,Rainy,Lunch,194
+Chicken Fried Rice,Rainy,Lunch,220
+Egg Fried Rice,Rainy,Lunch,182
+Vegetable Fried Rice,Rainy,Lunch,169
+Noodles,Rainy,Lunch,168
+Chicken Noodles,Rainy,Lunch,197
+Vegetable Noodles,Rainy,Lunch,165
+Pasta Alfredo,Rainy,Lunch,230
+Spicy Pasta,Rainy,Lunch,217
+Mac & Cheese,Rainy,Lunch,217
+Chicken Pizza,Rainy,Dinner,279
+Beef Pizza,Rainy,Dinner,309
+Veg Pizza,Rainy,Dinner,247
+Margherita Pizza,Rainy,Dinner,262
+BBQ Chicken Pizza,Rainy,Dinner,318
+Beef Biryani,Rainy,Dinner,236
+Chicken Biryani,Rainy,Dinner,212
+Kacchi Biryani,Rainy,Dinner,299
+Tehari,Rainy,Dinner,185
+Khichuri,Rainy,Dinner,163
+Mutton Curry,Rainy,Dinner,270
+Chicken Curry,Rainy,Dinner,200
+Beef Curry,Rainy,Dinner,232
+Fish Curry,Rainy,Dinner,195
+Dal,Rainy,Dinner,109
+Mixed Vegetables,Rainy,Dinner,123
+Butter Naan,Rainy,Dinner,48
+Garlic Naan,Rainy,Dinner,60
+Chapati,Rainy,Dinner,39
+Grilled Chicken,Rainy,Dinner,256
+Tandoori Chicken,Rainy,Dinner,281
+Chicken Wings,Rainy,Dinner,239
+BBQ Platter,Rainy,Dinner,442
+Steak,Rainy,Dinner,392
+Soup,Rainy,Dinner,122
+Tomato Soup,Rainy,Dinner,125
+Chicken Corn Soup,Rainy,Lunch,143
+Hot & Sour Soup,Rainy,Dinner,147
+Cold Coffee,Rainy,Lunch,137
+Coffee,Rainy,Breakfast,79
+Cappuccino,Rainy,Breakfast,120
+Latte,Rainy,Breakfast,128
+Espresso,Rainy,Lunch,100
+Tea,Rainy,Breakfast,54
+Milk Tea,Rainy,Breakfast,64
+Green Tea,Rainy,Breakfast,70
+Hot Chocolate,Rainy,Breakfast,139
+Lemonade,Rainy,Lunch,85
+Orange Juice,Rainy,Breakfast,104
+Mango Juice,Rainy,Lunch,110
+Apple Juice,Rainy,Lunch,106
+Watermelon Juice,Rainy,Lunch,100
+Milkshake,Rainy,Dinner,152
+Chocolate Milkshake,Rainy,Dinner,164
+Vanilla Milkshake,Rainy,Lunch,162
+Faluda,Rainy,Dinner,166
+Ice Cream,Rainy,Dinner,105
+Brownie,Rainy,Dinner,130
+Cheesecake,Rainy,Dinner,190
+Chocolate Cake,Rainy,Dinner,170
+Red Velvet Cake,Rainy,Dinner,186
+Donut,Rainy,Breakfast,75
+Muffin,Rainy,Breakfast,85
+Paratha & Egg,Cloudy,Breakfast,78
+French Toast,Cloudy,Dinner,126
+Pancakes,Cloudy,Breakfast,138
+Waffles,Cloudy,Breakfast,157
+Omelette,Cloudy,Breakfast,91
+Scrambled Eggs,Cloudy,Breakfast,103
+Boiled Egg Set,Cloudy,Breakfast,76
+Porridge,Cloudy,Breakfast,82
+Fruit Bowl,Cloudy,Breakfast,117
+Yogurt Parfait,Cloudy,Breakfast,134
+Toast & Jam,Cloudy,Breakfast,62
+Butter Toast,Cloudy,Breakfast,62
+Croissant,Cloudy,Dinner,105
+Breakfast Burrito,Cloudy,Dinner,178
+Hash Browns,Cloudy,Breakfast,80
+Samosa,Cloudy,Breakfast,22
+Singara,Cloudy,Breakfast,17
+Vegetable Roll,Cloudy,Breakfast,35
+Chicken Sandwich,Cloudy,Lunch,158
+Club Sandwich,Cloudy,Lunch,160
+Grilled Cheese Sandwich,Cloudy,Lunch,127
+Chicken Burger,Cloudy,Lunch,156
+Beef Burger,Cloudy,Lunch,186
+Veg Burger,Cloudy,Lunch,136
+Chicken Shawarma,Cloudy,Lunch,166
+Beef Shawarma,Cloudy,Lunch,179
+Chicken Wrap,Cloudy,Lunch,161
+Caesar Salad,Cloudy,Lunch,180
+Greek Salad,Cloudy,Breakfast,178
+Chicken Caesar Salad,Cloudy,Lunch,222
+Fried Rice,Cloudy,Lunch,191
+Chicken Fried Rice,Cloudy,Lunch,212
+Egg Fried Rice,Cloudy,Lunch,176
+Vegetable Fried Rice,Cloudy,Lunch,168
+Noodles,Cloudy,Lunch,162
+Chicken Noodles,Cloudy,Lunch,192
+Vegetable Noodles,Cloudy,Lunch,157
+Pasta Alfredo,Cloudy,Lunch,232
+Spicy Pasta,Cloudy,Lunch,215
+Mac & Cheese,Cloudy,Lunch,212
+Chicken Pizza,Cloudy,Dinner,268
+Beef Pizza,Cloudy,Dinner,301
+Veg Pizza,Cloudy,Dinner,237
+Margherita Pizza,Cloudy,Dinner,253
+BBQ Chicken Pizza,Cloudy,Dinner,310
+Beef Biryani,Cloudy,Dinner,235
+Chicken Biryani,Cloudy,Dinner,208
+Kacchi Biryani,Cloudy,Dinner,291
+Tehari,Cloudy,Dinner,177
+Khichuri,Cloudy,Dinner,158
+Mutton Curry,Cloudy,Dinner,274
+Chicken Curry,Cloudy,Dinner,202
+Beef Curry,Cloudy,Dinner,216
+Fish Curry,Cloudy,Breakfast,193
+Dal,Cloudy,Dinner,99
+Mixed Vegetables,Cloudy,Dinner,116
+Butter Naan,Cloudy,Dinner,50
+Garlic Naan,Cloudy,Dinner,60
+Chapati,Cloudy,Dinner,28
+Grilled Chicken,Cloudy,Dinner,247
+Tandoori Chicken,Cloudy,Dinner,276
+Chicken Wings,Cloudy,Dinner,232
+BBQ Platter,Cloudy,Dinner,429
+Steak,Cloudy,Dinner,391
+Soup,Cloudy,Dinner,115
+Tomato Soup,Cloudy,Dinner,118
+Chicken Corn Soup,Cloudy,Dinner,142
+Hot & Sour Soup,Cloudy,Dinner,143
+Cold Coffee,Cloudy,Lunch,123
+Coffee,Cloudy,Breakfast,73
+Cappuccino,Cloudy,Breakfast,117
+Latte,Cloudy,Breakfast,117
+Espresso,Cloudy,Breakfast,100
+Tea,Cloudy,Breakfast,36
+Milk Tea,Cloudy,Breakfast,54
+Green Tea,Cloudy,Breakfast,58
+Hot Chocolate,Cloudy,Breakfast,136
+Lemonade,Cloudy,Lunch,86
+Orange Juice,Cloudy,Breakfast,91
+Mango Juice,Cloudy,Lunch,110
+Apple Juice,Cloudy,Lunch,111
+Watermelon Juice,Cloudy,Lunch,100
+Milkshake,Cloudy,Dinner,156
+Chocolate Milkshake,Cloudy,Dinner,163
+Vanilla Milkshake,Cloudy,Dinner,155
+Faluda,Cloudy,Dinner,165
+Ice Cream,Cloudy,Dinner,107
+Brownie,Cloudy,Dinner,130
+Cheesecake,Cloudy,Dinner,197
+Chocolate Cake,Cloudy,Dinner,167
+Red Velvet Cake,Cloudy,Dinner,186
+Donut,Cloudy,Breakfast,71
+Muffin,Cloudy,Breakfast,80
+Paratha & Egg,Cold,Breakfast,92
+French Toast,Cold,Breakfast,113
+Pancakes,Cold,Breakfast,150
+Waffles,Cold,Breakfast,161
+Omelette,Cold,Breakfast,96
+Scrambled Eggs,Cold,Breakfast,99
+Boiled Egg Set,Cold,Breakfast,84
+Porridge,Cold,Breakfast,98
+Fruit Bowl,Cold,Lunch,139
+Yogurt Parfait,Cold,Breakfast,138
+Toast & Jam,Cold,Breakfast,69
+Butter Toast,Cold,Breakfast,69
+Croissant,Cold,Breakfast,96
+Breakfast Burrito,Cold,Breakfast,165
+Hash Browns,Cold,Breakfast,83
+Samosa,Cold,Dinner,42
+Singara,Cold,Breakfast,24
+Vegetable Roll,Cold,Breakfast,45
+Chicken Sandwich,Cold,Lunch,153
+Club Sandwich,Cold,Breakfast,170
+Grilled Cheese Sandwich,Cold,Lunch,128
+Chicken Burger,Cold,Lunch,166
+Beef Burger,Cold,Lunch,195
+Veg Burger,Cold,Lunch,139
+Chicken Shawarma,Cold,Lunch,169
+Beef Shawarma,Cold,Lunch,183
+Chicken Wrap,Cold,Lunch,165
+Caesar Salad,Cold,Lunch,184
+Greek Salad,Cold,Lunch,194
+Chicken Caesar Salad,Cold,Lunch,223
+Fried Rice,Cold,Lunch,195
+Chicken Fried Rice,Cold,Lunch,230
+Egg Fried Rice,Cold,Lunch,184
+Vegetable Fried Rice,Cold,Lunch,179
+Noodles,Cold,Lunch,177
+Chicken Noodles,Cold,Lunch,207
+Vegetable Noodles,Cold,Lunch,168
+Pasta Alfredo,Cold,Lunch,239
+Spicy Pasta,Cold,Lunch,225
+Mac & Cheese,Cold,Lunch,209
+Chicken Pizza,Cold,Dinner,282
+Beef Pizza,Cold,Dinner,305
+Veg Pizza,Cold,Dinner,245
+Margherita Pizza,Cold,Dinner,261
+BBQ Chicken Pizza,Cold,Dinner,314
+Beef Biryani,Cold,Dinner,243
+Chicken Biryani,Cold,Dinner,216
+Kacchi Biryani,Cold,Dinner,302
+Tehari,Cold,Dinner,195
+Khichuri,Cold,Dinner,167
+Mutton Curry,Cold,Dinner,280
+Chicken Curry,Cold,Dinner,215
+Beef Curry,Cold,Dinner,227
+Fish Curry,Cold,Dinner,198
+Dal,Cold,Dinner,106
+Mixed Vegetables,Cold,Dinner,132
+Butter Naan,Cold,Dinner,53
+Garlic Naan,Cold,Dinner,66
+Chapati,Cold,Dinner,36
+Grilled Chicken,Cold,Dinner,256
+Tandoori Chicken,Cold,Dinner,274
+Chicken Wings,Cold,Dinner,236
+BBQ Platter,Cold,Dinner,445
+Steak,Cold,Dinner,394
+Soup,Cold,Dinner,122
+Tomato Soup,Cold,Dinner,136
+Chicken Corn Soup,Cold,Dinner,158
+Hot & Sour Soup,Cold,Dinner,144
+Cold Coffee,Cold,Lunch,132
+Coffee,Cold,Breakfast,88
+Cappuccino,Cold,Breakfast,128
