@@ -197,12 +197,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-### Sopnil Ahmed Jahin
-
-- PhD Student
-- AI Enthusiast
-- Web Developer
-
+Farhad Chowdhury
+Antara Labiba
+Hasib Abdullah Zidan
 ---
 
 ## ⭐ Support
